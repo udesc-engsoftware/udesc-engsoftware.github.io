@@ -21,10 +21,10 @@ $body-font-color    : $text-color;
 $body-bg            : #fdfdfd;
 
 
-
-/* Corporate Identity Colorpalette
+/* ORIGINAL COLOR SCHEME BELOW
+   Corporate Identity Colorpalette
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
-------------------------------------------------------------------- */
+-------------------------------------------------------------------  */
 
 $ci-1               : #334D5C; // dark turquoise
 $ci-2               : #45B29D; // turquoise
@@ -33,6 +33,18 @@ $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #A1D044; // green
 
+
+
+/* Trying an alternative color scheme based on
+   https://color.adobe.com/pt/color%20theme_September%20Neutrals%20Procreate%20Color%20Palette%20_%20Ipad%20Procreate%20Swatches%20_%20Instant%20Download%20_%20Fall%20Colors%20_%20Autumn%20Colors%20_%20Warm%20Tones-color-theme-18178501/
+------------------------------------------------------------------- 
+
+$ci-1               : #2A3340; // dark turquoise / botoes, caixas de texto
+$ci-2               : #BF8C6F; // turquoise / opcoes do menu exibidas desktop
+$ci-3               : #B4B4AA; // yellow
+$ci-4               : #5F6D73; // orange
+$ci-5               : #A6654E; // red 
+$ci-6               : #D9CBBF; // green / opcoes do menu selecionado (desktop) ou exibidas (mobile)
 
 
 /* Foundation Color Variables
