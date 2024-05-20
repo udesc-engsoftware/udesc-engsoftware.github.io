@@ -5,7 +5,7 @@ title               : "Engenharia de Sotware"
 subheadline         : "Bacharelado em Engenharia de Software"
 teaser              : "Curso de Engenharia de Software"
 header:
-   image_fullwidth  : "header_homepage_13.jpg"
+   image_fullwidth  : "banner-site.png"
 permalink           : "/getting-started/"
 ---
 # Sobre o Curso
