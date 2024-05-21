@@ -4,9 +4,9 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: frontpage
+layout: 
 header:
-  image_fullwidth: banner-site.png
+  image_fullwidth: logo.png
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
