@@ -1,12 +1,12 @@
 ---
 layout              : page
 show_meta           : false
-title               : "Engenharia de Sotware"
-subheadline         : "Bacharelado em Engenharia de Software"
-teaser              : "Curso de Engenharia de Software"
+title               : ""
+subheadline         : "Conheça o curso de Engenharia de Software"
+teaser              : ""
 header:
-   image_fullwidth  : "banner-site.png"
-permalink           : "/getting-started/"
+   image_fullwidth  : "logo.png"
+permalink           : "/curso/sobre/"
 ---
 # Sobre o Curso
 
@@ -21,8 +21,5 @@ O curso possui um conjunto de disciplinas básicas como a matemática e sua apli
 *Escritório modelo de desenvolvimento de software:* é um laboratório que visa permitir que os alunos vivenciem um ambiente real de desenvolvimento de software dentro da universidade. Além disso, é adequado para a pesquisa e foca em práticas para garantir a qualidade e a padronização das atividades de engenharia e auxiliar no desenvolvimento e gestão de softwares para outras instituições públicas e/ou privadas, ou para outras instituições e também à Udesc.
 
 *Ensino lúdico de robótica:* o projeto tem como objetivo capacitar alunos no desenvolvimento do pensamento computacional, através da construção e programação de robôs elaborados com kits Lego. As atividades são realizadas com alunos do ensino fundamental e médio de escolas da região.
-
-<a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
-
 
  [1]: {{ site.url }}{{ site.baseurl }}/documentation/
