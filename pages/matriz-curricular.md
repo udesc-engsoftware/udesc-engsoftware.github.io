@@ -6,7 +6,7 @@ subheadline: "Matriz Curricular"
 teaser: ""
 header:
    image_fullwidth: "logo.png"
-permalink: "/curso/matriz-curricular"
+permalink: "/curso/matriz-curricular/"
 ---
 
 ### 1ª Fase:
