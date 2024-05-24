@@ -23,11 +23,11 @@ Compreender as estruturas elementares aplicadas à construção de programas de 
 
 DEITEL, H. M.; DEITEL, P. J. Java :como programar. 10ª ed., Porto Alegre: Pearson, 2017
 
-Dilermando Piva Jr. Algoritmos e programação de computadores - 2. ed. - Rio de Janeiro : Elsevier, 2019. Disponível em: https://app.minhabiblioteca.com.br/books/9788595150508. Acesso em: 31 mar. 2022 
+Dilermando Piva Jr. Algoritmos e programação de computadores - 2. ed. - Rio de Janeiro : Elsevier, 2019. Disponível em: https://app.minhabiblioteca.com.br/books/9788595150508. Acesso em: 31 mar. 2022. 
 
-Manzano, José Augusto N. G. Programação de computadores com Java - 1. ed. São Paulo : Érica, 2014.  Disponível em: https://app.minhabiblioteca.com.br/books/9788536519494. Acesso em: 31 mar. 2022
+Manzano, José Augusto N. G. Programação de computadores com Java - 1. ed. São Paulo : Érica, 2014.  Disponível em: https://app.minhabiblioteca.com.br/books/9788536519494. Acesso em: 31 mar. 2022.
 
-MEDEIROS NETO, Camilo Lopes de. TDD na prática: test driven development. Rio de Janeiro: Ciência Moderna, 2012. 116 p 
+MEDEIROS NETO, Camilo Lopes de. TDD na prática: test driven development. Rio de Janeiro: Ciência Moderna, 2012. 116 p. 
 
 #### **Bibliografia Complementar**
 
@@ -39,9 +39,9 @@ SANTOS, R. Introdução à Programação Orientada a Objetos Usando JAVA. Rio de
 
 FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação: a Construção de Algoritmos e Estruturas de Dados. São Paulo: Makron Books, 2005. 
 
-SEBESTA, Robert W. Conceitos de linguagens de programação – 11. ed. – Porto Alegre : Bookman, 2018. Disponível em: https://app.minhabiblioteca.com.br/books/9788582604694. Acesso em: 31 mar. 2022 
+SEBESTA, Robert W. Conceitos de linguagens de programação – 11. ed. – Porto Alegre : Bookman, 2018. Disponível em: https://app.minhabiblioteca.com.br/books/9788582604694. Acesso em: 31 mar. 2022.
 
-https://app.minhabiblioteca.com.br/#/books/9788533500426/. Acesso em: 0731 Maymar. 2021 
+https://app.minhabiblioteca.com.br/#/books/9788533500426/. Acesso em: 0731 Maymar. 2021. 
 
 LIMA, A. S. UML 2.0: do requisito à solução. 3.ed. São Paulo: Érica, 2008. 
 

@@ -16,10 +16,14 @@ permalink: "/curso/matriz-curricular"
 <br>
 [15FES][15fes] - Fundamentos de Engenharia de Software
 <br>
-15MAT - Tópicos em Matemática Básica e Lógica Matemática
+[15MAT][15mat] - Tópicos em Matemática Básica e Lógica Matemática
 <br>
-15PRS - Processos
+[15PRS][15prs] - Processos
 
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
+[15mat]: {{site.url}}/curso/matriz-curricular/15mat
+[15prs]: {{site.url}}/curso/matriz-curricular/15prs
+
+
 

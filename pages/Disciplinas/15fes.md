@@ -25,7 +25,7 @@ MORAIS, I. S. ZANIN, A. Engenharia de Software. Porto Alegre: Sagah, 2017. Dispo
 
 PRESSMAN, Roger S.; MAXIM, Bruce R. Engenharia de software [recurso eletrônico]. 9. ed. – Porto Alegre: AMGH, 2021. E-pub. Disponível em: https://app.minhabiblioteca.com.br/#/books/9786558040118/. Acesso em: 3124 mar. 2022. 
 
-SOMMERVILLE, I. Engenharia de software. 9. ed. São Paulo: Pearson, 2011  
+SOMMERVILLE, I. Engenharia de software. 9. ed. São Paulo: Pearson, 2011.  
 
 #### **Bibliografia Complementar** 
 
