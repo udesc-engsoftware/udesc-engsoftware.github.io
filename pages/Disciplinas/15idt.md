@@ -21,29 +21,29 @@ Compreender as estruturas elementares aplicadas à construção de programas de 
 
 #### **Bibliografia Básica**
 
->DEITEL, H. M.; DEITEL, P. J. Java :como programar. 10ª ed., Porto Alegre: Pearson, 2017
-<br>
->Dilermando Piva Jr. Algoritmos e programação de computadores - 2. ed. - Rio de Janeiro : Elsevier, 2019. Disponível em: https://app.minhabiblioteca.com.br/books/9788595150508. Acesso em: 31 mar. 2022 
-<br>
->Manzano, José Augusto N. G. Programação de computadores com Java - 1. ed. São Paulo : Érica, 2014.  Disponível em: https://app.minhabiblioteca.com.br/books/9788536519494. Acesso em: 31 mar. 2022
-<br>
->MEDEIROS NETO, Camilo Lopes de. TDD na prática: test driven development. Rio de Janeiro: Ciência Moderna, 2012. 116 p 
+DEITEL, H. M.; DEITEL, P. J. Java :como programar. 10ª ed., Porto Alegre: Pearson, 2017
+
+Dilermando Piva Jr. Algoritmos e programação de computadores - 2. ed. - Rio de Janeiro : Elsevier, 2019. Disponível em: https://app.minhabiblioteca.com.br/books/9788595150508. Acesso em: 31 mar. 2022 
+
+Manzano, José Augusto N. G. Programação de computadores com Java - 1. ed. São Paulo : Érica, 2014.  Disponível em: https://app.minhabiblioteca.com.br/books/9788536519494. Acesso em: 31 mar. 2022
+
+MEDEIROS NETO, Camilo Lopes de. TDD na prática: test driven development. Rio de Janeiro: Ciência Moderna, 2012. 116 p 
 
 #### **Bibliografia Complementar**
 
->WAZLAWICK, Raul Sidnei. Introdução a algoritmos e programação com python: uma abordagem dirigida por testes. Rio de Janeiro: Elsevier, 2018. xv, 214 p. (SBC: Sociedade Brasileira de Computação). ISBN 9788535290516 (broch.). 
+WAZLAWICK, Raul Sidnei. Introdução a algoritmos e programação com python: uma abordagem dirigida por testes. Rio de Janeiro: Elsevier, 2018. xv, 214 p. (SBC: Sociedade Brasileira de Computação). ISBN 9788535290516 (broch.). 
 
->MOLINARI, Leonardo. Testes funcionais de Software. Florianópolis: Visual Books, 2008. 
+MOLINARI, Leonardo. Testes funcionais de Software. Florianópolis: Visual Books, 2008. 
 
->SANTOS, R. Introdução à Programação Orientada a Objetos Usando JAVA. Rio de Janeiro: Campus, 2003. 
+SANTOS, R. Introdução à Programação Orientada a Objetos Usando JAVA. Rio de Janeiro: Campus, 2003. 
 
->FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação: a Construção de Algoritmos e Estruturas de Dados. São Paulo: Makron Books, 2005. 
+FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação: a Construção de Algoritmos e Estruturas de Dados. São Paulo: Makron Books, 2005. 
 
->SEBESTA, Robert W. Conceitos de linguagens de programação – 11. ed. – Porto Alegre : Bookman, 2018. Disponível em: https://app.minhabiblioteca.com.br/books/9788582604694. Acesso em: 31 mar. 2022 
+SEBESTA, Robert W. Conceitos de linguagens de programação – 11. ed. – Porto Alegre : Bookman, 2018. Disponível em: https://app.minhabiblioteca.com.br/books/9788582604694. Acesso em: 31 mar. 2022 
 
->https://app.minhabiblioteca.com.br/#/books/9788533500426/. Acesso em: 0731 Maymar. 2021 
+https://app.minhabiblioteca.com.br/#/books/9788533500426/. Acesso em: 0731 Maymar. 2021 
 
->LIMA, A. S. UML 2.0: do requisito à solução. 3.ed. São Paulo: Érica, 2008. 
+LIMA, A. S. UML 2.0: do requisito à solução. 3.ed. São Paulo: Érica, 2008. 
 
 #### **Metodologia Sugerida**
 
