@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "logo.png"
-permalink: "/curso/matriz-curricular/15fes"
+permalink: "/curso/matriz-curricular/15fes/"
 ---
 
 ### Fundamentos de Engenharia de Software (FES)

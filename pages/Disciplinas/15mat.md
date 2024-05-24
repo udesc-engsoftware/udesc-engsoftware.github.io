@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "logo.png"
-permalink: "/curso/matriz-curricular/15mat"
+permalink: "/curso/matriz-curricular/15mat/"
 ---
 
 ### Tópicos em Matemática Básica e Lógica Matemática (MAT)

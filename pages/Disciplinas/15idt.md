@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "logo.png"
-permalink: "/curso/matriz-curricular/15idt"
+permalink: "/curso/matriz-curricular/15idt/"
 ---
 
 ### Introdução ao Desenvolvimento de Software e Testes (IDT)
