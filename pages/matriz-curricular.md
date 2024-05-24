@@ -14,11 +14,12 @@ permalink: "/curso/matriz-curricular"
 
 [15IDT][15idt] - Introdução ao Desenvolvimento de Software e Testes
 <br>
-15FES - Fundamentos de Engenharia de Software
+[15FES][15fes] - Fundamentos de Engenharia de Software
 <br>
 15MAT - Tópicos em Matemática Básica e Lógica Matemática
 <br>
 15PRS - Processos
 
-[15idt]: {{site.url}}/curso/matriz-curricular/15idt
+[15idt]: {{site.url}}/curso/matriz-curricular/15idt 
+[15fes]: {{site.url}}/curso/matriz-curricular/15fes
 
