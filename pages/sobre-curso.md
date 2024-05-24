@@ -23,4 +23,4 @@ O curso possui um conjunto de disciplinas básicas como a matemática e sua apli
 
 *Ensino lúdico de robótica:* o projeto tem como objetivo capacitar alunos no desenvolvimento do pensamento computacional, através da construção e programação de robôs elaborados com kits Lego. As atividades são realizadas com alunos do ensino fundamental e médio de escolas da região.
 
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
+
