@@ -41,7 +41,7 @@ FORBELLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação: a Construçã
 
 SEBESTA, Robert W. Conceitos de linguagens de programação – 11. ed. – Porto Alegre : Bookman, 2018. Disponível em: https://app.minhabiblioteca.com.br/books/9788582604694. Acesso em: 31 mar. 2022.
 
-https://app.minhabiblioteca.com.br/#/books/9788533500426/. Acesso em: 0731 Maymar. 2021. 
+da Silva, S.F. M. Paradigmas de programação. Porto Alegre: SAGAH, 2019. 9788533500426. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788533500426/. Acesso em: 0731 Maymar. 2021.
 
 LIMA, A. S. UML 2.0: do requisito à solução. 3.ed. São Paulo: Érica, 2008. 
 
