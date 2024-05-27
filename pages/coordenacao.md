@@ -3,7 +3,7 @@ layout              : page
 show_meta           : false
 title               : ""
 subheadline         : ""
-meta_title          : "Notícias"
+meta_title          : "Coordenação"
 teaser              : ""
 header:
    image_fullwidth  : "logo.png"
