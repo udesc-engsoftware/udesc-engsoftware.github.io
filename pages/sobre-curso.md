@@ -11,7 +11,7 @@ permalink           : "/curso/sobre/"
 ---
 ## Sobre o Curso
 
-O curso de **Bacharelado em Engenharia de Software** visa formar profissionais aptos a produzir sistemas de alta qualidade, softwares seguros e de alto desempenho para as diversas áreas de negócio. A formação permite ao egresso desempenhar com plenitude suas atribuições profissionais com base em quatro pilares: competência técnica, multidisciplinaridade, postura ética e comportamento empreendedor
+O curso de **Bacharelado em Engenharia de Software** visa formar profissionais aptos a produzir sistemas de alta qualidade, softwares seguros e de alto desempenho para as diversas áreas de negócio. A formação permite ao egresso desempenhar com plenitude suas atribuições profissionais com base em quatro pilares: competência técnica, multidisciplinaridade, postura ética e comportamento empreendedor.
 
 ## O que estuda?
 
