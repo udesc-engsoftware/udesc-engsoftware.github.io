@@ -11,13 +11,15 @@ permalink: "/curso/matriz-curricular/25req/"
 
 ### **Requisitos de Software (REQ)**
 
-| Aplicar (maior aprofundamento) || <class style="color: green">Entender</class> || <class style="color: blue">Conhecer (menor aprofundamento)</class> |
-
-(Na ementa, as cores acima indicam o aprofundamento dos tópicos)
-
 #### **Ementa**
 
 Processo de Engenharia de Requisitos. Definição de Requisitos. Requisitos Funcionais, Requisitos Não Funcionais, Regras de Negócio. Especificação do Documento de Viabilidade Técnica do Projeto. Identificação de Fontes de Informação. Elicitação de Requisitos. <class style="color: green">Requisitos Ambientais, de Igualdade e Diversidade.</class> Especificação de Requisitos: nível usuário, nível sistema. Rastreabilidade. Gerenciamento de Requisitos. Modelagem de Requisitos: Diagramas de Casos de Uso, de Atividades, de Estados e de Classes. Análise de Requisitos. Verificação de Requisitos. Prototipação. Validação de Requisitos. Negociação de Requisitos. Especificação de Requisitos em Casos de Uso (Caso de Uso estendidos). Ferramentas CASE para a Engenharia de Requisitos. *Nessa disciplina, serão executadas Atividades Curriculares de Extensão.*
+
+| Carga Horária | 
+| :------: | :------: | :------: | :------: |
+| Teórica | Prática | Extensão | Total |
+| :------: | :------: | :------: | :------: |
+| 2 | 1 | 1 | 4|
 
 ### **Bibliografia Básica**
 

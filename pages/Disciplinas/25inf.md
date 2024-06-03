@@ -11,13 +11,15 @@ permalink: "/curso/matriz-curricular/25inf/"
 
 ### **Infraestruturas Computacionais (INF)**
 
-| Aplicar (maior aprofundamento) || <class style="color: green">Entender</class> || <class style="color: blue">Conhecer (menor aprofundamento)</class> |
-
-(Na ementa, as cores acima indicam o aprofundamento dos tópicos)
-
 #### **Ementa**
 
 <class style="color: blue">Organização e Arquitetura de Computadores. Sistemas Operacionais. Redes de Computadores. Sistemas numéricos. Lógica digital. Sistemas lógicos. Organização de computadores. Barramento, comunicações, interfaces e periféricos. Organização de memória. Representação de dados no nível de máquina. Multiprocessadores e arquiteturas interativas. Princípios e visão geral de sistemas operacionais. Gerência de processos/processador. gerenciamento de memória. Sistemas de arquivos. Gerenciamento de dispositivos de entrada/saída. Topologias. Protocolos e serviços de comunicação (incluindo TCP/IP). Tendências em redes de computadores.</class>
+
+| Carga Horária | 
+| :------: | :------: | :------: | :------: |
+| Teórica | Prática | Extensão | Total |
+| :------: | :------: | :------: | :------: |
+| 4 | - | - | 4|
 
 #### **Bibliografia Básica**
 

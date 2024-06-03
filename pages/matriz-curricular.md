@@ -9,6 +9,12 @@ header:
 permalink: "/curso/matriz-curricular/"
 ---
 
+##### *Legenda dos Conteúdos das Disciplinas*
+
+- Preto: maior aprofundamento do conteúdo;
+- <class style="color: green">Verde: entender o conteúdo;</class>
+- <class style="color: blue">Azul: menor aprofundamento do conteúdo.</class>
+
 ### 1ª Fase:
 ###### **Sigla/Disciplina**
 
