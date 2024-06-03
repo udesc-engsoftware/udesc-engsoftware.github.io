@@ -39,16 +39,35 @@ permalink: "/curso/matriz-curricular/"
 <br>
 [25BD1][25bd1] - Modelagem de Dados
 
+### 3ª Fase:
+###### **Sigla/Disciplina**
+
+[35DOO2][35doo2] - Desenvolvimento de Software Orientado a Objetos II
+<br>
+[35TES][35tes] - Testes de Software
+<br>
+[35IHC][35ihc] - Interface Humano-Computador
+<br>
+[35MDI][35mdi] - Matemática Discreta
+<br>
+[35BD2][35bd2] - Persistência de Dados
 
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
 [15mat]: {{site.url}}/curso/matriz-curricular/15mat
 [15prs]: {{site.url}}/curso/matriz-curricular/15prs
+
 [25doo1]: {{site.url}}/curso/matriz-curricular/25doo1
 [25req]: {{site.url}}/curso/matriz-curricular/25req
 [25inf]: {{site.url}}/curso/matriz-curricular/25inf
 [25cmp]: {{site.url}}/curso/matriz-curricular/25cmp
 [25bd1]: {{site.url}}/curso/matriz-curricular/25bd1
+
+[35doo2]: {{site.url}}/curso/matriz-curricular/35doo2
+[35tes]: {{site.url}}/curso/matriz-curricular/35tes
+[35ihc]: {{site.url}}/curso/matriz-curricular/35ihc
+[35mdi]: {{site.url}}/curso/matriz-curricular/35mdi
+[35bd2]: {{site.url}}/curso/matriz-curricular/35bd2
 
 
 
