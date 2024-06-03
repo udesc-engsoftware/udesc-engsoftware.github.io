@@ -38,11 +38,11 @@ permalink: "/curso/matriz-curricular/"
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
 [15mat]: {{site.url}}/curso/matriz-curricular/15mat
 [15prs]: {{site.url}}/curso/matriz-curricular/15prs
-[25doo1]: {{site.url}}/curso/matrizcurricular/25doo1
-[25req]: {{site.url}}/curso/matrizcurricular/25req
-[25inf]: {{site.url}}/curso/matrizcurricular/25inf
-[25cmp]: {{site.url}}/curso/matrizcurricular/25cmp
-[25bd1]: {{site.url}}/curso/matrizcurricular/25bd1
+[25doo1]: {{site.url}}/curso/matriz-curricular/25doo1
+[25req]: {{site.url}}/curso/matriz-curricular/25req
+[25inf]: {{site.url}}/curso/matriz-curricular/25inf
+[25cmp]: {{site.url}}/curso/matriz-curricular/25cmp
+[25bd1]: {{site.url}}/curso/matriz-curricular/25bd1
 
 
 
