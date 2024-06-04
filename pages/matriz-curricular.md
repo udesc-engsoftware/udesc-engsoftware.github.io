@@ -52,6 +52,19 @@ permalink: "/curso/matriz-curricular/"
 <br>
 [35BD2][35bd2] - Persistência de Dados
 
+### 4ª Fase:
+###### **Sigla/Disciplina**
+
+[45PRJ][45prj] - Projeto de Software
+<br>
+[45EST][45est] - Probabilidade e Estatística
+<br>
+[45RPE][45rpe] - Resolução de Problemas com Estruturas de Dados
+<br>
+[45DIU][45diu] - Desenvolvimento de Interface de Usuário
+<br>
+[45QUA][45qua] - Qualidade de Software
+
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
 [15mat]: {{site.url}}/curso/matriz-curricular/15mat
@@ -68,6 +81,12 @@ permalink: "/curso/matriz-curricular/"
 [35ihc]: {{site.url}}/curso/matriz-curricular/35ihc
 [35mdi]: {{site.url}}/curso/matriz-curricular/35mdi
 [35bd2]: {{site.url}}/curso/matriz-curricular/35bd2
+
+[45prj]: {{site.url}}/curso/matriz-curricular/45prj
+[45est]: {{site.url}}/curso/matriz-curricular/45est
+[45rpe]: {{site.url}}/curso/matriz-curricular/45rpe
+[45diu]: {{site.url}}/curso/matriz-curricular/45diu
+[45qua]: {{site.url}}/curso/matriz-curricular/45qua
 
 
 
