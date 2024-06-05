@@ -65,6 +65,19 @@ permalink: "/curso/matriz-curricular/"
 <br>
 [45QUA][45qua] - Qualidade de Software
 
+### 5ª Fase:
+###### **Sigla/Disciplina**
+
+[55PPR][55ppr] - Padrões de Projeto
+<br>
+[55DWEB][55dweb] - Desenvolvimento de Software Web
+<br>
+[55ESE][55ese] - Engenharia de Software Experimental
+<br>
+[55IA][55ia] - Inteligência Artificial
+<br>
+[55GPR][55gpr] - Gerência de Projetos
+
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
 [15mat]: {{site.url}}/curso/matriz-curricular/15mat
@@ -87,6 +100,13 @@ permalink: "/curso/matriz-curricular/"
 [45rpe]: {{site.url}}/curso/matriz-curricular/45rpe
 [45diu]: {{site.url}}/curso/matriz-curricular/45diu
 [45qua]: {{site.url}}/curso/matriz-curricular/45qua
+
+[55ppr]: {{site.url}}/curso/matriz-curricular/55ppr
+[55dweb]: {{site.url}}/curso/matriz-curricular/55dweb
+[55ese]: {{site.url}}/curso/matriz-curricular/55ese
+[55ia]: {{site.url}}/curso/matriz-curricular/55ia
+[55gpr]: {{site.url}}/curso/matriz-curricular/55gpr
+
 
 
 
