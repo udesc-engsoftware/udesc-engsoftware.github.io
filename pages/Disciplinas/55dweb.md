@@ -19,7 +19,7 @@ Engenharia de software para Web. Visão geral de arquiteturas de aplicações We
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 2 | 1 | 1 | 4|
+| 2 | 1 | 1 | 4 |
 
 #### **Pré-Requisito:**
 

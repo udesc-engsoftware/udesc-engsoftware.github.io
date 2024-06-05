@@ -19,7 +19,7 @@ permalink: "/curso/matriz-curricular/45prj/"
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 2 | 2 | - | 4|
+| 2 | 2 | - | 4 |
 
 #### **Bibliografia Básica**
 

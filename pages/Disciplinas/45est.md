@@ -19,7 +19,7 @@ permalink: "/curso/matriz-curricular/45est/"
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 4 | - | - | 4|
+| 4 | - | - | 4 |
 
 #### **Bibliografia Básica**
 

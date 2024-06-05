@@ -19,7 +19,7 @@ Conceitos básicos de Interação Humano-Computador (IHC): Usuários, Interfaces
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 2 | 2 | - | 4|
+| 2 | 2 | - | 4 |
 
 #### **Bibliografia Básica**
 

@@ -19,7 +19,7 @@ Fundamentos de Testes de Software. Níveis de Testes: Testes de Unidade, Test-dr
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 2 | 2 | - | 4|
+| 2 | 2 | - | 4 |
 
 #### **Bibliografia Básica**
 

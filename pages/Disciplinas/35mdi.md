@@ -19,7 +19,7 @@ permalink: "/curso/matriz-curricular/35mdi/"
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 4 | - | - | 4|
+| 4 | - | - | 4 |
 
 #### **Pré-Requisito:**
 

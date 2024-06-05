@@ -19,7 +19,7 @@ Métodos Quantitativos em Computação. Conhecimento científico. Método cient�
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 4 | - | - | 4|
+| 4 | - | - | 4 |
 
 #### **Pré-Requisito:**
 

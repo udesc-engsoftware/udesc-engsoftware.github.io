@@ -19,7 +19,7 @@ Processo de Engenharia de Requisitos. Definição de Requisitos. Requisitos Func
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 2 | 1 | 1 | 4|
+| 2 | 1 | 1 | 4 |
 
 ### **Bibliografia Básica**
 

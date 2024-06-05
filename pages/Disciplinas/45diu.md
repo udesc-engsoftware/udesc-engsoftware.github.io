@@ -19,7 +19,7 @@ Tecnologias e Especificações/Guidelines para Desenvolvimento de Interfaces de 
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 2 | 2 | - | 4|
+| 2 | 2 | - | 4 |
 
 #### **Bibliografia Básica**
 

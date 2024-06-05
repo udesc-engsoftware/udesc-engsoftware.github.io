@@ -19,7 +19,7 @@ permalink: "/curso/matriz-curricular/55gpr/"
 | :------: | :------: | :------: | :------: |
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
-| 2 | 1 | 1 | 4|
+| 2 | 1 | 1 | 4 |
 
 #### **Bibliografia Básica**
 

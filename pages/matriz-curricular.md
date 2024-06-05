@@ -78,6 +78,32 @@ permalink: "/curso/matriz-curricular/"
 <br>
 [55GPR][55gpr] - Gerência de Projetos
 
+### 6ª Fase:
+###### **Sigla/Disciplina**
+
+[65ARQ][65arq] - Arquitetura de Software
+<br>
+[65DDM][65ddm] - Desenvolvimento de Software para Dispositivos Móveis
+<br>
+[65DVP][65dvp] - DevOps
+<br>
+[65PIN1][65pin1] - Projeto Integrador I
+<br>
+65OPT - Disciplina Optativa
+
+### 7ª Fase:
+###### **Sigla/Disciplina**
+
+[75POT] - Pesquisa Operacional e Otimização
+<br>
+[75GIN] - Gestão da Inovação em Engenharia de Software
+<br>
+[75PIN2] - Projeto Integrador II
+<br>
+75OPT - Disciplina Optativa
+<br>
+[75TCC1] - Trabalho de Conclusão de Curso I
+
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
 [15mat]: {{site.url}}/curso/matriz-curricular/15mat
@@ -106,6 +132,17 @@ permalink: "/curso/matriz-curricular/"
 [55ese]: {{site.url}}/curso/matriz-curricular/55ese
 [55ia]: {{site.url}}/curso/matriz-curricular/55ia
 [55gpr]: {{site.url}}/curso/matriz-curricular/55gpr
+
+[65arq]: {{site.url}}/curso/matriz-curricular/65arq
+[65ddm]: {{site.url}}/curso/matriz-curricular/65ddm
+[65dvp]: {{site.url}}/curso/matriz-curricular/65dvp
+[65pin1]: {{site.url}}/curso/matriz-curricular/65pin1
+
+[75pot]: {{site.url}}/curso/matriz-curricular/75pot
+[75gin]: {{site.url}}/curso/matriz-curricular/75gin
+[75pin2]: {{site.url}}/curso/matriz-curricular/75pin2
+[75tcc1]: {{site.url}}/curso/matriz-curricular/75tcc1
+
 
 
 
