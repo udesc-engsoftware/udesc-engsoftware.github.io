@@ -104,6 +104,19 @@ permalink: "/curso/matriz-curricular/"
 <br>
 [75TCC1] - Trabalho de Conclusão de Curso I
 
+### 8ª Fase:
+###### **Sigla/Disciplina**
+
+[85EMP][85emp] - Empreendedorismo em Engenharia de Software
+<br>
+[85ASL][85asl] - Aspectos Sociais e Legais da Engenharia de Software
+<br>
+[85SIS][85sis] - Sistemas de Informação
+<br>
+[85DCD][85dcd] - Desenvolvimento de Software Concorrente e Distribuido
+<br>
+[85TCC2][85tcc2] - Trabalho de Conclusão de Curso II
+
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
 [15mat]: {{site.url}}/curso/matriz-curricular/15mat
@@ -143,7 +156,11 @@ permalink: "/curso/matriz-curricular/"
 [75pin2]: {{site.url}}/curso/matriz-curricular/75pin2
 [75tcc1]: {{site.url}}/curso/matriz-curricular/75tcc1
 
-
+[85emp]: {{site.url}}/curso/matriz-curricular/85emp
+[85asl]: {{site.url}}/curso/matriz-curricular/85asl
+[85sis]: {{site.url}}/curso/matriz-curricular/85sis
+[85dcd]: {{site.url}}/curso/matriz-curricular/85dcd
+[85tcc2]: {{site.url}}/curso/matriz-curricular/85tcc2
 
 
 
