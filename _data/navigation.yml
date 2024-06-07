@@ -22,13 +22,13 @@
     url: "/curso/coordenacao/"
 
 - title: "Bancas de TCCs"
-  url: "/design/"
+  url: "/banca-tcc/"
   side: left
 
 - title: "Professores"
-  url: "/headers/"
+  url: "/professores/"
   side: left
 
 - title: "Contato"
-  url: "/contact/"
+  url: "/contato/"
   side: right
