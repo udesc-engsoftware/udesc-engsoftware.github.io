@@ -1,10 +1,12 @@
 ---
-layout: page-fullwidth
-title: ""
-meta_title: "Professores"
-subheadline: ""
-teaser: ""
+layout              : page
+show_meta           : false
+title               : ""
+subheadline         : ""
+meta_title          : "Professores"
+teaser              : ""
 header:
-   image_fullwidth: "logo.png"
-permalink: "/professores/"
+   image_fullwidth  : "logo.png"
+permalink           : "/professores/"
 ---
+ 
