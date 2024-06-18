@@ -9,7 +9,7 @@ header:
 permalink: "/professores/"
 ---
 
-# Professores
+<h1 style="text-align: center; color: black;">Professores</h1>
 
 <style>
 .card-container {
@@ -52,8 +52,8 @@ permalink: "/professores/"
 }
 </style>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div class="card-container">
 <div class="card position-fixed" style="width: 16rem; top: 180px; margin-left: 4px; background-color: #D9D9D9; cursor: pointer;">
   <a href="/professores/pablo-schoeffel/" style="text-decoration: none; color: inherit;">
   <img class="img-resposive" src="{{site.urlimg}}foto-professor-pablo.jpg"/>
