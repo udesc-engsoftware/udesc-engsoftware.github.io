@@ -15,23 +15,21 @@ permalink: "/professores/pablo-schoeffel/"
 
 ### **Formação acadêmica**
 
-- Doutorado em Ciência da Computação na UFSC;
-- Mestrado em Computação Aplicada na UNIVALI (SC) na área da Engenharia de Software;
-- Graduação em Ciência da Computação (FURB).
+- Doutorado em Ciência da Computação na UFSC.
 
-### **Atuação em Ensino**
+### **Ensino**
 
 Disciplinas nas áreas de Engenharia de Software, Gerenciamento de Projetos, Qualidade de Software e Engenharia de Software Experimental.
 
-### **Atuação em Pesquisa**
+### **Pesquisa**
 
 Pesquisa e interesse em Educação em Computação, Informática na Educação, Gerenciamento de Projetos e Tecnologia no Esporte.
 
-### **Atuação em Extensão**
+### **Extensão**
 
 Coordenador de Projetos na área de Ensino de Pensamento Computacional para Educação Básica, Interação Universidade-Escola e Prática Esportiva (Badminton).
 
-### **Informações adicionais**
+### **Outras informações**
 
 Atualmente é Diretor de Extensão, Cultura e Comunidade da UDESC Alto Vale.
 
