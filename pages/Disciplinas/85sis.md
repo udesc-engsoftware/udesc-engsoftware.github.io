@@ -5,7 +5,7 @@ meta_title: "85SIS"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site.png"
 permalink: "/curso/matriz-curricular/85sis/"
 ---
 

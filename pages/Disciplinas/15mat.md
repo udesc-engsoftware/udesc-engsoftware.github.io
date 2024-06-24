@@ -5,7 +5,7 @@ meta_title: "I5MAT"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site.png"
 permalink: "/curso/matriz-curricular/15mat/"
 ---
 
