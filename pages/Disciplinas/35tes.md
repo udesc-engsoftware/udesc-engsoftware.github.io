@@ -5,7 +5,7 @@ meta_title: "35TES"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "banner-site.png"
+   image_fullwidth: "logo.png"
 permalink: "/curso/matriz-curricular/35tes/"
 ---
 

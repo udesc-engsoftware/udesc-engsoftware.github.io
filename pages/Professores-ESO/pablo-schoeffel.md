@@ -5,7 +5,7 @@ meta_title: "Pablo Schoeffel"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "banner-site.png"
+   image_fullwidth: "logo.png"
 permalink: "/professores/pablo-schoeffel/"
 ---
 

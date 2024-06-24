@@ -5,7 +5,7 @@ meta_title: "Fernando dos Santos"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "banner-site.png"
+   image_fullwidth: "logo.png"
 permalink: "/professores/fernando-santos/"
 ---
 

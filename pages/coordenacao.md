@@ -6,7 +6,7 @@ subheadline         : ""
 meta_title          : "Coordenação"
 teaser              : ""
 header:
-   image_fullwidth  : "banner-site.png"
+   image_fullwidth  : "logo.png"
 permalink           : "/curso/coordenacao/"
 ---
 

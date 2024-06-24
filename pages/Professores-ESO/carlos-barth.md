@@ -5,7 +5,7 @@ meta_title: "Carlos Alberto Barth"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "banner-site.png"
+   image_fullwidth: "logo.png"
 permalink: "/professores/carlos-barth/"
 ---
 

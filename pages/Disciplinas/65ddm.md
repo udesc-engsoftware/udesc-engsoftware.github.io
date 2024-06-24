@@ -5,7 +5,7 @@ meta_title: "65DDM"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "banner-site.png"
+   image_fullwidth: "logo.png"
 permalink: "/curso/matriz-curricular/65ddm/"
 ---
 
