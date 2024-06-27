@@ -42,7 +42,7 @@ urlimg: 'https://udesc-engsoftware.github.io/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "lbanner-site.png"
+logo: "banner-site.png"
 
 # Plugins
 plugins:
