@@ -6,7 +6,7 @@ subheadline         : ""
 meta_title          : "Objetivos do curso"
 teaser              : ""
 header:
-   image_fullwidth  : "banner-site.png"
+   image_fullwidth  : "banner.png"
 permalink           : "/curso/objetivos/"
 ---
 

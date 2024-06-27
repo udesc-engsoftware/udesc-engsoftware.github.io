@@ -6,7 +6,7 @@ subheadline         : ""
 meta_title          : "Perfil Profissional"
 teaser              : ""
 header:
-   image_fullwidth  : "banner-site.png"
+   image_fullwidth  : "banner.png"
 permalink           : "/curso/perfil-profissional/"
 ---
 

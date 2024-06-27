@@ -5,7 +5,7 @@ meta_title: "Matriz Curricular"
 subheadline: "Matriz Curricular"
 teaser: ""
 header:
-   image_fullwidth: "banner-site.png"
+   image_fullwidth: "banner.png"
 permalink: "/curso/matriz-curricular/"
 ---
 
