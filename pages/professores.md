@@ -5,7 +5,7 @@ meta_title: "Professores"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "banner.png"
+   image_fullwidth: "logo.png"
 permalink: "/professores/"
 ---
 
