@@ -18,6 +18,8 @@
     url: "/curso/objetivos/"
   - title: "Perfil profissional"
     url: "/curso/perfil-profissional/"
+  - title: "Atuação profissional"
+    url: "/curso/atuacao-profissional/"
   - title: "Coordenação"
     url: "/curso/coordenacao/"
 
