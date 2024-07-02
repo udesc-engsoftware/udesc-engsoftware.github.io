@@ -27,8 +27,6 @@
   url: "/banca-tcc/"
   side: left
   dropdown:
-  - title: "2024/2"
-    url: "/banca-tcc/2024-2/"
   - title: "2024/1"
     url: "/banca-tcc/2024-1/"
   - title: "Anteriores"
