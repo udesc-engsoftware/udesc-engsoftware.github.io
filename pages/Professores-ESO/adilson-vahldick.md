@@ -9,7 +9,7 @@ header:
 permalink: "/professores/adilson-vahldick/"
 ---
 
-## **Fernando dos Santos**
+## **Adilson Vahldick**
 
 <img class="img-responsive" src="{{site.urlimg}}foto-professor-adilson.png" width="220"/>
 
@@ -33,7 +33,7 @@ Academia GAME-DEV.
 
 ### **Outras informações**
 
-Coordenador do Laboratório de Pesquisa e Desenvolvimento de Jogos Sérios e Entretenimento [(GameLab)].
+Coordenador do Laboratório de Pesquisa e Desenvolvimento de Jogos Sérios e Entretenimento - [GameLab].
 
 ### **Contato**
 
