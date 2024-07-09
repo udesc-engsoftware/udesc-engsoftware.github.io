@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: ""
-meta_title: "Adilso Vahldick"
+meta_title: "Adilson Vahldick"
 subheadline: ""
 teaser: ""
 header:
