@@ -1,11 +1,18 @@
 ---
 layout: page-fullwidth
-title: ""
+title: "Contato"
 meta_title: "Contato"
 subheadline: ""
-teaser: ""
+teaser: "Engenharia de Software - UDESC"
 header:
    image_fullwidth: "logo.png"
 permalink: "/contato/"
 ---
+
+Para entrar em contato, escreva um e-mail para `engsoftware.ceavi@udesc.br` ou através de nossas mídias sociais.
+
+- Instagram: `@udesc.engsoftware`
+- YouTube: `@udesc.engsoftware`
+- LinkedIn: `udesc-engsoftware`
+- Github: `udesc-engsoftware`
 
