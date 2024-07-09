@@ -53,4 +53,15 @@ permalink: "/professores/"
       </a>
     </div>
   </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/adilson-vahldick/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}foto-professor-adilson.jpg"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Carlos Alberto Barth</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
 </div>
