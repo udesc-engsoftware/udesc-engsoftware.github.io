@@ -8,8 +8,8 @@ group :jekyll_plugins do
   gem "jekyll-asciidoc"
 end
 
-gem 'asciidoctor', '~> 1.5.4'
-gem 'coderay', '1.1.1'
+gem 'asciidoctor'
+gem 'coderay'
 
 
-gem "webrick", "~> 1.8"
+gem "webrick"

@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: logo.png
+  image_fullwidth: "banner-site-eso.png"
 widget1:
   title: "Blog & Portfolio"
   url: "/teste/"
