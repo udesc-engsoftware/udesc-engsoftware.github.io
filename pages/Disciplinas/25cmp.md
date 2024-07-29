@@ -5,7 +5,7 @@ meta_title: "25CMP"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/matriz-curricular/25cmp/"
 ---
 

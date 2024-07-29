@@ -6,7 +6,7 @@ subheadline         : "Conheça o curso de Engenharia de Software"
 meta_title          : "Sobre o curso"
 teaser              : ""
 header:
-   image_fullwidth  : "logo.png"
+   image_fullwidth  : "banner-site-eso.png"
 permalink           : "/curso/sobre/"
 ---
 ## Sobre o Curso

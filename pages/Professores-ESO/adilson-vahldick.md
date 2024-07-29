@@ -5,7 +5,7 @@ meta_title: "Adilson Vahldick"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site-eso.png"
 permalink: "/professores/adilson-vahldick/"
 ---
 

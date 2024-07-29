@@ -5,7 +5,7 @@ meta_title: "75GIN"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/matriz-curricular/75gin/"
 ---
 

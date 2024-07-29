@@ -5,7 +5,7 @@ meta_title: "25INF"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/matriz-curricular/25inf/"
 ---
 

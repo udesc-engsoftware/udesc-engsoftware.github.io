@@ -5,7 +5,7 @@ meta_title: "Contato"
 subheadline: ""
 teaser: "Engenharia de Software - UDESC"
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site-eso.png"
 permalink: "/contato/"
 ---
 

@@ -5,7 +5,7 @@ meta_title: "85DCD"
 subheadline: ""
 teaser: ""
 header:
-   image_fullwidth: "logo.png"
+   image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/matriz-curricular/85dcd/"
 ---
 

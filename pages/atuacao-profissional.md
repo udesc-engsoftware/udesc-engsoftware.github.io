@@ -6,7 +6,7 @@ subheadline         : ""
 meta_title          : "Atuação Profissional"
 teaser              : ""
 header:
-   image_fullwidth  : "logo.png"
+   image_fullwidth  : "banner-site-eso.png"
 permalink           : "/curso/atuacao-profissional/"
 ---
 
