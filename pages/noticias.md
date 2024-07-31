@@ -22,7 +22,7 @@ permalink: "/curso/noticias/"
 .post-item {
   padding: 20px;
   border: 1px solid #ddd; 
-  border-radius: 5px;
+  border-radius: 10px;
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
   background-color: #fff;
   margin-bottom: 20px;
@@ -60,6 +60,11 @@ permalink: "/curso/noticias/"
 .post-item:hover {
   background-color: #f9f9f9;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post-title:hover{
+  color: green;
+  text-decoration: underline;
 }
 </style>
 
