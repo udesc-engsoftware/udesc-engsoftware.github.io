@@ -5,7 +5,7 @@ subheadline: ""
 teaser: "A matrícula ocorre em duas etapas e aulas iniciam no dia 1º de agosto"
 header:
     image_fullwidth: "banner-site-eso.png"
-    caption-url: "/curso/noticias/vestibular-inverno/"
+    caption-url: "/curso/noticias/udesc_divulga_listao_dos_aprovados_em_primeira_chamada_no_vestibular_de_inverno/"
 ---
 
 <img class="img-responsive" src="{{site.urlimg}}banner-vestibular-udesc.jpg"/>

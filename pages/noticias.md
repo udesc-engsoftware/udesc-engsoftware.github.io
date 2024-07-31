@@ -11,7 +11,7 @@ permalink: "/curso/noticias/"
 
 <style>
 .post-list {
-  display: grid;
+  display: block;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   padding: 0;
@@ -25,6 +25,7 @@ permalink: "/curso/noticias/"
   border-radius: 5px;
   transition: background-color 0.3s ease, box-shadow 0.3s ease;
   background-color: #fff;
+  margin-bottom: 20px;
 }
 
 .post-link {
