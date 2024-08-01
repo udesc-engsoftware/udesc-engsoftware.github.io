@@ -11,6 +11,8 @@ permalink: "/curso/matriz-curricular/45qua/"
 
 ### **Qualidade de Software (QUA)**
 
+<hr>
+
 #### **Ementa**
 
 <class style="color: green">Conceitos de Qualidade. Controle e Garantia da Qualidade. Engano, Defeito, Erro, Falha. Dilemas da Qualidade de Software. Impacto dos Custos dos Defeitos de Software.</class><class style="color: blue">Ampliação e Remoção de Erros. Análise da Causa e Prevenção de Defeitos.</class><class style="color: black">Planejamento da Qualidade. Revisões Informais. Revisões Formais. Auditorias. Inspeções. Qualidade e Revisão de Código.</class><class style="color: green">Atributos e Métricas de Qualidade (Produto e Processo).</class><class style="color: blue">Modelos e Normas de Qualidade de Software.</class><class style="color: black">Melhoria de Processo de Software. Ferramentas CASE para Qualidade de Software.</class> 
@@ -21,6 +23,8 @@ permalink: "/curso/matriz-curricular/45qua/"
 | :------: | :------: | :------: | :------: |
 | 4 | - | - | 4 |
 
+<hr>
+
 #### **Bibliografia Básica**
 
 ZANIN, Aline [et al.]. Qualidade de software.Porto Alegre: SAGAH, 2018. ISBN 978-85-9502-840-1. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788595028401/. Acesso em: 31 mar. 2022. 
@@ -29,6 +33,8 @@ KOSCIANSKI, André; SOARES, Michel dos Santos. Qualidade de software: aprenda as
 metodologias e técnicas mais modernas para o desenvolvimento de software. São Paulo:Novatec, 2007. 395 p. 
 
 MECENAS, I.; OLIVEIRA, V. Qualidade em Software. Rio de Janeiro : Alta Books,2005.
+
+<hr>
 
 #### **Bibliografia Complementar**
 
@@ -41,3 +47,5 @@ PRESSMAN, Roger S. Engenharia de software: uma abordagem profissional. 7. ed. S�
 FIELD, S. W; SWIFT, K. G. Effecting a quality change: an engineering approach. New York, NY: Wiley, 1996. 147 p.  
 
 HIRAMA, Kechi. Engenharia de software: qualidade e produtividade com tecnologia. Rio de Janeiro: Elsevier, c2012. 210 p. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788595155404. Acesso em: 31 mar. 2022.
+
+<hr>

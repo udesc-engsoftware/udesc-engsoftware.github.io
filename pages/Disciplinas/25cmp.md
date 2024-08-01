@@ -11,6 +11,8 @@ permalink: "/curso/matriz-curricular/25cmp/"
 
 ### **Comunicação e Metodologia de Pesquisa em Engenharia de Software (CMP)**
 
+<hr>
+
 #### **Ementa**
 
 <class style="color: green">Técnicas de comunicação para: apresentação de trabalhos em eventos e comunicação com clientes e colegas de trabalho. Introdução ao Método científico e experimental. Ciência e conhecimento científico. Metodologia científica de pesquisa. Classificação dos métodos de pesquisa. Classificação dos tipos de pesquisa.</class><class style="color: blue">Organização e documentação de estudo.</class> <class style="color: black">Elaboração de projetos de pesquisa e trabalhos acadêmicos. Análise e interpretações dos resultados de pesquisa. Ferramentas de apoio ao desenvolvimento de trabalhos acadêmicos. Resumo. Resenha. Artigo científico. Seminário. Oralidade. Treinamento em habilidades sociais (trocar e construir boas ideias). Estratégias argumentativas e de retórica.</class>
@@ -20,6 +22,8 @@ permalink: "/curso/matriz-curricular/25cmp/"
 | Teórica | Prática | Extensão | Total |
 | :------: | :------: | :------: | :------: |
 | 4 | - | - | 4 |
+
+<hr>
 
 #### **Bibliografia Básica**
 
@@ -33,6 +37,8 @@ RAMOS, Albenides. Metodologia da Pesquisa Científica. São Paulo. Ed. Atlas, 20
 
 RICHARDSON, Roberto Jarry. Pesquisa social: métodos e técnicas. 3. ed. São Paulo: Atlas, 2012.  
 
+<hr>
+
 #### **Bibliografia Complementar**
 
 ANDRADE, Margarida de. Introdução à metodologia do trabalho científico. 9.ed. São Paulo: Atlas, 2009. 
@@ -44,3 +50,5 @@ NETTO, Alvim Antônio de Oliveira. Metodologia da pesquisa científica: guia pr�
 OTANI, Nilo; FIALHO, Francisco Antonio Pereira. TCC: métodos e técnicas. 2. ed. Florianópolis: Visual Books, 2011.  
 
 SEVERINO, Antônio Joaquim. Metodologia do trabalho científico. 23.ed. rev. e atual. São Paulo: Cortez, 2007. 
+
+<hr>

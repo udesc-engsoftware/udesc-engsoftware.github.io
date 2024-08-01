@@ -11,6 +11,8 @@ permalink: "/curso/matriz-curricular/55ppr/"
 
 ### **Padrões de Projeto (PPR)**
 
+<hr>
+
 #### **Ementa**
 
 <class style="color: green">Padrões de análise.</class><class style="color: black">Padrões de projetos de software.</class><class style = "color: blue">Antipatterns.</class> 
@@ -21,9 +23,13 @@ permalink: "/curso/matriz-curricular/55ppr/"
 | :------: | :------: | :------: | :------: |
 | 2 | 2 | - | 4 |
 
+<hr>
+
 #### **Pré-Requisito:**
 
 - Desenvolvimento de Software Orientado a Objetos II (DOO2) - 3ª Fase
+
+<hr>
 
 #### **Bibliografia Básica**
 
@@ -32,6 +38,8 @@ GAMMA, E. et al. Padrões de projeto: soluções reutilizáveis de software orie
 KERIEVSKY, J. Refatoração para padrões. Porto Alegre: Bookman, 2008. Disponível em: https://app.minhabiblioteca.com.br/books/9788577803033. Acesso em: 31 mar. 2022. 
 
 LARMAN, C. Utilizando UML e padrões: uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. Porto Alegre: Bookman, 2007. Disponível em: https://app.minhabiblioteca.com.br/books/9788577800476. Acesso em: 31 mar. 2022. 
+
+<hr>
 
 #### **Bibliografia Complementar**
 
@@ -44,3 +52,5 @@ GUERRA, Eduardo. Design Patterns com Java: projeto orientado a objetos guiado po
 SHALLOWAY, A.; TROTT, J. Explicando padrões de projeto: uma nova perspectiva em projeto orientado a objeto. Porto Alegre: Bookman, 2004.  
 
 JONES, C. Software Development Patterns and Antipatterns. Auerbach Publications, 2022. 
+
+<hr>

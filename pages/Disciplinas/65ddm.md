@@ -11,6 +11,8 @@ permalink: "/curso/matriz-curricular/65ddm/"
 
 ### **Desenvolvimento de Software para Dispositivos Móveis (DDM)**
 
+<hr>
+
 #### **Ementa**
 
 Projeto de software para dispositivos móveis. Noções de arquitetura de dispositivos móveis. Linguagens de programação para dispositivos móveis. *Nessa disciplina, serão executadas Atividades Curriculares de Extensão.* 
@@ -21,9 +23,13 @@ Projeto de software para dispositivos móveis. Noções de arquitetura de dispos
 | :------: | :------: | :------: | :------: |
 | 1 | 2 | 1 | 4 |
 
+<hr>
+
 #### **Pré-Requisito:**
 
 - Desenvolvimento de Software Orientado a Objetos II (DOO2) - 3ª Fase
+
+<hr>
 
 #### **Bibliografia Básica** 
 
@@ -32,6 +38,8 @@ DEITEL, Paul J. Android 6 para programadores uma abordagem baseada em aplicativo
 GRIFFITHS, Dawn. Use a cabeça!: Desenvolvendo para Android. Rio de Janeiro: Alta Books, 2016. 674 p. ISBN 9788550800059. 
 
 DA OLIVEIRA, Diego Bittencourt D.; SILVA, Fabrício Machado; PASSOS, Ubiratan R C.; et al. Desenvolvimento para dispositivos móveis. Porto Alegre: SAGAH, 2019. E-book. ISBN 9788595029408. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788595029408/. Acesso em: 09 set. 2022. 
+
+<hr>
 
 #### **Bibliografia Complementar**
 
@@ -44,3 +52,5 @@ BURTON, Michael; FELKER, Donn. Desenvolvimento de aplicativos Android para leigo
 LECHETA, Ricardo R. Google Android: aprenda a criar aplicações para dispositivos móveis com android SDK. 2. ed. São Paulo: Novatec, 2010. 608 p. ISBN 9788575222447 (broch.). 
 
 SIX, Jeff. Segurança de aplicativos android. São Paulo: Novatec, 2012. 140 p. ISBN 9788575223130 (broch.).
+
+<hr>
