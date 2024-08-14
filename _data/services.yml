@@ -1,8 +1,8 @@
 - menu_name: "Serviços"
 
-- name: "Contact"
-  url: "/contact/"
-  title: "Contact"
+- name: "Contato"
+  url: "/contato/"
+  title: "Contato"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
