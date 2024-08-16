@@ -41,7 +41,7 @@ E-mail: fernando.santos@udesc.br
 
 ### **Currículo Lattes**
 
-Lates: [lattes.cnpq.br/9532186865794326][fds]
+Lattes: [lattes.cnpq.br/9532186865794326][fds]
 
 [fds]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4751021P1
 

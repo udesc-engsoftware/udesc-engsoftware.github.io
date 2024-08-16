@@ -55,6 +55,6 @@ E-mail: marilia.gf@udesc.br
 
 ### **Currículo Lattes**
 
-Lates: [lattes.cnpq.br/9540472751590233][mgf]
+Lattes: [lattes.cnpq.br/9540472751590233][mgf]
 
 [mgf]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4243776T9
