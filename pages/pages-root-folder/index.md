@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Sobre o Curso"
   url: "/curso/sobre/"
-  image: 
+  image: foto-sobre-curso.jpg
   text: 'Conheça o curso de Graduação em Engenharia de Software da UDESC Alto Vale.'
 widget2:
   title: "Matriz Curricular"
