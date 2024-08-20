@@ -4,18 +4,18 @@ title: ""
 meta_title: "Laboratórios"
 subheadline: "Laboratórios"
 teaser: ""
-
-gallery:
-    - image_url: foto-professor-fernando.png
-      caption: Foto Professor Fernando 
-    - image_url: foto-professor-pablo.jpg
-      caption: Foto Professor Pablo
-    - image_url: foto-professora-marilia.png
-      caption: Foto Professora Marilia
-
 header:
    image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/laboratorios/"
+
+gallery:
+  - image_url: foto-matriz-curricular.jpg
+    caption: Foto 1
+  - image_url: foto-professores.jpeg
+    caption: Foto 2
+  - image_url: foto-sobre-curso.jpg
+    caption: Foto 3
+
 ---
 
 {% include gallery %}
