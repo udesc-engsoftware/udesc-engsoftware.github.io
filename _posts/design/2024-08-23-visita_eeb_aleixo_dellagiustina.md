@@ -14,8 +14,6 @@ No dia 20 de agosto, os estudantes das 1ª, 2ª e 3ª séries do Ensino Médio, 
 
 Além disso, os acadêmicos(as) Matheus Olliver, Manoella Marques Fellipe e Maria Eduarda Müller Ermes apresentaram o jogo "Rota das Exploradoras" junto com o algoritmo responsável pelo funcionamento do robô, peça fundamental do jogo elaborado. Em seguida, alguns dos estudantes participaram de uma dinâmica, no qual o objetivo era programar o robô para que realizasse o trajeto até uma das personagens.
 
-<img class="img-responsive" src="{{site.urlimg}}visita-eeb-aleixo-dellagiustina-2.png"/>
-
 O jogo "Rota das Exploradoras", foi desenvolvido pelas bolsistas Manoella e Maria Eduarda, do Projeto Valerinas - Meninas Digitais da UDESC Alto Vale. Ele é baseado no jogo "Quem sou eu?", e tem como intuito apresentar mais sobre as mulheres pioneiras e contemporâneas da área de tecnologia, visando destacar suas habilidades as novas gerações de mulheres a se desenvolverem na área da programação.
 
 <img class="img-responsive" src="{{site.urlimg}}visita-eeb-aleixo-dellagiustina-3.png"/>
