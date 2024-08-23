@@ -10,12 +10,12 @@ header:
 image:
     thumb: "gallery-image-thumb.png"
 gallery: 
-        - image_url: gallery-image-1.png
-          caption: Foto 1
-        - image_url: gallery-image-1.png
-          caption: Foto 1
-        - image_url: gallery-image-1.png
-          caption: Foto 1
+    - image_url: gallery-image-1.png
+      caption: Foto 1
+    - image_url: gallery-image-1.png
+      caption: Foto 1
+    - image_url: gallery-image-1.png
+      caption: Foto 1
 ---
 
 No dia 20 de agosto, os estudantes das 1ª, 2ª e 3ª séries do Ensino Médio, da Escola de Educação Básica Aleixo Dellagiustina, do munícipio de Ituporanga (SC), vieram até a UDESC Alto Vale, conhecer o curso de Engenharia de Software. Os alunos foram recepcionados no Laboratório de Robótica (LABOT), pelo Professor Carlos Alberto Barth que representou um panorama geral do curso, áreas de atuação, mercado de trabalho, bem como todas as possibilidades e oportunidades que a área de TI tem a oferecer.
