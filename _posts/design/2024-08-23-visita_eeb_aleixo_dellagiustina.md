@@ -8,16 +8,16 @@ header:
     caption-url: "/curso/noticias/visita_eeb_aleixo_dellagiustina/"
 
 image:
-    thumb: "visita-eeb-aleixo-dellagiustina-thumb.png"
+    thumb: "visita-eeb-aleixo-dellagiustina-1-thumb.jpeg"
 gallery: 
-    - image_url: visita-eeb-aleixo-dellagiustina-1.png
-      caption: Foto 1
-    - image_url: visita-eeb-aleixo-dellagiustina-2.png
-      caption: Foto 2
-    - image_url: visita-eeb-aleixo-dellagiustina-3.png
-      caption: Foto 3
-    - image_url: visita-eeb-aleixo-dellagiustina-4.png
-      caption: Foto 4
+    - image_url: visita-eeb-aleixo-dellagiustina-1.jpeg
+      caption: Apresentação do curso de Engenharia de Software 
+    - image_url: visita-eeb-aleixo-dellagiustina-2.jpeg
+      caption: Apresentação do jogo Rota das Exploradoras
+    - image_url: visita-eeb-aleixo-dellagiustina-3.jpeg
+      caption: Dinâmica com os estudantes
+    - image_url: visita-eeb-aleixo-dellagiustina-4.jpeg
+      caption: Apresentação do algoritmo responsável pelo funcionamento do Robô
 ---
 
 No dia 20 de agosto, os estudantes das 1ª, 2ª e 3ª séries do Ensino Médio, da Escola de Educação Básica Aleixo Dellagiustina, do munícipio de Ituporanga (SC), vieram até a UDESC Alto Vale, conhecer o curso de Engenharia de Software. Os alunos foram recepcionados no Laboratório de Robótica (LABOT), pelo Professor Carlos Alberto Barth que representou um panorama geral do curso, áreas de atuação, mercado de trabalho, bem como todas as possibilidades e oportunidades que a área de TI tem a oferecer.
