@@ -7,16 +7,34 @@ teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/laboratorios/"
+
+image:
+   thumb: "laboratorio-1-thumb.jpeg"
+gallery:
+   - image_url: laboratorio-1.jpeg
+     caption: Laboratório 02
+   - image_url: laboratorio-2.jpeg
+     caption: Laboratório 02
+   - image_url: laboratorio-3.jpeg
+     caption: Laboratório 204
+   - image_url: laboratorio-4.jpeg
+     caption: Laboratório 03
+   - image_url: laboratorio-5.jpeg
+     caption: Laboratório 05
 ---
 
 ## **Laboratórios**
 <hr>
 
-O curso de Graduação em Engenharia de Software conta com amplos laboratórios, tais como: Escritório Modelo, Laboratórios de Informática, Laboratório de Jogos (GameLab), Laboratório de Robótica (LABOT) e Sala Espine.
+O curso de Graduação em Engenharia de Software conta com amplos laboratórios, tais como: [Escritório Modelo][empds], [Laboratórios de Informática][laboratorios], [Laboratório de Jogos (GameLab)][gamelab], Laboratório de Robótica (LABOT) e Sala Espine.
 
 <hr>
 
-### **Escritório Modelo**
+<div class="row t30" id="empds"></div>
+
+## **Escritório Modelo**
+
+<img class="img-responsive" src="{{site.urlimg}}logo-escritorio-modelo.png" width="55%" class="align-items: center"/>
 
 O EMPDS (Escritório Modelo de Pesquisa e Desenvolvimento de Software) é um laboratório que permite aos alunos do curso de Engenharia de Software, vivenciaram um ambiente real de desenvolvimento de software dentro da universidade. Além disso, foca em práticas para garantir a qualidade e a padronização das atividades de engenharia e auxiliar no desenvolvimento e gestão de softwares para outras instituições públicas e/ou privadas, e também à UDESC.
 
@@ -35,7 +53,21 @@ Os projetos utilizam tecnologias como: NodeJS, JavaScript, ReactJS, PHP, MongoDB
 
 <hr>
 
-### **GameLab**
+<div class="row t30" id="lab"></div>
+
+## **Laboratórios de Informática**
+
+Contamos com 7 laboratórios de informática totalmente equipados, de forma a proporcionar aos acadêmicos um excelente ambiente de aprendizado. 
+
+{% include gallery %}
+
+<hr>
+
+<div class="row t30" id="gamelab"></div>
+
+## **GameLab**
+
+<img class="img-responsive" src="{{site.urlimg}}logo-gamelab.jpg"/>
 
 Fundado em setembro de 2018, o Laboratório de Pesquisa e Desenvolvimento de Jogos Sérios e para Entretenimento (GameLab) da Universidade do Estado de Santa Catarina (Udesc) surgiu a partir da iniciativa de professores do curso de Engenharia de Software da instituição. O GameLab é um laboratório que presta serviços de desenvolvimento de jogos e suporte quanto à análise de jogos para a própria universidade, para o centro em que está localizado, e para terceiros.
  
@@ -45,4 +77,7 @@ O laboratório já utilizou Unreal Engine 4. Atualmente, utiliza o Unity 3D para
 
 <hr>
 
+[empds]: {{ site.url }}/curso/laboratorios/#empds
+[laboratorios]: {{ site.url }}/curso/laboratorios/#lab
+[gamelab]: {{ site.url }}/curso/laboratorios/#gamelab
 
