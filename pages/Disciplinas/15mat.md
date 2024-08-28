@@ -9,15 +9,21 @@ header:
 permalink: "/curso/matriz-curricular/15mat/"
 ---
 
-### Tópicos em Matemática Básica e Lógica Matemática (MAT)
+### **Tópicos em Matemática Básica e Lógica Matemática (MAT)**
+
+<hr>
 
 #### **Ementa**
 
 Tópicos em Matemática Básica. Teoria dos Conjuntos: definições, representação dos conjuntos, relações e operações. Funções de uma variável real. Inequações. Lógica proposicional. Proposições e conectivos. Operações lógicas sobre proposições. Construção de tabelas-verdade. Tautologias, contradições e contingências. Implicação lógica. Equivalência lógica. Álgebra das proposições. Métodos para determinação da validade de fórmulas da lógica proposicional. Árvores de refutação. Álgebra booleana.
 
-#### **Objetivo Geral** 
+| Carga Horária | 
+| :------: | :------: | :------: | :------: |
+| Teórica | Prática | Extensão | Total |
+| :------: | :------: | :------: | :------: |
+| 4 | - | - | 4 
 
-Desenvolver o raciocínio abstrato e a habilidade de elaborar sentenças logicamente precisas úteis à modelagem e construção de programas. 
+<hr>
 
 #### **Bibliografia Básica** 
 
@@ -26,6 +32,8 @@ LIPSCHUTZ, S.; LIPSON, M.  Matemática discreta.  Coleção Schaum, Bookman Edit
 GERSTING, J. L. Fundamentos matemáticos para a ciência da computação. Grupo GEN, 2016. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788521633303/. Acesso em: 28 mMar 2022. 
 
  ROSEN, K. H. Matemática discreta e suas aplicações. São Paulo: McGraw Hill, 2010. Disponível em: https://app.minhabiblioteca.com.br/#/books/9788563308399/. Acesso em: 28 Mar mar 2022. 
+
+<hr>
 
 #### **Bibliografia Complementar**
 
@@ -39,7 +47,4 @@ GERSTING, J. L. Fundamentos matemáticos para a ciência da computação. Grupo 
 
  SEIZEN, Y.; TELLES, S. A. O. S. Matemática com aplicações tecnológicas. São Paulo: Editora Blucher, 2014.  Disponível em: https://app.minhabiblioteca.com.br/#/books/9788521207801/. Acesso em: 28 mar. 2022. 
 
-#### **Metodologia Sugerida** 
-
- Relacionar os exercícios com aplicações na área de computação, por meio de programas de computador que implementem as técnicas vistas em sala de aula. 
-
+ <hr>
