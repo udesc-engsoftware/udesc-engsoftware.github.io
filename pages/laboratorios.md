@@ -57,7 +57,7 @@ Os projetos utilizam tecnologias como: NodeJS, JavaScript, ReactJS, PHP, MongoDB
 
 ## **Laboratórios de Informática**
 
-Contamos com 7 laboratórios de informática totalmente equipados, de forma a proporcionar aos acadêmicos um excelente ambiente de aprendizado. 
+Contamos com 8 laboratórios de informática totalmente equipados, de forma a proporcionar aos acadêmicos um excelente ambiente de aprendizado. 
 
 {% include gallery %}
 
