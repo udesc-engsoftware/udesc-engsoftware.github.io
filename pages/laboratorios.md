@@ -26,7 +26,7 @@ gallery:
 ## **Laboratórios**
 <hr>
 
-O curso de Graduação em Engenharia de Software conta com amplos laboratórios, tais como: [Escritório Modelo][empds], [Laboratórios de Informática][laboratorios], [Laboratório de Jogos (GameLab)][gamelab], Laboratório de Robótica (LABOT) e Sala Espine.
+O curso de Graduação em Engenharia de Software conta com amplos laboratórios, tais como: [Escritório Modelo][empds], [Laboratórios de Informática][laboratorios], [Laboratório de Jogos (GameLab)][gamelab], [Laboratório de Robótica (LABOT)][labot] e Sala Espine.
 
 <hr>
 
@@ -77,7 +77,18 @@ O laboratório já utilizou Unreal Engine 4. Atualmente, utiliza o Unity 3D para
 
 <hr>
 
+<div class="row t30" id="labot"></div>
+
+## **Laboratório de Robótica (LABOT)**
+
+<img class="img-responsive" src="{{site.urlimg}}logo-labot.png" width="40%" class="align-items: center"/>
+
+O Laboratório de Robótica, mais conhecido como Labot, é um projeto de extensão situado em Ibirama, no Centro de Educação Superior do Alto Vale do Itajaí (Ceavi), pertencente à Universidade do Estado de Santa Catarina (Udesc). Ese projeto tem como principal atividade o ensino de robótica educacional para crianças e adolescentes, com o propósito de fomentar o aprendizado de pensamento computacional, matemática, física e o desenvolvimento de habilidades como, por exemplo, trabalho em equipes. Esses conhecimentos são adquiridos por meio de abordagens práticas e lúdicas, com a utilização de recursos da robótica, kits, Lego e metodologia STEM e STEAM.
+
+<hr>
+
 [empds]: {{ site.url }}/curso/laboratorios/#empds
 [laboratorios]: {{ site.url }}/curso/laboratorios/#lab
 [gamelab]: {{ site.url }}/curso/laboratorios/#gamelab
+[labot]: {{ site.url }}/curso/laboratorios/#labot
 
