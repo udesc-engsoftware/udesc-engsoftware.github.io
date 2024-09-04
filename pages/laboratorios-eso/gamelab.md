@@ -7,6 +7,13 @@ teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/laboratorios/gamelab"
+
+image:
+   thumb: "gamelab-1-thumb.jpeg"
+gallery: 
+   - image_url: gamelab-1.jpeg
+   - image_url: gamelab-2.jpeg
+   - image_url: gamelab-3.jpeg
 ---
 
 ## **GameLab**
@@ -18,3 +25,5 @@ Fundado em setembro de 2018, o Laboratório de Pesquisa e Desenvolvimento de Jog
 Por meio do laboratório, os estudantes adquirem experiência e preparam-se para o mercado. Entre as ações realizadas, os acadêmicos desenvolvem e analisam jogos para a universidade, para outros acadêmicos e para terceiros. Os Trabalhos de Conclusão de Curso sobre a temática de jogos são apoiados pelo GameLab.
 
 O laboratório já utilizou Unreal Engine 4. Atualmente, utiliza o Unity 3D para os projetos de Realidade Virtual, PHP e bibliotecas para Web no projeto de Realidade Aumentada.
+
+{% include gallery %}

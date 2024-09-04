@@ -26,7 +26,7 @@ gallery:
 ## **Laboratórios**
 <hr>
 
-O curso de Graduação em Engenharia de Software conta com amplos laboratórios, tais como: [Escritório Modelo][empds], [Laboratórios de Informática][laboratorios], [Laboratório de Jogos (GameLab)][gamelab], [Laboratório de Robótica (LABOT)][labot] e Sala Espine.
+O curso de Graduação em Engenharia de Software conta com amplos laboratórios, tais como: [Escritório Modelo][empds], [Laboratórios de Informática][laboratorios], [Laboratório de Jogos (GameLab)][gamelab], [Laboratório de Robótica (LABOT)][labot] e [Sala Espine][espine].
 
 <hr>
 
@@ -74,9 +74,21 @@ O Laboratório de Robótica, mais conhecido como Labot, é um projeto de extens�
 
 <hr>
 
+<div class="row t30" id="espine"></div>
+
+## **Sala Espine**
+
+Localizada na Biblioteca Universitária da UDESC Alto Vale, a Sala Espine é um espaço destinado a capacitações, aulas dinâmicas, rodas de conversa, reuniões, entre outras atividades. Podendo ser utilizada por acadêmicos e servidores da Udesc.
+
+[Saiba mais sobre a Sala Espine][espine_udesc_alto_vale]
+
+<hr>
+
 [empds]: {{ site.url }}/curso/laboratorios/#empds
 [laboratorios]: {{ site.url }}/curso/laboratorios/#lab
 [gamelab]: {{ site.url }}/curso/laboratorios/#gamelab
 [labot]: {{ site.url }}/curso/laboratorios/#labot
+[espine]: {{ site.url }}/curso/laboratorios/#espine
 [escritorio_modelo]: {{ site.url }}/curso/laboratorios/empds
 [gamelab_eso]: {{ site.url }}/curso/laboratorios/gamelab
+[espine_udesc_alto_vale]: {{ site.url }}/curso/laboratorios/espine
