@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: ""
-meta_title: "Engenharia de Software : Escritório Modelo"
+meta_title: "Escritório Modelo"
 subheadline: ""
 teaser: ""
 header:
@@ -16,11 +16,9 @@ gallery:
     - image_url: escritorio-modelo-3.jpeg
 ---
 
-<!-- TODO erick: veja como coloquei o meta_title acima, e repetir em TODAS AS outras páginas do site; assim cria um contexto, que é uma página dentro do site de Engenharia de Software -->
+## **Escritório Modelo**
 
-## **Escritório Modelo de Pesquisa e Desenvolvimento de Software**
-
-<img class="img-responsive" src="{{site.urlimg}}logo-escritorio-modelo.png" width="55%" class="align-items: center"/>
+<img class="img-responsive" src="{{site.urlimg}}logo-escritorio-modelo.png" width="50%" class="align-items: center" style="margin-top: 50px; margin-bottom: 50px"/>
 
 O EMPDS (Escritório Modelo de Pesquisa e Desenvolvimento de Software) é um laboratório que permite aos alunos do curso de Engenharia de Software, vivenciaram um ambiente real de desenvolvimento de software dentro da universidade. Além disso, foca em práticas para garantir a qualidade e a padronização das atividades de engenharia e auxiliar no desenvolvimento e gestão de softwares para outras instituições públicas e/ou privadas, e também à UDESC.
 
