@@ -11,7 +11,7 @@ permalink: "/professores/fernando-santos/"
 
 ## **Fernando dos Santos**
 
-<img class="img-responsive" src="{{site.urlimg}}foto-professor-fernando.png" width="220"/>
+<img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-fernando.png" width="220"/>
 
 ### **Formação acadêmica**
 

@@ -11,7 +11,7 @@ permalink: "/professores/adilson-vahldick/"
 
 ## **Adilson Vahldick**
 
-<img class="img-responsive" src="{{site.urlimg}}foto-professor-adilson.png" width="220"/>
+<img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-adilson.png" width="220"/>
 
 ### **Formação acadêmica**
 

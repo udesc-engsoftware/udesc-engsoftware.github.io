@@ -9,11 +9,11 @@ header:
 permalink: "/curso/laboratorios/espine"
 
 image: 
-    thumb: "sala-espine-1-thumb.jpeg"
+    thumb: "/laboratorios/sala-espine-1-thumb.jpeg"
 gallery:
-    - image_url: sala-espine-1.jpeg
-    - image_url: sala-espine-2.jpeg
-    - image_url: sala-espine-3.jpeg
+    - image_url: /laboratorios/sala-espine-1.jpeg
+    - image_url: /laboratorios/sala-espine-2.jpeg
+    - image_url: /laboratorios/sala-espine-3.jpeg
 ---
 
 ## **Sala Espine**
@@ -21,4 +21,15 @@ gallery:
 Localizada na Biblioteca Universitária da UDESC Alto Vale, a Sala Espine é um espaço destinado a capacitações, aulas dinâmicas, rodas de conversa, reuniões, entre outras atividades. Podendo ser utilizada por acadêmicos e servidores da Udesc.
 
 {% include gallery %}
+
+#### Coordenador:
+
+
+#### Contato:
+
+
+#### Mais informações:
+[https://www.udesc.br/ceavi/biblioteca/espacos][sala-espine]
+
+[sala-espine]: https://www.udesc.br/ceavi/biblioteca/espacos
 

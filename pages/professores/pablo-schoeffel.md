@@ -11,7 +11,7 @@ permalink: "/professores/pablo-schoeffel/"
 
 ## **Pablo Schoeffel**
 
-<img class="img-responsive" src="{{site.urlimg}}foto-professor-pablo.jpg" width="220"/>
+<img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-pablo.jpg" width="220"/>
 
 ### **Formação acadêmica**
 

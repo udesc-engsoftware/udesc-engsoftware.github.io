@@ -11,7 +11,7 @@ permalink: "/professores/carlos-barth/"
 
 ## **Carlos Alberto Barth**
 
-<img class="img-responsive" src="{{site.urlimg}}foto-professor-carlos-barth.jpg" width="220"/>
+<img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-carlos-barth.jpg" width="220"/>
 
 ### **Formação acadêmica**
 

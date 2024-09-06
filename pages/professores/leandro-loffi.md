@@ -11,7 +11,7 @@ permalink: "/professores/leandro-loffi/"
 
 ## **Leandro Loffi**
 
-<img class="img-responsive" src="{{site.urlimg}}foto-professor-leandro-loffi.jpg" width="220"/>
+<img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-leandro-loffi.jpg" width="220"/>
 
 ### **Formação acadêmica**
 

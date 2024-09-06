@@ -8,15 +8,15 @@ header:
     caption-url: "/curso/noticias/visita_eeb_aleixo_dellagiustina/"
 
 image:
-    thumb: "visita-eeb-aleixo-dellagiustina-1-thumb.jpeg"
+    thumb: "/posts/2024-08-23-visita-eeb-aleixo-dellagiustina/visita-eeb-aleixo-dellagiustina-1-thumb.jpeg"
 gallery: 
-    - image_url: visita-eeb-aleixo-dellagiustina-1.jpeg
+    - image_url: /posts/2024-08-23-visita-eeb-aleixo-dellagiustina/visita-eeb-aleixo-dellagiustina-1.jpeg
       caption: Apresentação do curso de Engenharia de Software 
-    - image_url: visita-eeb-aleixo-dellagiustina-2.jpeg
+    - image_url: /posts/2024-08-23-visita-eeb-aleixo-dellagiustina/visita-eeb-aleixo-dellagiustina-2.jpeg
       caption: Apresentação do jogo Rota das Exploradoras
-    - image_url: visita-eeb-aleixo-dellagiustina-3.jpeg
+    - image_url: /posts/2024-08-23-visita-eeb-aleixo-dellagiustina/visita-eeb-aleixo-dellagiustina-3.jpeg
       caption: Dinâmica com os estudantes
-    - image_url: visita-eeb-aleixo-dellagiustina-4.jpeg
+    - image_url: /posts/2024-08-23-visita-eeb-aleixo-dellagiustina/visita-eeb-aleixo-dellagiustina-4.jpeg
       caption: Apresentação do algoritmo responsável pelo funcionamento do Robô
 ---
 

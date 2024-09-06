@@ -11,7 +11,7 @@ permalink: "/professores/rodrigo-nogueira/"
 
 ## **Rodrigo Nogueira**
 
-<img class="img-responsive" src="{{site.urlimg}}foto-professor-rodrigo-nogueira.jpg" width="220"/>
+<img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-rodrigo-nogueira.jpg" width="220"/>
 
 ### **Formação acadêmica**
 

@@ -9,17 +9,17 @@ header:
 permalink: "/curso/laboratorios/lab-informatica"
 
 image:
-   thumb: "laboratorio-1-thumb.jpeg"
+   thumb: "/laboratorios/laboratorio-1-thumb.jpeg"
 gallery:
-   - image_url: laboratorio-1.jpeg
+   - image_url: /laboratorios/laboratorio-1.jpeg
      caption: Laboratório 02
-   - image_url: laboratorio-2.jpeg
+   - image_url: /laboratorios/laboratorio-2.jpeg
      caption: Laboratório 02
-   - image_url: laboratorio-3.jpeg
+   - image_url: /laboratorios/laboratorio-3.jpeg
      caption: Laboratório 204
-   - image_url: laboratorio-4.jpeg
+   - image_url: /laboratorios/laboratorio-4.jpeg
      caption: Laboratório 03
-   - image_url: laboratorio-5.jpeg
+   - image_url: /laboratorios/laboratorio-5.jpeg
      caption: Laboratório 05
 ---
 

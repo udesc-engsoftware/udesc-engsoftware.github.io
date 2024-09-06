@@ -9,16 +9,16 @@ header:
 permalink: "/curso/laboratorios/empds"
 
 image:
-    thumb: "escritorio-modelo-1-thumb.jpeg"
+    thumb: "/laboratorios/escritorio-modelo-1-thumb.jpeg"
 gallery:
-    - image_url: escritorio-modelo-1.jpeg
-    - image_url: escritorio-modelo-2.jpeg
-    - image_url: escritorio-modelo-3.jpeg
+    - image_url: /laboratorios/escritorio-modelo-1.jpeg
+    - image_url: /laboratorios/escritorio-modelo-2.jpeg
+    - image_url: /laboratorios/escritorio-modelo-3.jpeg
 ---
 
 ## **Escritório Modelo**
 
-<img class="img-responsive" src="{{site.urlimg}}logo-escritorio-modelo.png" width="50%" class="align-items: center" style="margin-top: 50px; margin-bottom: 50px"/>
+<img class="img-responsive" src="{{site.urlimg}}/laboratorios/logo-escritorio-modelo.png" width="50%" class="align-items: center" style="margin-top: 50px; margin-bottom: 50px"/>
 
 O EMPDS (Escritório Modelo de Pesquisa e Desenvolvimento de Software) é um laboratório que permite aos alunos do curso de Engenharia de Software, vivenciaram um ambiente real de desenvolvimento de software dentro da universidade. Além disso, foca em práticas para garantir a qualidade e a padronização das atividades de engenharia e auxiliar no desenvolvimento e gestão de softwares para outras instituições públicas e/ou privadas, e também à UDESC.
 
@@ -41,12 +41,12 @@ Os projetos utilizam tecnologias como: NodeJS, JavaScript, ReactJS, PHP, MongoDB
 Profª. Draª [Marília Guterres Ferreira][mgf]
 
 #### Contato:
-<!-- TODO erick: ver com a prof. Marilia se tem algum e-mail especifico do empds, e também se tem redes sociais, para colocar arqui -->
+<!-- TODO erick: ver com a prof. Marilia se tem algum e-mail especifico do empds, e também se tem redes sociais, para colocar aqui -->
 
 <!-- TODO erick: adotar essa mesma estrutura de Coordenador/a e Contato nas páginas dos demais laboratórios, quando houver coordenador/contato -->
 
 #### Mais informações:
-<!-- TODO erick: colocar o link do site especifico do EMPDS se houver (procurar na página do ceavi); fazer isso também nos demais laboratórios/salas -->
+[https://www.udesc.br/ceavi/empds][empds]
 
-
-[mgf]: [mgf]: https://lattes.cnpq.br/9540472751590233
+[mgf]: https://lattes.cnpq.br/9540472751590233
+[empds]: https://www.udesc.br/ceavi/empds
