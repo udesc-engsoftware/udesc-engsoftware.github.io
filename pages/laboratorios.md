@@ -27,6 +27,8 @@ O curso de Engenharia de Software conta com os seguintes laboratórios e espaço
 
 ## **Laboratórios de Informática**
 
+<img class="img-responsive" src="{{site.urlimg}}logo-laboratorios.png" width="250" class="align-items: center"/>
+
 O curso dispõe de 8 laboratórios de informática, equipados com computadores modernos para proporcionar aos acadêmicos um excelente ambiente de aprendizado. 
 
 <!-- TODO erick: fazer uma foto/montagem com algumas imagens de labortorios, para usar como se fosse um logo dos laboratorios e colocar igual os demais logos nessa parte -->

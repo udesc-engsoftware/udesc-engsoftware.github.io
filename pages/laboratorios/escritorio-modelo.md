@@ -41,9 +41,8 @@ Os projetos utilizam tecnologias como: NodeJS, JavaScript, ReactJS, PHP, MongoDB
 Profª. Draª [Marília Guterres Ferreira][mgf]
 
 #### Contato:
-<!-- TODO erick: ver com a prof. Marilia se tem algum e-mail especifico do empds, e também se tem redes sociais, para colocar aqui -->
-
-<!-- TODO erick: adotar essa mesma estrutura de Coordenador/a e Contato nas páginas dos demais laboratórios, quando houver coordenador/contato -->
+- E-mail: `empds.ceavi@udesc.br`
+- Instagram: `@empds.ceavi`
 
 #### Mais informações:
 [https://www.udesc.br/ceavi/empds][empds]

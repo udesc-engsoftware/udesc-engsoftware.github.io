@@ -21,7 +21,8 @@ O Laboratório de Robótica (LABOT), é um projeto de extensão que tem como pri
 Profº MSc. [Carlos Alberto Barth][cab]
 
 #### Contato:
-
+- E-mail: `labot.ceavi@udesc.br`
+- Instagram: `@labot_ceavi`
 
 #### Mais informações:
 [https://www.udesc.br/ceavi/labot][labot-ceavi]
