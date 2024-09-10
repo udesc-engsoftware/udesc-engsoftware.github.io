@@ -31,7 +31,8 @@ E-mail: carlos.barth@udesc.br
 
 ### **Currículo Lattes**
 
-Lattes: [lattes.cnpq.br/4906389456471521][cb]
+<img class="img-responsive" src="{{site.urlimg}}logo-lattes.png" width="30"/> 
+[lattes.cnpq.br/4906389456471521][cb]
 
 [cb]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4765243H1
 

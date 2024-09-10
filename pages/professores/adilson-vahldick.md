@@ -41,7 +41,8 @@ E-mail: adilson.vahldick@udesc.br
 
 ### **Currículo Lattes**
 
-Lattes: [lattes.cnpq.br/3827444548540732][av]
+<img class="img-responsive" src="{{site.urlimg}}logo-lattes.png" width="30"/> 
+[lattes.cnpq.br/3827444548540732][av]
 
 [av]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4711690P0
 

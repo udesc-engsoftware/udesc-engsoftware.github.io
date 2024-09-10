@@ -44,6 +44,7 @@ E-mail: rodrigo.nogueira@udesc.br
 
 ### **Currículo Lattes**
 
-Lattes: [lattes.cnpq.br/0327974399448757][rn]
+<img class="img-responsive" src="{{site.urlimg}}logo-lattes.png" width="30"/> 
+[lattes.cnpq.br/0327974399448757][rn]
 
 [rn]: https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4405614H6

@@ -54,7 +54,8 @@ Membro titular de Comissão Interna do Centro - Núcleo de Acessibilidade Educac
 E-mail: marilia.gf@udesc.br
 
 ### **Currículo Lattes**
-<!-- TODO erick: tirar a palavra "lattes" e deixar apenas o link, conforme abaixo, nos demais professores -->
+
+<img class="img-responsive" src="{{site.urlimg}}logo-lattes.png" width="30"/> 
 [lattes.cnpq.br/9540472751590233][mgf]
 
 [mgf]: https://lattes.cnpq.br/9540472751590233

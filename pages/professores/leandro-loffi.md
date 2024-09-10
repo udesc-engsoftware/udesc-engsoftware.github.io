@@ -35,6 +35,7 @@ E-mail: leandro.loffi@udesc.br
 
 ### **Currículo Lattes**
 
-Lattes: [lattes.cnpq.br/6185603109530113][ll]
+<img class="img-responsive" src="{{site.urlimg}}logo-lattes.png" width="30"/> 
+[lattes.cnpq.br/6185603109530113][ll]
 
 [ll]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K8715902A7

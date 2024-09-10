@@ -39,6 +39,7 @@ E-mail: pablo.schoeffel@udesc.br
 
 ### **Currículo Lattes**
 
-Lattes: [lattes.cnpq.br/3929824514680056][ps]
+<img class="img-responsive" src="{{site.urlimg}}logo-lattes.png" width="30"/> 
+[lattes.cnpq.br/3929824514680056][ps]
 
 [ps]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4234241D2
