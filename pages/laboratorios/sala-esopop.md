@@ -7,13 +7,20 @@ teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/laboratorios/esopop"
+
+image:
+   thumb: "/laboratorios/sala-esopop-1-thub.jpeg"
+gallery:
+   - image_url: /laboratorios/sala-esopop-1.jpeg
+   - image_url: /laboratorios/sala-esopop-2.jpeg
+   - image_url: /laboratorios/sala-esopop-3.jpeg
 ---
 
 ## **Sala Engenharia de Software POP**
 
 A sala Engenharia de Software POP (ESOPOP) fica localizada no Bloco Ipê e faz parte de um Projeto de Extensão, no qual o objetivo é popularizar o curso de Engenharia de Software (ESO) da UDESC Alto Vale e seu departamento, por meio de ações na internet, mídias sociais e atividades presenciais que impactam a comunidade interna e externa.
 
-
+{% include gallery %}
 
 #### Coordenador:
 Profº Drº. [Fernando dos Santos][fds] 
