@@ -31,8 +31,6 @@ O curso de Engenharia de Software conta com os seguintes laboratórios e espaço
 
 O curso dispõe de 8 laboratórios de informática, equipados com computadores modernos para proporcionar aos acadêmicos um excelente ambiente de aprendizado. 
 
-<!-- TODO erick: fazer uma foto/montagem com algumas imagens de labortorios, para usar como se fosse um logo dos laboratorios e colocar igual os demais logos nessa parte -->
-
 [Saiba mais sobre os Laboratórios de Informática][lab_informatica]
 
 <hr>
@@ -79,8 +77,6 @@ O Laboratório de Robótica (LABOT), é um projeto de extensão que tem como pri
 ## **Sala Engenharia de Software POP**
 
 A sala Engenharia de Software POP (ESOPOP) fica localizada no Bloco Ipê e faz parte de um Projeto de Extensão, no qual o objetivo é popularizar o curso de Engenharia de Software (ESO) da UDESC Alto Vale e seu departamento, por meio de ações na internet, mídias sociais e atividades presenciais que impactam a comunidade interna e externa.
-
-<!-- TODO erick: falar da nossa sala e do nosso programa de extensão; nesse link tem detalhes: https://www.udesc.br/ceavi/acoes-de-extensao/atuais/engenharia -->
 
 [Saiba mais sobre a Sala ESOPOP][esopop_sala]
 
