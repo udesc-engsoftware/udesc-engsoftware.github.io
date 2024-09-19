@@ -7,6 +7,14 @@ teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
 permalink: "/curso/laboratorios/labot"
+
+image:
+   thumb: "/laboratorios/labot-1-thumb.jpeg"
+gallery:
+   - image_url: /laboratorios/labot-1.jpeg
+   - image_url: /laboratorios/labot-2.jpeg
+   - image_url: /laboratorios/labot-3.jpeg
+   - image_url: /laboratorios/labot-4.jpeg
 ---
 
 ## **Laboratório de Robótica (LABOT)**
@@ -14,6 +22,8 @@ permalink: "/curso/laboratorios/labot"
 <img class="img-responsive" src="{{site.urlimg}}/laboratorios/logo-labot.png" width="40%" class="align-items: center"/>
 
 O Laboratório de Robótica (LABOT), é um projeto de extensão que tem como principal atividade o ensino de robótica educacional para crianças e adolescentes, com o propósito de fomentar o aprendizado de pensamento computacional, matemática, física e o desenvolvimento de habilidades como, por exemplo, trabalho em equipes. Esses conhecimentos são adquiridos por meio de abordagens práticas e lúdicas, com a utilização de recursos da robótica, kits, Lego e metodologia STEM e STEAM.
+
+{% include gallery %}
 
 #### Coordenador:
 Profº MSc. [Carlos Alberto Barth][cab]
