@@ -22,12 +22,6 @@ Localizada na Biblioteca Universitária da UDESC Alto Vale, a Sala Espine é um 
 
 {% include gallery %}
 
-#### Coordenador:
-
-
-#### Contato:
-
-
 #### Mais informações:
 [https://www.udesc.br/ceavi/biblioteca/espacos][sala-espine]
 
