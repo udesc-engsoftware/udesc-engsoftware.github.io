@@ -1,0 +1,17 @@
+ORGANIZAÇÃO DO DIRETÓRIO 'IMAGES'
+
+No diretorio principal /images, deixar apenas o banner do site e outras imagens gerais do site/curso.
+
+As demais imagens e fotos devem ser organizadas em subdiretórios conforme estrutura a seguir:
+
+/professores
+	fotos dos professores
+
+/laboratorios
+	imagens e fotos dos laboratorios
+
+/posts
+	fotos das postagens, organizadas em subdiretorios no padrao YYYY-MM-DD-descricao
+	exemplo: /posts/2024-08-23-visita-eeb-aleixo-dellagiustina
+
+	para cada novo post/noticia que tiver imagens/fotos, criar um subdiretório no padrão acima

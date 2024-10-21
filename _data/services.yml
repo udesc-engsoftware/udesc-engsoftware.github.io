@@ -1,0 +1,9 @@
+- menu_name: "Serviços"
+
+- name: "Contato"
+  url: "/contato/"
+  title: "Contato"
+
+- name: "sitemap.xml"
+  url: "/sitemap.xml"
+  title: "Sitemap for Google Webmaster Tools"

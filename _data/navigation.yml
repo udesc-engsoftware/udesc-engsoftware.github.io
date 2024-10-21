@@ -1,0 +1,42 @@
+- title: Início
+  url: "/"
+  side: left
+
+- title: Curso
+  url: "/curso/"
+  side: left
+  dropdown: 
+  - title: "Sobre"
+    url: "/curso/sobre/"
+  - title: "Notícias"
+    url: "/curso/noticias/"
+  - title: "Matriz curricular"
+    url: "/curso/matriz-curricular/"
+  - title: "Laboratórios"
+    url: "/curso/laboratorios/"
+  - title: "Objetivos"
+    url: "/curso/objetivos/"
+  - title: "Perfil profissional"
+    url: "/curso/perfil-profissional/"
+  - title: "Atuação profissional"
+    url: "/curso/atuacao-profissional/"
+  - title: "Coordenação"
+    url: "/curso/coordenacao/"
+
+- title: "Bancas de TCCs"
+  url: "/banca-tcc/"
+  side: left
+  dropdown:
+  - title: "2024/1"
+    url: "/banca-tcc/2024-1/"
+  - title: "Anteriores"
+    url: "/banca-tcc/anteriores/"
+
+
+- title: "Professores"
+  url: "/professores/"
+  side: left
+
+- title: "Contato"
+  url: "/contato/"
+  side: right
