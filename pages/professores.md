@@ -45,6 +45,17 @@ permalink: "/professores/"
 
   <div class="small-12 medium-4 columns">
     <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/geraldo-menegazzo-varela/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Geraldo Menegazzo Varela</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
       <a href="/professores/leandro-loffi/" style="text-decoration: none; color: inherit;">
       <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-leandro-loffi.jpg"/>
       <div class="card-body">
@@ -93,6 +104,17 @@ permalink: "/professores/"
       <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-paulo-roberto-farah.jpg"/>
       <div class="card-body">
         <h3 style="text-align: center; font-size: 18px"><b>Paulo Roberto Farah</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/pedro-sidnei-zanchett/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-pedro-sidnei-zanchett.jpg"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Pedro Sidnei Zanchett</b></h3>
         </div>
       </a>
     </div>
