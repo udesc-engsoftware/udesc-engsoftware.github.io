@@ -21,6 +21,7 @@ permalink: "/banca-tcc/anteriores/"
 - [2022/2][2022-2]
 - [2023/1][2023-1]
 - [2023/2][2023-2]
+- [Consulta TCC's][consulta-tcc]
 
 [2019-1]: {{site.url}}/banca-tcc/2019-1/
 [2019-2]: {{site.url}}/banca-tcc/2019-2/
@@ -36,3 +37,5 @@ permalink: "/banca-tcc/anteriores/"
 
 [2023-1]: {{site.url}}/banca-tcc/2023-1/
 [2023-2]: {{site.url}}/banca-tcc/2023-2/
+
+[consulta-tcc]: {{site.url}}/banca-tcc/consulta-tcc/
