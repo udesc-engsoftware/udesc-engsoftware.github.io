@@ -9,7 +9,7 @@ header:
 permalink: "/curso/laboratorios/esopop"
 
 image:
-   thumb: "/laboratorios/sala-esopop-1-thub.jpeg"
+   thumb: "/laboratorios/sala-esopop-1-thumb.jpeg"
 gallery:
    - image_url: /laboratorios/sala-esopop-1.jpeg
    - image_url: /laboratorios/sala-esopop-2.jpeg
