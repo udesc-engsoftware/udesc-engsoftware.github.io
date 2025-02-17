@@ -23,14 +23,6 @@ document.addEventListener("DOMContentLoaded", function(){
                 return row;
             });
 
-            console.log("Links dos TCC's");
-            links.forEach(row => {
-                const link = row[1].match(/href="([^"]+)"/);
-                if (link) {
-                    console.log(link[1]); 
-                }
-            });
-
             new DataTable("#tabela-tcc", {
                 data: links,
                 columns: [
