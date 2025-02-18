@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
                 return row;
             });
-
+            
             new DataTable("#tabela-tcc", {
                 data: links,
                 columns: [
