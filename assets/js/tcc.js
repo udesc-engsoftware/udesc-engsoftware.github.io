@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function(){
     const id_tabela = "2PACX-1vSDF0f-Bc6daeqKfWjAaGjG14a0alpBCjTHYtvhxgOtpN2t9Tb8igm3vOqq9fqnEHJqS0OrnVhFrnCY";
     const tabela_url = `https://docs.google.com/spreadsheets/d/e/${id_tabela}/pub?output=csv`;
 
-    /* Busca os dados da Planilha  */
+    /* Busca os dados da Planilha */
     fetch(tabela_url)
         .then(response => response.text())
         .then(csvData => {
@@ -12,8 +12,8 @@ document.addEventListener("DOMContentLoaded", function(){
             const links = parsedData.map(row => {
                 const titulo = row[1];
                 
-                const titulo_tcc = titulo.toLowerCase() /*Transforma em letras minúsculas*/
-                    .normalize("NFD").replace(/[\u0300-\u036f]/g, "") /* Separa e remove os acentos*/
+                const titulo_tcc = titulo.toLowerCase() /* Transforma em letras minúsculas */
+                    .normalize("NFD").replace(/[\u0300-\u036f]/g, "") /* Separa e remove os acentos */
                     .replace(/[^a-z0-9]+/g, "-") /* Substitui caracteres inválidos por hífen "-" */ 
                     .replace(/^-+|-+$/g, ""); /* Remove hífens no início e no final */
                 
