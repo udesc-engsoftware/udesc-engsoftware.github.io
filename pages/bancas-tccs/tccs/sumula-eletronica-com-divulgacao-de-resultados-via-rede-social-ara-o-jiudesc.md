@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/sumula-eletronica-com-divulgacao-de-resultados-via-rede-social-para-o-jiudesc/"
+permalink: "/banca-tcc/tccs/douglas-felipe-bussmann-siedschlag/"
 ---

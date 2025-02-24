@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/aplicativo-para-dispositivos-moveis-voltado-para-workflow-de-aprovacao/"
+permalink: "/banca-tcc/tccs/mauricio-ventura-nardelli/"
 ---

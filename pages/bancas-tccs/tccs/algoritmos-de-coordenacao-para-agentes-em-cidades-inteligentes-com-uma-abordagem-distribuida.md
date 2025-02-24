@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/algoritmos-de-coordenacao-para-agentes-em-cidades-inteligentes-com-uma-abordagem-distribuida/"
+permalink: "/banca-tcc/tccs/vilson-de-deus-correa-junior/"
 ---

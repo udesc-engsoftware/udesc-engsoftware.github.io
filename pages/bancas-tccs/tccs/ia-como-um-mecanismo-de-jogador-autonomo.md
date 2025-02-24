@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ia-como-um-mecanismo-de-jogador-autonomo/"
+permalink: "/banca-tcc/tccs/matheus-zickuhr/"
 ---

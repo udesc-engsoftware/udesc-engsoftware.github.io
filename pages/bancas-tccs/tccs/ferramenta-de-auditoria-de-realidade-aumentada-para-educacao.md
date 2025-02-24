@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ferramenta-de-auditoria-de-realidade-aumentada-para-educacao/"
+permalink: "/banca-tcc/tccs/rafael-de-miranda/"
 ---

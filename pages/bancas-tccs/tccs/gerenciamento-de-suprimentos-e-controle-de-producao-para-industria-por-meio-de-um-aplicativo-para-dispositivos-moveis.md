@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gerenciamento-de-suprimentos-e-controle-de-producao-para-industria-por-meio-de-um-aplicativo-para-dispositivos-moveis/"
+permalink: "/banca-tcc/tccs/gustavo-henrique-jung/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/hanse-um-jogo-digital-de-aventura-para-o-aprendizado-de-historia-sobre-a-colonizacao-de-ibirama/"
+permalink: "/banca-tcc/tccs/euler-giachini/"
 ---

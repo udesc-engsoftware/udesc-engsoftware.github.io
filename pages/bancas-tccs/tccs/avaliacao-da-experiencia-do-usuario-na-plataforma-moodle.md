@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/avaliacao-da-experiencia-do-usuario-na-plataforma-moodle/"
+permalink: "/banca-tcc/tccs/cristiano-arruda-flores/"
 ---

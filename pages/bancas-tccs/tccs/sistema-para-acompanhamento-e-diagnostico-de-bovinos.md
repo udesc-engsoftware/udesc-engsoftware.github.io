@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/sistema-para-acompanhamento-e-diagnostico-de-bovinos/"
+permalink: "/banca-tcc/tccs/aparicio-da-silva/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/aplicacao-da-classificacao-multi-class-em-decisoes-monograficas-do-supremo-tribunal-federal/"
+permalink: "/banca-tcc/tccs/felipe-lana-machado/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/desenvolvimento-e-avaliacao-de-um-novo-componente-baseado-em-pathrelinking-para-o-algoritmo-memplas-no-problema-qcars/"
+permalink: "/banca-tcc/tccs/tiago-funk/"
 ---

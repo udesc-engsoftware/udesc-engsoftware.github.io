@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/prototipo-de-um-sistema-de-frequencia-escolar-baseado-em-reconhecimento-facial/"
+permalink: "/banca-tcc/tccs/mario-luiz-frainer-fronza/"
 ---

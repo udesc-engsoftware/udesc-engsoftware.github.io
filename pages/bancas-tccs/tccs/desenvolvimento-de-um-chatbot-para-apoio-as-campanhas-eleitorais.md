@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/desenvolvimento-de-um-chatbot-para-apoio-as-campanhas-eleitorais/"
+permalink: "/banca-tcc/tccs/luciano-velho-garcia/"
 ---

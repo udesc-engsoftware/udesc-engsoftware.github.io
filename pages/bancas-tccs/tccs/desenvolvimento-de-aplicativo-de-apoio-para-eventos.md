@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/desenvolvimento-de-aplicativo-de-apoio-para-eventos/"
+permalink: "/banca-tcc/tccs/ewerton-wandalen/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/sportway-proposta-de-uma-rede-social-para-gestao-esportiva-da-carreira-de-atletas-amadores-e-profissionais/"
+permalink: "/banca-tcc/tccs/lucas-fusinato-wilhelm-chiodini-zanis/"
 ---

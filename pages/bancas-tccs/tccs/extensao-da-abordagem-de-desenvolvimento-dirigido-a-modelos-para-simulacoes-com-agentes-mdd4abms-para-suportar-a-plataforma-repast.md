@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/extensao-da-abordagem-de-desenvolvimento-dirigido-a-modelos-para-simulacoes-com-agentes-mdd4abms-para-suportar-a-plataforma-repast/"
+permalink: "/banca-tcc/tccs/rafael-tenfen/"
 ---

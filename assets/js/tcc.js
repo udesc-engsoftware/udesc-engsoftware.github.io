@@ -10,9 +10,10 @@ document.addEventListener("DOMContentLoaded", function(){
             parsedData.shift();
 
             const links = parsedData.map(row => {
+                const nome = row[0];
                 const titulo = row[1];
                 
-                const titulo_tcc = titulo.toLowerCase() /*Transforma em letras minúsculas */
+                const titulo_tcc = nome.toLowerCase() /*Transforma em letras minúsculas */
                     .normalize("NFD").replace(/[\u0300-\u036f]/g, "") /* Separa e remove os acentos */
                     .replace(/[^a-z0-9]+/g, "-") /* Substitui caracteres inválidos por hífen "-" */ 
                     .replace(/^-+|-+$/g, ""); /* Remove hífens no início e no final */
@@ -21,6 +22,12 @@ document.addEventListener("DOMContentLoaded", function(){
                 row[1] = `<a href="${link_tcc}" target="_blank">${titulo}</a>`;
 
                 return row;
+            });
+
+            links.forEach(row => {
+                const titulo = row[1].replace(/<.*?>(.*?)<\/.*?>/, '$1'); // Extrai o texto do link
+                const link_tcc = row[1].match(/href="(.*?)"/)[1]; // Extrai o link
+                console.log(`Título: ${titulo}, Link: ${link_tcc}`);
             });
             
             new DataTable("#tabela-tcc", {

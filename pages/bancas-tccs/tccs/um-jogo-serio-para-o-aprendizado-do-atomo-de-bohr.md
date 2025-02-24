@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/um-jogo-serio-para-o-aprendizado-do-atomo-de-bohr/"
+permalink: "/banca-tcc/tccs/willeson-thomas-da-silva/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/yeslist-uma-plataforma-de-cursos-onlines/"
+permalink: "/banca-tcc/tccs/gabriel-soares-basilone-paiva/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/analise-da-experiencia-do-usuario-interagindo-com-interfaces-que-adotam-o-material-design-como-design-visual/"
+permalink: "/banca-tcc/tccs/douglas-de-souza-martins/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/aplicativo-para-auxiliar-a-comunicacao-de-individuos-autistas/"
+permalink: "/banca-tcc/tccs/marcos-rufino-de-camargo/"
 ---

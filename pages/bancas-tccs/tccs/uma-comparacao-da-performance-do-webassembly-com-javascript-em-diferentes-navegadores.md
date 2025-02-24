@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/uma-comparacao-da-performance-do-webassembly-com-javascript-em-diferentes-navegadores/"
+permalink: "/banca-tcc/tccs/karolini-rosine-pereira/"
 ---
