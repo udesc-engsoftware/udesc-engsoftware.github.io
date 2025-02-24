@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/calenudesc-um-calendario-colaborativo-para-o-controle-de-eventos-academicos-da-universidade-do-estado-de-santa-catarina/"
+permalink: "/banca-tcc/tccs/adrian-grosch/"
 ---

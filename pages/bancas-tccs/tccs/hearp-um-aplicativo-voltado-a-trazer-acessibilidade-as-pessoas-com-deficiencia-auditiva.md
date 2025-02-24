@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/hearp-um-aplicativo-voltado-a-trazer-acessibilidade-as-pessoas-com-deficiencia-auditiva/"
+permalink: "/banca-tcc/tccs/joao-elias-engelbrecht-kayser/"
 ---

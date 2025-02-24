@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/totrabalhando-um-aplicativo-para-controle-de-apontamento-de-horas-para-empresas/"
+permalink: "/banca-tcc/tccs/matheus-parro-de-sousa/"
 ---

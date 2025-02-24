@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/erosiar-uma-aplicacao-em-realidade-aumentada-para-simulacao-de-eventos-erosivos/"
+permalink: "/banca-tcc/tccs/gustavo-vargas-de-andrade/"
 ---

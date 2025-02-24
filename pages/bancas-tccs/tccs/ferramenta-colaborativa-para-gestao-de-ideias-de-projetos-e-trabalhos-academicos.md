@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ferramenta-colaborativa-para-gestao-de-ideias-de-projetos-e-trabalhos-academicos/"
+permalink: "/banca-tcc/tccs/rodrigo-souza-tassoni/"
 ---

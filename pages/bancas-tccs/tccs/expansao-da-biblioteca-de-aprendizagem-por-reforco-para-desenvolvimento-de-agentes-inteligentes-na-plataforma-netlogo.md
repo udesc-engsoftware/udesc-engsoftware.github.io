@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/expansao-da-biblioteca-de-aprendizagem-por-reforco-para-desenvolvimento-de-agentes-inteligentes-na-plataforma-netlogo/"
+permalink: "/banca-tcc/tccs/eloisa-bazanella/"
 ---

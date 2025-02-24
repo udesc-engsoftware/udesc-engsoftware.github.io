@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/magnolia-um-mvp-para-gestao-do-clima-em-sala-de-aula-em-cursos-superiores/"
+permalink: "/banca-tcc/tccs/maria-eduarda-sandner-buzana/"
 ---

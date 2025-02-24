@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/command-comanda-digital-para-restaurantes-e-bares/"
+permalink: "/banca-tcc/tccs/gustavo-de-carvalho-santos/"
 ---

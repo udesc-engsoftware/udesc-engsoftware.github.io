@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/aplicativo-com-gamificacao-para-apoio-no-aprendizado-da-orientacao-a-objetos/"
+permalink: "/banca-tcc/tccs/afonso-ueslei-boing/"
 ---

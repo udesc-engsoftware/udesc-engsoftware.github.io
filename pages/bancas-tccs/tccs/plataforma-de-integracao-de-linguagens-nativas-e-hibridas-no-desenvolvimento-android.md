@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/plataforma-de-integracao-de-linguagens-nativas-e-hibridas-no-desenvolvimento-android/"
+permalink: "/banca-tcc/tccs/julio-cesar-bueno-de-oliveira-junior/"
 ---

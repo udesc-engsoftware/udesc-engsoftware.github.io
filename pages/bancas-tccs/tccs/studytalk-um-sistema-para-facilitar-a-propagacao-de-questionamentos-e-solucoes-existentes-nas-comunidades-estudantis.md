@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/studytalk-um-sistema-para-facilitar-a-propagacao-de-questionamentos-e-solucoes-existentes-nas-comunidades-estudantis/"
+permalink: "/banca-tcc/tccs/matheus-coelho-nosse/"
 ---

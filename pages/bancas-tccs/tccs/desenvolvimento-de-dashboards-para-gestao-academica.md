@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/desenvolvimento-de-dashboards-para-gestao-academica/"
+permalink: "/banca-tcc/tccs/eduardo-buzzi/"
 ---

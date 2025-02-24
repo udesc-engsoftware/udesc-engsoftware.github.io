@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/react-next-e-gatsby-uma-analise-comparativa-entre-frameworks-frontend-javascript/"
+permalink: "/banca-tcc/tccs/lucas-ramthum-vegini/"
 ---

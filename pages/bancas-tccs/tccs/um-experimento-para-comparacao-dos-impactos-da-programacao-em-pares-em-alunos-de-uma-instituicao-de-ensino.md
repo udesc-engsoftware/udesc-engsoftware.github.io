@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/um-experimento-para-comparacao-dos-impactos-da-programacao-em-pares-em-alunos-de-uma-instituicao-de-ensino/"
+permalink: "/banca-tcc/tccs/ramon-vinicius-marqueviski/"
 ---

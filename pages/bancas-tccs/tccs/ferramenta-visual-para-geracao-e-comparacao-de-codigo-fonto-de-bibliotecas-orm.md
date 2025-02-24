@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ferramenta-visual-para-geracao-e-comparacao-de-codigo-fonte-de-bibliotecas-orm/"
+permalink: "/banca-tcc/tccs/giancarlo-pandini//"
 ---

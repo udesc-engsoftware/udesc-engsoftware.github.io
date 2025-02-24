@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/jogo-serio-como-ferramenta-de-apoio-para-o-aprendizado-de-empreendedorismo-no-ensino-fundamental-ii/"
+permalink: "/banca-tcc/tccs/lucas-waterkemper-alberton/"
 ---

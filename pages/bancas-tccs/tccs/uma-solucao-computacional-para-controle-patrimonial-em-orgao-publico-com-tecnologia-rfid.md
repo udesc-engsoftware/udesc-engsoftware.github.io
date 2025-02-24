@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/uma-solucao-computacional-para-controle-patrimonial-em-orgao-publico-com-tecnologia-rfid/"
+permalink: "/banca-tcc/tccs/paulo-henrique-rodrigues/"
 ---

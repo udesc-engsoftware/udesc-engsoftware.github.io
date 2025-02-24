@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/lector-sistema-de-apoio-para-gestao-de-diarios-de-classe/"
+permalink: "/banca-tcc/tccs/jorge-eli-de-oliveira/"
 ---
