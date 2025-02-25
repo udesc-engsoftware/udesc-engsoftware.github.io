@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/predicao-de-divida-tecnica-em-projetos-de-software-utilizando-machine-learning/"
+permalink: "/banca-tcc/tccs/denis-diego-marx/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/uso-de-visao-computacional-para-deteccao-e-reconhecimento-de-trabalhadores-sem-capacete/"
+permalink: "/banca-tcc/tccs/ana-cristina-vasconcellos-reinert/"
 ---

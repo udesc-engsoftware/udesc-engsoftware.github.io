@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/inclusao-e-tecnologia-desenvolvimento-de-uma-ferrmenta-de-auxilio-para-aplicacoes-moveis-acessiveis-em-flutter/"
+permalink: "/banca-tcc/tccs/mateus-lucas-cruz-brandt/"
 ---

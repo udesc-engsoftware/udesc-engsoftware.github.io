@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/figuras-historicas-sistema-interativo-de-engajamento-para-alunos-de-literatura/"
+permalink: "/banca-tcc/tccs/andre-luiz-cordeiro-games/"
 ---

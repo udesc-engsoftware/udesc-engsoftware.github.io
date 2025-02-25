@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/andre-cristen/"
+permalink: "/banca-tcc/tccs/lucas-martendal/"
 ---

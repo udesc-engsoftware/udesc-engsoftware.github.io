@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/evacimbuia-um-modelo-baseado-em-agentes-para-simulacao-de-evacuacao-do-bloco-imbuia/"
+permalink: "/banca-tcc/tccs/fabio-frare/"
 ---

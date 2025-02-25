@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/tech-path-vision-sistema-web-para-a-apresentacao-de-diferentes-areas-de-tecnologia-aos-iniciantes/"
+permalink: "/banca-tcc/tccs/caue-lopes-marques/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/desenvolvimento-de-uma-blockchain-para-armazenamento-digital-de-diplomas-de-conclusao-de-curso-da-udesc/"
+permalink: "/banca-tcc/tccs/max-natanael-starke/"
 ---

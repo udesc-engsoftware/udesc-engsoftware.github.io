@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/connectpet-uma-plataforma-para-gestao-financeira-e-operacional-destinada-a-instituicoes-de-protecao-animal/"
+permalink: "/banca-tcc/tccs/lucas-levi-goncalves/"
 ---

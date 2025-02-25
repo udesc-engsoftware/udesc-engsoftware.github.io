@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/um-jogo-para-a-educacao-financeira-nas-escolas/"
+permalink: "/banca-tcc/tccs/tiago-artur-schumann/"
 ---

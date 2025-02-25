@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/estudo-exploratorio-do-desempenho-dos-candidatos-do-enem-conforme-seus-dados-socieconomicos/"
+permalink: "/banca-tcc/tccs/daniel-larion-klug/"
 ---

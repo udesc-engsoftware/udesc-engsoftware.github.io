@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ajuste-fino-de-llms-para-classificacao-de-musicas-liturgicas/"
+permalink: "/banca-tcc/tccs/mateus-gabardo-lemos/"
 ---

@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/pictro-uma-ferramenta-de-auxilio-para-o-tratamento-de-criancas-tea/"
+permalink: "/banca-tcc/tccs/davi-lemes-franz/"
 ---

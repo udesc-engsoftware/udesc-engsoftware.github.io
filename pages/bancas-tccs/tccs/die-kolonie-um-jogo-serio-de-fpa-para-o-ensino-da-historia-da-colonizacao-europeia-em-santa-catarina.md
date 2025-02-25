@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/die-kolonie-um-jogo-serio-de-fpa-para-o-ensino-da-historia-da-colonizacao-europeia-em-santa-catarina/"
+permalink: "/banca-tcc/tccs/murilo-antunes-goedert/"
 ---

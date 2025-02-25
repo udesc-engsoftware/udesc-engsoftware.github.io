@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/classificacao-de-alimentos-atraves-da-aprendizagem-de-maquina/"
+permalink: "/banca-tcc/tccs/lucas-eduardo-nogueira/"
 ---

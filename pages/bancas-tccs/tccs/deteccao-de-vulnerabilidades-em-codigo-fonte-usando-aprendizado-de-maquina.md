@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/deteccao-de-vulnerabilidades-em-codigo-fonte-usando-aprendizado-de-maquina/"
+permalink: "/banca-tcc/tccs/angelina-machado-de-siqueira/"
 ---

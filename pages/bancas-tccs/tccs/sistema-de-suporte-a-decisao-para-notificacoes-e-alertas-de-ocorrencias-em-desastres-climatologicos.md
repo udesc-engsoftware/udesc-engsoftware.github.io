@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/sistema-de-suporte-a-decisao-para-notificacoes-e-alertas-de-ocorrencias-em-desastres-climatologicos/"
+permalink: "/banca-tcc/tccs/gustavo-rosa-lemes/"
 ---
