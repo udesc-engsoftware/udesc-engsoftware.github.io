@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function(){
     const id_tabela = "2PACX-1vSDF0f-Bc6daeqKfWjAaGjG14a0alpBCjTHYtvhxgOtpN2t9Tb8igm3vOqq9fqnEHJqS0OrnVhFrnCY";
     const tabela_url = `https://docs.google.com/spreadsheets/d/e/${id_tabela}/pub?output=csv`;
 
-    /* Busca os dados da Planilha  */
+    /* Busca os dados da Planilha */
     fetch(tabela_url)
         .then(response => response.text())
         .then(csvData => {
@@ -22,12 +22,6 @@ document.addEventListener("DOMContentLoaded", function(){
                 row[1] = `<a href="${link_tcc}" target="_blank">${titulo}</a>`;
 
                 return row;
-            });
-
-            links.forEach(row => {
-                const titulo = row[1].replace(/<.*?>(.*?)<\/.*?>/, '$1'); // Extrai o texto do link
-                const link_tcc = row[1].match(/href="(.*?)"/)[1]; // Extrai o link
-                console.log(`Título: ${titulo}, Link: ${link_tcc}`);
             });
             
             new DataTable("#tabela-tcc", {
