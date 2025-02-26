@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function(){
             parsedData.shift();
 
             const links = parsedData.map(row => {
-                const nome = row[0];
-                const titulo = row[1];
+                const titulo = row[0];
+                const nome = row[1];
                 
                 const titulo_tcc = nome.toLowerCase() /*Transforma em letras minúsculas */
                     .normalize("NFD").replace(/[\u0300-\u036f]/g, "") /* Separa e remove os acentos */
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function(){
                     .replace(/^-+|-+$/g, ""); /* Remove hífens no início e no final */
                 
                 const link_tcc = `/banca-tcc/tccs/${titulo_tcc}/`;
-                row[1] = `<a href="${link_tcc}" target="_blank">${titulo}</a>`;
+                row[0] = `<a href="${link_tcc}" target="_blank">${titulo}</a>`;
 
                 return row;
             });
@@ -27,19 +27,15 @@ document.addEventListener("DOMContentLoaded", function(){
             new DataTable("#tabela-tcc", {
                 data: links,
                 columns: [
-                    { title: "Aluno(a)" },
                     { title: "Título" },
+                    { title: "Aluno(a)" },
                     { title: "Orientador(a)" },
-                    { title: "Membros" },
-                    { title: "Área" },
-                    { title: "Data" },
-                    { title: "Hora" },
-                    { title: "Local" }
+                    { title: "Semestre" }
                 ],
                 language: {
                     url: "https://cdn.datatables.net/plug-ins/1.13.6/i18n/pt-BR.json"
                 },
-                order: [[1, 'asc']],
+                order: [[0, 'asc']],
                 responsive: true,
             });
         })
