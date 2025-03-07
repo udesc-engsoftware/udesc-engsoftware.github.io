@@ -56,6 +56,17 @@ permalink: "/professores/"
 
   <div class="small-12 medium-4 columns">
     <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/jaison-ademir-sevegnani/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Jaison Ademir Sevegnani</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
       <a href="/professores/leandro-loffi/" style="text-decoration: none; color: inherit;">
       <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-leandro-loffi.jpg"/>
       <div class="card-body">
@@ -88,11 +99,33 @@ permalink: "/professores/"
   </div>
 
   <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/mattheus-da-hora-franca/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Mattheus da Hora França</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
     <div class="card-container1" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
       <a href="/professores/pablo-schoeffel/" style="text-decoration: none; color: inherit;">
       <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-pablo.jpg"/>
       <div class="card-body">
         <h3 style="text-align: center; font-size: 18px"><b>Pablo Schoeffel</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/paolo-moser/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Paolo Moser</b></h3>
         </div>
       </a>
     </div>
