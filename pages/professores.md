@@ -34,6 +34,17 @@ permalink: "/professores/"
 
   <div class="small-12 medium-4 columns">
     <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/carlos-fernando-cruz/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Carlos Fernando Cruz</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
       <a href="/professores/fernando-santos/" style="text-decoration: none; color: inherit;">
       <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-fernando.png"/>
       <div class="card-body">
@@ -82,6 +93,28 @@ permalink: "/professores/"
       <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-luis-carlos-vieira.jpg"/>
       <div class="card-body">
         <h3 style="text-align: center; font-size: 18px"><b>Luis Carlos Vieira</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/marcio-jose-mantau/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Márcio José Mantau</b></h3>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <div class="small-12 medium-4 columns">
+    <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/marcelo-souza/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Marcelo de Souza</b></h3>
         </div>
       </a>
     </div>

@@ -15,9 +15,9 @@ permalink: "/professores/mattheus-da-hora-franca/"
 
 ### **Formação acadêmica**
 
-- Graduado em Ciência da Computação pela Universidade Estadual de Santa Cruz (UESC);
-- Mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME);
-- Doutorando em Ciência de Computação pela Universidade Federal de Santa Catarina (UFSC).
+- Doutorando em Ciência de Computação - Universidade Federal de Santa Catarina (UFSC);
+- Mestrado em Sistemas e Computação - Instituto Militar de Engenharia (IME);
+- Graduação em Ciência da Computação - Universidade Estadual de Santa Cruz (UESC).
 
 ### **Contato**
 

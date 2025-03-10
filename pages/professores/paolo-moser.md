@@ -15,11 +15,10 @@ permalink: "/professores/paolo-moser/"
 
 ### **Formação acadêmica**
 
-- Graduado em Licenciatura Plena em Matemática (FURB);
-- Especialista em Interdisciplinaridade na prática pedagógica (FURB);
-- Mestrado em Estatística Aplicada à Engenharia Florestal (FURB);
-- Doutorado em Métodos Estatísticos Aplicados à Engenharia Ambiental (FURB);
-
+- Doutorado em Métodos Estatísticos Aplicados à Engenharia Ambiental - Fundação Universidade Regional de Blumenau (FURB);
+- Mestrado em Estatística Aplicada à Engenharia Florestal - Fundação Universidade Regional de Blumenau (FURB);
+- Especialista em Interdisciplinaridade na prática pedagógica - Fundação Universidade Regional de Blumenau (FURB);
+- Graduação em Licenciatura Plena em Matemática - Fundação Universidade Regional de Blumenau (FURB).
 
 ### **Contato**
 

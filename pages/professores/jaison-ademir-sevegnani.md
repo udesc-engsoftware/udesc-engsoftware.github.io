@@ -15,11 +15,11 @@ permalink: "/professores/jaison-ademir-sevegnani/"
 
 ### **Formação acadêmica**
 
-- Graduado em Administração (FURB);
-- Especialista em Gerenciamento de Micro e Pequenas Empresas pela Universidade Federal de Lavras (UFLA);
+- Doutorando no Programa de Desenvolvimento Regional da FURB;
+- Mestrado em Administração - Fundação Universidade Regional de Blumenau (FURB);
 - Especialista em Gestão de Varejo (SENAC);
-- Mestrado em Administração (FURB);
-- Doutorando no Programa de Desenvolvimento Regional da FURB.
+- Especialista em Gerenciamento de Micro e Pequenas Empresas - Universidade Federal de Lavras (UFLA);
+- Graduação em Administração - Fundação Universidade Regional de Blumenau (FURB).
 
 ### **Contato**
 
