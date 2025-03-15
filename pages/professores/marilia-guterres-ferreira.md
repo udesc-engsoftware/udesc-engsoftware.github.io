@@ -10,7 +10,6 @@ permalink: "/professores/marilia-guterres-ferreira/"
 ---
 
 ## **Marília Guterres Ferreira**
-Teste
 
 <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professora-marilia.png" width="220"/>
 
