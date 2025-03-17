@@ -8,7 +8,7 @@ header:
     caption-url: "/curso/noticias/visita_eeb_aleixo_dellagiustina_e_eeb_victor_meirelles/"
 
 image:
-   thumb: "/posts/2024-08-23-visita-eeb-aleixo-dellagiustina-eeb-victor-meirelles/visita-eeb-aleixo-dellagiustina-1-thumb.jpeg"
+   thumb: "/posts/2024-08-23-visita-eeb-aleixo-dellagiustina-eeb-victor-meirelles/visita-eeb-aleixo-1-thumb.jpeg"
 gallery:
    - image_url: /posts/2024-08-23-visita-eeb-aleixo-dellagiustina-eeb-victor-meirelles/visita-eeb-aleixo-dellagiustina-1.jpeg
    - image_url: /posts/2024-08-23-visita-eeb-aleixo-dellagiustina-eeb-victor-meirelles/visita-eeb-aleixo-dellagiustina-2.jpeg
