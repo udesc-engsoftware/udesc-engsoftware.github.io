@@ -25,7 +25,7 @@ document.addEventListener("DOMContentLoaded", function(){
 
                 return [row[0], nome, orientador, semestre];
             });
-            
+
             new DataTable("#tabela-tcc", {
                 data: links,
                 columns: [
