@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(){
-    const id_tabela = "2PACX-1vSDF0f-Bc6daeqKfWjAaGjG14a0alpBCjTHYtvhxgOtpN2t9Tb8igm3vOqq9fqnEHJqS0OrnVhFrnCY";
+    const id_tabela = "2PACX-1vQD0IhjB59-yrW57UH1IQZnhzHfA5VK2kyWdloQGPgGeaeC8KCdgQKMigJ8dVRMZExiTEr4v-CulYG-";
     const tabela_url = `https://docs.google.com/spreadsheets/d/e/${id_tabela}/pub?output=csv`;
 
     /* Busca os dados da Planilha */
@@ -10,8 +10,10 @@ document.addEventListener("DOMContentLoaded", function(){
             parsedData.shift();
 
             const links = parsedData.map(row => {
-                const titulo = row[0];
-                const nome = row[1];
+                const nome = row[0];
+                const titulo = row[1];
+                const orientador = row[2];
+                const semestre = row[5];
                 
                 const titulo_tcc = nome.toLowerCase() /*Transforma em letras minúsculas */
                     .normalize("NFD").replace(/[\u0300-\u036f]/g, "") /* Separa e remove os acentos */
@@ -21,7 +23,7 @@ document.addEventListener("DOMContentLoaded", function(){
                 const link_tcc = `/banca-tcc/tccs/${titulo_tcc}/`;
                 row[0] = `<a href="${link_tcc}" target="_blank">${titulo}</a>`;
 
-                return row;
+                return [row[0], nome, orientador, semestre];
             });
             
             new DataTable("#tabela-tcc", {
