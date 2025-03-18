@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/gustavo-henrique-jung/"
 <br>
 **Membros:** Pablo Schoeffel e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15201
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15201][ghj]
+
+[ghj]: https://repositorio.udesc.br/handle/UDESC/15201

@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/joao-victor-arruda/"
 <br>
 **Membros:** Carlos Alberto Barth e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15195
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15195][jva]
+
+[jva]: https://repositorio.udesc.br/handle/UDESC/15195

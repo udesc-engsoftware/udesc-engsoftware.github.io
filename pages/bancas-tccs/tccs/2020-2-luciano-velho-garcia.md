@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/luciano-velho-garcia/"
 <br>
 **Membros:** Carlos Fernando Cruz e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15196
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15196][lvg]
+
+[lvg]: https://repositorio.udesc.br/handle/UDESC/15196

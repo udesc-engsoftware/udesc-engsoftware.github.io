@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/adrian-grosch/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17013
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17013][ag]
+
+[ag]: https://repositorio.udesc.br/handle/UDESC/17013

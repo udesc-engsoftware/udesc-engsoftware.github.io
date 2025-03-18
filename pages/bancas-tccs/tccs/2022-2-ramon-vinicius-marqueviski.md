@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/ramon-vinicius-marqueviski/"
 <br>
 **Membros:** Carlos Alberto Barth e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18195
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18195][rvm]
+
+[rvm]: https://repositorio.udesc.br/handle/UDESC/18195

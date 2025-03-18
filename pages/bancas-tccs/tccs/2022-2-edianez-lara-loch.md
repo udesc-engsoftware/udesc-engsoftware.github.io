@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/edianez-lara-loch/"
 <br>
 **Membros:** Marília Guterres Ferreira e Scheila Patrícia de Borba Curry
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18187
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18187][ell]
+
+[ell]: https://repositorio.udesc.br/handle/UDESC/18187

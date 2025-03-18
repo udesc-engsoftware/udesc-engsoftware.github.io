@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/danton-krieck-mohr/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18183
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18183][dkm]
+
+[dkm]: https://repositorio.udesc.br/handle/UDESC/18183

@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/andrew-vinicius-da-silva-baasch/"
 <br>
 **Membros:** Lívia Ruback - UFRJ e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15191
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15191][avsb]
+
+[avsb]: https://repositorio.udesc.br/handle/UDESC/15191

@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/adroan-covari-heinen/"
 <br>
 **Membros:** Paolo Moser e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15190
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15190][ach]
+
+[ach]: https://repositorio.udesc.br/handle/UDESC/15190

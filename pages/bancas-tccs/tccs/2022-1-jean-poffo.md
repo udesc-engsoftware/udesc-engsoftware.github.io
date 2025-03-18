@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/jean-poffo/"
 <br>
 **Membros:** Adilson Vahldick e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17015
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17015][jp]
+
+[jp]: https://repositorio.udesc.br/handle/UDESC/17015

@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/vinicius-tome-vieira/"
 <br>
 **Membros:** Paolo Moser e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15206
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15206][vtv]
+
+[vtv]: https://repositorio.udesc.br/handle/UDESC/15154

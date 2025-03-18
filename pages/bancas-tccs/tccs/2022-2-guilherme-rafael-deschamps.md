@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/guilherme-rafael-deschamps/"
 <br>
 **Membros:** Marcelo de Souza e Tiago Luiz Schmitz
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18190
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18190][grd]
+
+[grd]: https://repositorio.udesc.br/handle/UDESC/18190

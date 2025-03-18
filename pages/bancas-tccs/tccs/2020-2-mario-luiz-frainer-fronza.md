@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/mario-luiz-frainer-fronza/"
 <br>
 **Membros:** Adilson Vahldick e Ricardo Grunitzki
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15205
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15205][mlff]
+
+[mlff]: https://repositorio.udesc.br/handle/UDESC/15205

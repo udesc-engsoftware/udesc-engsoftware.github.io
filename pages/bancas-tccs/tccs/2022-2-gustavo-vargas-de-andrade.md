@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/gustavo-vargas-de-andrade/"
 <br>
 **Membros:** Marcelo de Souza e Guilherme Linheira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18191
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18191][gva]
+
+[gva]: https://repositorio.udesc.br/handle/UDESC/18191

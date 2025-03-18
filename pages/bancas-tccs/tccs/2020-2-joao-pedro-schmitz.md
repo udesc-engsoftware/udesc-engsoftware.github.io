@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/joao-pedro-schmitz/"
 <br>
 **Membros:** Carlos Alberto Barth e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15199
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15199][jps]
+
+[jps]: https://repositorio.udesc.br/handle/UDESC/15199

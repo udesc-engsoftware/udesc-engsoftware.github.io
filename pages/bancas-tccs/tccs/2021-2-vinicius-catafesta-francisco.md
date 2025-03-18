@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/vinicius-catafesta-francisco/"
 <br>
 **Membros:** Marília Guterres Ferreira e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17011
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17011][vcf]
+
+[vcf]: https://repositorio.udesc.br/handle/UDESC/17011

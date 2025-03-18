@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/thiago-farias/"
 <br>
 **Membros:** Marco Aurélio Butzke e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18198
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18198][tf]
+
+[tf]: https://repositorio.udesc.br/handle/UDESC/18198

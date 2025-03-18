@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/rodrigo-souza-tassoni/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18197
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18197][rst]
+
+[rst]: https://repositorio.udesc.br/handle/UDESC/18197

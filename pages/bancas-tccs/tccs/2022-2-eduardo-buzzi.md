@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/eduardo-buzzi/"
 <br>
 **Membros:** Adilson Vahldick e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18188
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18188][eb]
+
+[eb]: https://repositorio.udesc.br/handle/UDESC/18188

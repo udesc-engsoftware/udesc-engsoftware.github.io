@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/leonardo-tadeu-jaques-steinke/"
 <br>
 **Membros:** Pablo Schoeffel e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17012
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17012][ltjk]
+
+[ltjk]: https://repositorio.udesc.br/handle/UDESC/17012

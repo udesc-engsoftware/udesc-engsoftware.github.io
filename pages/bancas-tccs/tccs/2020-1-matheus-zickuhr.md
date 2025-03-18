@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/matheus-zickuhr/"
 <br>
 **Membros:** Adilson Vahldick e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15154
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15154][mk]
+
+[mk]: https://repositorio.udesc.br/handle/UDESC/15154

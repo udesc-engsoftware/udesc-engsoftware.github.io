@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/eloisa-bazanella/"
 <br>
 **Membros:** Marília Guterres Ferreira e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18189
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18189][eb]
+
+[eb]: https://repositorio.udesc.br/handle/UDESC/18189

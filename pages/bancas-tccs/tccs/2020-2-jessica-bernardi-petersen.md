@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/jessica-bernardi-petersen/"
 <br>
 **Membros:** Marília Guterres Ferreira e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15203
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15203][jbp]
+
+[jbp]: https://repositorio.udesc.br/handle/UDESC/15203
