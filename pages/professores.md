@@ -79,7 +79,7 @@ permalink: "/professores/"
   <div class="small-12 medium-4 columns">
     <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
       <a href="/professores/leandro-loffi/" style="text-decoration: none; color: inherit;">
-      <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-leandro-loffi.jpg"/>
+      <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-leandro-loffi.png"/>
       <div class="card-body">
         <h3 style="text-align: center; font-size: 18px"><b>Leandro Loffi</b></h3>
         </div>
