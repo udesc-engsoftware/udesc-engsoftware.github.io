@@ -25,7 +25,8 @@ permalink: "/banca-tcc/consulta-tcc/"
 
 <div class="container">
    <h1>TCC's Engenharia de Software UDESC</h1>
-   <p>Clique no título do TCC na tabela abaixo para acessar os detalhes completos.</p>
+   <p>Utilize o campo de busca para pesquisar um TCC específico.<br>
+      Clique no título do TCC na tabela abaixo para acessar os detalhes completos. Os trabalhos que estiverem catalogados no Repositório Institucional da UDESC terão um link para download do arquivo PDF.</p>
    <table id="tabela-tcc" class="display" style="width: 100%"></table>
 </div>
 
