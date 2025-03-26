@@ -8,7 +8,8 @@ header:
    image_fullwidth: "banner-site-eso.png"
 permalink: "/professores/"
 ---
-
+### **Corpo Docente Atual**
+<hr>
 <div class="row text-center">
   <div class="small-12 medium-4 columns">
     <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
@@ -188,17 +189,6 @@ permalink: "/professores/"
 
   <div class="small-12 medium-4 columns">
     <div class="card-container1" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
-      <a href="/professores/rodrigo-nogueira/" style="text-decoration: none; color: inherit;">
-      <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-rodrigo-nogueira.jpg"/>
-      <div class="card-body">
-        <h3 style="text-align: center; font-size: 18px"><b>Rodrigo Nogueira</b></h3>
-        </div>
-      </a>
-    </div>
-  </div>
-
-  <div class="small-12 medium-4 columns">
-    <div class="card-container1" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
       <a href="/professores/scheila-curry/" style="text-decoration: none; color: inherit;">
       <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professora-scheila-curry.jpg"/>
       <div class="card-body">
@@ -220,3 +210,16 @@ permalink: "/professores/"
   </div>
 </div>
 
+### **Ex-professores**
+<hr>
+<div class="row text-center">
+  <div class="small-12 medium-4 columns">
+    <div class="card-container1" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
+      <a href="/professores/rodrigo-nogueira/" style="text-decoration: none; color: inherit;">
+      <img class="img-responsive" src="{{site.urlimg}}/professores/foto-professor-rodrigo-nogueira.jpg"/>
+      <div class="card-body">
+        <h3 style="text-align: center; font-size: 18px"><b>Rodrigo Nogueira</b></h3>
+        </div>
+      </a>
+    </div>
+</div>
