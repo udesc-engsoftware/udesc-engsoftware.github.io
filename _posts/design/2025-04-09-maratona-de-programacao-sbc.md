@@ -1,32 +1,21 @@
 --- 
-
 layout: page 
-
-title:  "Estudantes e engenharia de software pariticipam da maratona de programação da SBC" 
-
+title:  "Estudantes de Engenharia de Software participam de edições anteriores da Maratona de Programação da SBC" 
 subheadline: "" 
-
-teaser: "Estudantes de Ituporanga (SC) e Vitor Meirelles (SC), visitam o curso de Engenharia de Software." 
-
+teaser: "" 
 header: 
-
     image_fullwidth: "banner-site-eso.png" 
-
     caption-url: "/curso/noticias/visita_eeb_aleixo_dellagiustina_e_eeb_victor_meirelles/" 
 
- 
-
 image: 
-
    thumb: "/posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1-thumb.jpg" 
 
 gallery: 
-
    - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg
-   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg
-   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg
-   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg
-   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg
+   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-2.jpg
+   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-3.jpg
+   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-4.jpg
+   - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-5.jpg
    
 
 
@@ -38,43 +27,65 @@ Os times são compostos por 3 estudantes, que em um período de 5 horas tentam r
 
 Ao longo dos anos, os acadêmicos(as) de Engenharia de Software da UDESC Alto Vale participaram de 4 edições da Maratona, demonstrando a dedicação, trabalho em equipe e superação de desafios.
 
-Edição 2024
+<hr>
+
+**Edição 2024**
 
 No dia 31/08/2024, duas equipes de Engenharia de Software, acompanhadas pelo Professor Fernando dos Santos, participaram da Etapa Regional da Maratona de Programação da SBC, realizada na UDESC Joinville. As equipes se dedicaram intensamente à resolução dos problemas e obtiveram resultados positivos, destacando-se pelo entusiasmo e pelo trabalho colaborativo.
 
-Time: ESO - CEAVI
+**Time: ESO - CEAVI**
+<br>
 Participantes: 
+<br>
 1 - Aline Rodrigues Santos
+<br>
 2 - Mario Alves dos Santos Junior
+<br>
 3 - Thaiane Bento de Almeida
+<br>
 4 - Clara dos Santos Becker (reserva)
+<br>
+**Acertos: 3 de 12 problemas**
 
-Acertos: 3 de 12 problemas
-
-Time: Robsons (Não tem nenhum Robson)
+**Time: Robsons (Não tem nenhum Robson)**
+<br>
 Participantes:
+<br>
 1 - Lucas Gabriel Falcade Nunes
+<br>
 2 - Luiz Alberth Neppel
+<br>
 3 - Luiz Fernando de Jesus Portela
+<br>
+**Acertos: 3 de 12 problemas**
 
-Acertos:3 de 12 problemas
+**Edições Anteriores:**
 
-Edições Anteriores:
-
-Edição 2018:
+**Edição 2018:**
+<br>
 Time: [UDESC - CEAVI] Tribos do Vale
+<br>
 Local: Joinville - SC
-Acertos: 2 de 13 problemas
+<br>
+**Acertos: 2 de 13 problemas**
 
-Edição 2016:
+**Edição 2016:**
+<br>
 Time: [UDESC - CEAVI] cpp.java
+<br>
 Local: Blumenau - SC
-Acertos: 2 de 12 problemas
+<br>
+**Acertos: 2 de 12 problemas**
 
-Edição 2012:
+**Edição 2012:**
+<br>
 Time: Tron
+<br>
 Local: Itajaí - SC
-Acertos: 1 de 12 problemas
+<br>
+**Acertos: 1 de 12 problemas**
+
+<hr>
 
 Parabenizamos as equipes de Engenharia de Software da UDESC Alto Vale pela participação e esforço demonstrado nas edições da Maratona de Programação. Cada participação é uma oportunidade valiosa de aprendizado, onde os estudantes aprimoram suas habilidades em programação, resolução de problemas complexos e trabalho em equipe. Continuamos a apoiar nossos alunos a participar das próximas edições da competição, pois é uma excelente oportunidade de crescimento acadêmico e profissional. 
 
