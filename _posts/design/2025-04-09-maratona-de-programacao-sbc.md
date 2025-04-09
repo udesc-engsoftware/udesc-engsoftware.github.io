@@ -8,18 +8,13 @@ header:
     caption-url: "/curso/noticias/visita_eeb_aleixo_dellagiustina_e_eeb_victor_meirelles/" 
 
 image: 
-   thumb: "/posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1-thumb.jpg" 
-
+   thumb: "/posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1-thumb.jpg"
 gallery: 
    - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg
    - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-2.jpg
    - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-3.jpg
    - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-4.jpg
    - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-5.jpg
-   
-
-
-
 --- 
 A Maratona de Programação realizada pela Sociedade Brasileira de Computação se destina a alunos(as) de cursos de graduação e pós-graduação na área de Computação e afins. A competição promove aos estudantes a criatividade, a capacidade de trabalho em equipe, a busca de novas soluções de software e a habilidade de resolver problemas sob pressão.
 
