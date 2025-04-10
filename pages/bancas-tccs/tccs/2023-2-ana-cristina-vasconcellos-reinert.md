@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/ana-cristina-vasconcellos-reinert/"
 <br>
 **Membros:** Marília Guterres Ferreira e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1416][acvr]
+
+[acvr]: https://repositorio.udesc.br/handle/UDESC/1416
