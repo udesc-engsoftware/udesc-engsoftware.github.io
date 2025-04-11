@@ -1,6 +1,7 @@
 --- 
 layout: page 
 title:  "Estudantes de Engenharia de Software participam de edições anteriores da Maratona de Programação da SBC" 
+author: erick
 subheadline: "" 
 teaser: "" 
 header: 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "Curso de Engenharia de Software recebe estudantes de Ituporanga e Vitor Meirelles"
+author: erick
 subheadline: ""
 teaser: "Estudantes de Ituporanga (SC) e Vitor Meirelles (SC), visitam o curso de Engenharia de Software."
 header:
