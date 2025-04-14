@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/jorge-eli-de-oliveira/"
 <br>
 **Membros:** Geraldo Menegazzo Varela e Carlos Fernando Cruz
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1422][jeo]
+
+[jeo]: https://repositorio.udesc.br/handle/UDESC/1422

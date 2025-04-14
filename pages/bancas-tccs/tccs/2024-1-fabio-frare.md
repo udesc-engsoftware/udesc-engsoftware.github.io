@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/fabio-frare/"
 <br>
 **Membros:** Paulo Roberto Farah e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20615][ff]
+
+[ff]: https://repositorio.udesc.br/handle/UDESC/20615

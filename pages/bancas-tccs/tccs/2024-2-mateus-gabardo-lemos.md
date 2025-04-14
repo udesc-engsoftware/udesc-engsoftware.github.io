@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/mateus-gabardo-lemos/"
 <br>
 **Membros:** Adilson Vahldick e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20624][mgl]
+
+[mgl]: https://repositorio.udesc.br/handle/UDESC/20624

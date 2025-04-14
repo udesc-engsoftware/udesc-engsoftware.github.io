@@ -29,4 +29,7 @@ permalink: "/banca-tcc/tccs/marcos-rufino-de-camargo/"
 <br>
 **Membros:** Tiago Luiz Schmitz e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1389][mrc]
+
+
+[mrc]: https://repositorio.udesc.br/handle/UDESC/1389

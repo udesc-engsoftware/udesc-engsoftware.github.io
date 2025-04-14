@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/joao-eduardo-krieger/"
 <br>
 **Membros:** Pablo Schoeffel e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20621][jek]
+
+[jek]: https://repositorio.udesc.br/handle/UDESC/20621

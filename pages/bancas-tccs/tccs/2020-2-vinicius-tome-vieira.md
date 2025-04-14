@@ -31,4 +31,4 @@ permalink: "/banca-tcc/tccs/vinicius-tome-vieira/"
 <br>
 **Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15206][vtv]
 
-[vtv]: https://repositorio.udesc.br/handle/UDESC/15154
+[vtv]: https://repositorio.udesc.br/handle/UDESC/15206

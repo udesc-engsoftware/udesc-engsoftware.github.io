@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/luis-felipe-da-silva/"
 <br>
 **Membros:** Pablo Schoeffel e Marcelo da Silva Hounsell
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1418][lfs]
+
+[lfs]: https://repositorio.udesc.br/handle/UDESC/1418

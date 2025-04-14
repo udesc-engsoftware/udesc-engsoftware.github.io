@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/mauricio-ventura-nardelli/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1390][mvn]
+
+[mvn]: https://repositorio.udesc.br/handle/UDESC/1390

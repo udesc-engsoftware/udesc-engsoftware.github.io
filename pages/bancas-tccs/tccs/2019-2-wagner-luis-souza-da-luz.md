@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/wagner-luis-souza-da-luz/"
 <br>
 **Membros:** Fernando dos Santos e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1392][wlsl]
+
+[wlsl]: https://repositorio.udesc.br/handle/UDESC/1392

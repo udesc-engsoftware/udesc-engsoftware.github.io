@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/daniel-valdo-dallabeneta/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20612][dvd]
+
+[dvd]: https://repositorio.udesc.br/handle/UDESC/20612

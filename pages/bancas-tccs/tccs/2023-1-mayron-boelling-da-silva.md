@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/mayron-boelling-da-silva/"
 <br>
 **Membros:** Adilson Vahldic e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1424][mbs]
+
+[mbs]: https://repositorio.udesc.br/handle/UDESC/1424

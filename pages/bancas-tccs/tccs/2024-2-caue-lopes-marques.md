@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/caue-lopes-marques/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20618][clm]
+
+[clm]: https://repositorio.udesc.br/handle/UDESC/20618

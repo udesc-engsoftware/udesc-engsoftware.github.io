@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/andre-cristen/"
 <br>
 **Membros:** Mattheus da Hora França e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20611][ac]
+
+[ac]: https://repositorio.udesc.br/handle/UDESC/20611

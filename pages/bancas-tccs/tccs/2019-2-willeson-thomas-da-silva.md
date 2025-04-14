@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/willeson-thomas-da-silva/"
 <br>
 **Membros:** Paolo Moser e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1393][wts]
+
+[wts]: https://repositorio.udesc.br/handle/UDESC/1393

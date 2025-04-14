@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/tiago-artur-schumann/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1420][tas]
+
+[tas]: https://repositorio.udesc.br/handle/UDESC/1420

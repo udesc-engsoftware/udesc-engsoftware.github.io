@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/denis-zickhur/"
 <br>
 **Membros:** Pablo Schoeffel e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20614][dz]
+
+[dz]: https://repositorio.udesc.br/handle/UDESC/20614

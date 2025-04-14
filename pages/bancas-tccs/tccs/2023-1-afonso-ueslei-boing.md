@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/afonso-ueslei-boing/"
 <br>
 **Membros:** Carlos Alberto Barth e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1421][aub]
+
+[aub]: https://repositorio.udesc.br/handle/UDESC/1421

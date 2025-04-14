@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/mateus-lucas-cruz-brandt/"
 <br>
 **Membros:** Mattheus da hora França e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20625][mlcb]
+
+[mlcb]: https://repositorio.udesc.br/handle/UDESC/20625

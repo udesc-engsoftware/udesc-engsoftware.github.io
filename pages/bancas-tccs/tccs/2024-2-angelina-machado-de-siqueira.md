@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/angelina-machado-de-siqueira/"
 <br>
 **Membros:** Marília Guterres Ferreira e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20617][ams]
+
+[ams]: https://repositorio.udesc.br/handle/UDESC/20617

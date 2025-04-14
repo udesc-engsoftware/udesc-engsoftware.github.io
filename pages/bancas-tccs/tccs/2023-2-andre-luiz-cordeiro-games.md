@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/andre-luiz-cordeiro-games/"
 <br>
 **Membros:** Paolo Moser e Scheila Patrícia de Borba Curry
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20627][alcg]
+
+[alcg]: https://repositorio.udesc.br/handle/UDESC/20627

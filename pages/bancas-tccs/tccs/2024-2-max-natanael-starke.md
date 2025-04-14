@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/max-natanael-starke/"
 <br>
 **Membros:** Sérgio Roberto Villareal e Carla Merkle Westphall
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20626][mns]
+
+[mns]: https://repositorio.udesc.br/handle/UDESC/20626

@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/ivens-diego-muller/"
 <br>
 **Membros:** Marília Guterres Ferreira e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1388][idm]
+
+[idm]: https://repositorio.udesc.br/handle/UDESC/1388

@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/lucas-martendal/"
 <br>
 **Membros:** Mattheus da Hora França e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20545][lm]
+
+[lm]: https://repositorio.udesc.br/handle/UDESC/20545

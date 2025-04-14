@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/daniel-larion-klug/"
 <br>
 **Membros:** Carlos Alberto Barth e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20619][dlk]
+
+[dlk]: https://repositorio.udesc.br/handle/UDESC/20619

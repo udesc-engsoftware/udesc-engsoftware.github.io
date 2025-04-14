@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/felipe-lana-machado/"
 <br>
 **Membros:** Adilson Vahldick e Tiago Luiz Schmitz
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1387][flm]
+
+[flm]: https://repositorio.udesc.br/handle/UDESC/1387

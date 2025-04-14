@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/tiago-funk/"
 <br>
 **Membros:** Paolo Moser e Tiago Luiz Schmitz
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1391][tf]
+
+[tf]: https://repositorio.udesc.br/handle/UDESC/1391
