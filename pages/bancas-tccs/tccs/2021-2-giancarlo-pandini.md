@@ -29,4 +29,6 @@ permalink: "/banca-tcc/tccs/giancarlo-pandini/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17009
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17009][gp]
+
+[gp]: https://repositorio.udesc.br/handle/UDESC/17009
