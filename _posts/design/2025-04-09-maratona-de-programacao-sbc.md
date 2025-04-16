@@ -9,6 +9,7 @@ header:
     caption-url: "/curso/noticias/visita_eeb_aleixo_dellagiustina_e_eeb_victor_meirelles/" 
 
 image: 
+   homepage: "/posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg"
    thumb: "/posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1-thumb.jpg"
 gallery: 
    - image_url: /posts/2025-04-09-maratona-de-programacao-sbc/maratona-programacao-1.jpg

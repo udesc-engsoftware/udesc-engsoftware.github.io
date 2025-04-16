@@ -117,12 +117,6 @@ permalink: "/curso/matriz-curricular/"
 <br>
 [85TCC2][85tcc2] - Trabalho de Conclusão de Curso II
 
-<hr>
-
-#### Organograma - Matriz Curricular Engenharia de Software
-
-<img class="img-responsive" src="{{site.urlimg}}/organograma-eso.png"/>
-
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
 [15mat]: {{site.url}}/curso/matriz-curricular/15mat
