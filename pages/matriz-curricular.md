@@ -121,7 +121,6 @@ permalink: "/curso/matriz-curricular/"
 <hr>
 
 <img class="img-responsive" src="{{site.urlimg}}/organograma-eso.png"/>
-<img class="img-responsive" src="{{site.urlimg}}/legenda-organograma.png"/>
 
 [15idt]: {{site.url}}/curso/matriz-curricular/15idt 
 [15fes]: {{site.url}}/curso/matriz-curricular/15fes
