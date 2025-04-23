@@ -9,6 +9,28 @@ header:
 permalink: "/curso/matriz-curricular/"
 ---
 
+<script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/hierarchy.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+
+<style>
+  #chartdiv {
+    width: 100%;
+    height: 550px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+  }
+</style>
+
+<div class="container">
+  <h2>Visualização Interativa da Matriz Curricular</h2>
+  <hr>
+  <p>Explore visualmente a estrutura das fases e disciplinas do curso de Engenharia de Software.</p>
+  <div id="chartdiv"></div>
+</div>
+
+<script src="/assets/js/matriz-curricular.js"></script>
+
 ##### *Legenda dos Conteúdos das Disciplinas*
 
 - Preto: maior aprofundamento do conteúdo;
