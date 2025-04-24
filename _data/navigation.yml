@@ -2,33 +2,64 @@
   url: "/"
   side: left
 
-- title: Curso
-  url: "/curso/"
+- title: "Ensino"
   side: left
-  dropdown: 
-  - title: "Sobre"
+  dropdown:
+  - title: "Sobre o Curso"
     url: "/curso/sobre/"
-  - title: "Notícias"
-    url: "/curso/noticias/"
-  - title: "Matriz curricular"
-    url: "/curso/matriz-curricular/"
-  - title: "Laboratórios"
-    url: "/curso/laboratorios/"
-  - title: "Objetivos"
-    url: "/curso/objetivos/"
   - title: "Perfil profissional"
     url: "/curso/perfil-profissional/"
   - title: "Atuação profissional"
     url: "/curso/atuacao-profissional/"
+  - title: "Matriz curricular"
+    url: "/curso/matriz-curricular/"
+  - title: "Trabalho de Conclusão de Curso"
+    url: "/banca-tcc/consulta-tcc"
+  - title: "Estágio Curricular"
+    url: "/curso/estagio" #todo erick: criar uma página sobre o estágio; explicar como funciona, pegar detalhes do projeto pedagógico
+  - title: "Laboratórios"
+    url: "/curso/laboratorios/"
   - title: "Coordenação"
     url: "/curso/coordenacao/"
 
-- title: "Bancas de TCCs"
-  url: "/banca-tcc/consulta-tcc"
+- title: "Pesquisa"
   side: left
+  dropdown:
+  - title: "Sobre a Pesquisa"
+    url: "/pesquisa/sobre"
+  - title: "Grupos"
+    url: "/pesquisa/grupos"
+  - title: "Projetos"
+    url: "/pesquisa/projetos"
+  - title: "Laboratórios"
+    url: "/pesquisa/laboratorios"
 
-- title: "Professores"
-  url: "/professores/"
+- title: "Extensão"
+  side: left
+  dropdown:
+  - title: "Sobre a Extensão"
+    url: "/extensao/sobre"
+  - title: "Programas e Projetos"
+    url: "/extensao/projetos"
+  - title: "Laboratórios"
+    url: "/extensao/laboratorios"
+
+- title: "Pessoas"
+  side: left
+  dropdown:
+    - title: "Professores"
+      url: "/professores/"
+    - title: "Técnicos Administrativos"
+      url: "/tecnicos/"
+    - title: "Bolsistas"
+      url: "/bolsistas/"
+
+#- title: "Professores"
+#  url: "/professores/"
+#  side: left
+
+- title: "Notícias"
+  url: "/curso/noticias"
   side: left
 
 - title: "Contato"
