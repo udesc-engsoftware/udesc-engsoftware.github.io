@@ -25,6 +25,9 @@ permalink: "/banca-tcc/consulta-tcc/"
 
 ## Trabalho de Conclusão de Curso (TCC)
 <!-- todo erick: explicar sobre o tcc; pegar descrição do projeto do curso -->
+O Trabalho de Conclusão de Curso em Engenharia de Software será desenvolvido pelo acadêmico através das disciplinas Trabalho de Conclusão de Curso I (TCC1 – presencial) e Trabalho de Conclusão de Curso II (TCC2 – não presencial). Na primeira disciplina (TCC1) o aluno desenvolverá uma proposta do trabalho, em conjunto com seu professor orientador. Haverá um professor da disciplina TCC1 que conduzirá o processo metodológico para realização da proposta, por meio de aulas presenciais no início do semestre.  
+
+Durante o semestre o aluno e professor orientador desenvolverão a sua proposta, que deve ser previamente aprovada por banca de professores designados pelo professor da disciplina TCC1. O aluno aprovado na disciplina TCC1 poderá, então, matricular-se em TCC2, onde desenvolverá efetivamente o seu projeto. O trabalho deverá ser apresentado e defendido pelo acadêmico perante uma banca examinadora constituída de três (03) professores, designada pelo Chefe de Departamento e presidida pelo professor orientador, atendendo ainda, as normas complementares definidas e aprovadas pelo Departamento sobre a matéria. A conclusão do Curso de Engenharia de Software está condicionada à apresentação e aprovação desse trabalho. 
 
 ## Pesquisa de TCCs
 
