@@ -6,21 +6,21 @@
   side: left
   dropdown:
   - title: "Sobre o Curso"
-    url: "/curso/sobre/"
+    url: "/ensino/sobre/"
   - title: "Perfil profissional"
-    url: "/curso/perfil-profissional/"
+    url: "/ensino/perfil-profissional/"
   - title: "Atuação profissional"
-    url: "/curso/atuacao-profissional/"
+    url: "/ensino/atuacao-profissional/"
   - title: "Matriz curricular"
-    url: "/curso/matriz-curricular/"
+    url: "/ensino/matriz-curricular/"
   - title: "Trabalho de Conclusão de Curso"
     url: "/banca-tcc/consulta-tcc"
   - title: "Estágio Curricular"
-    url: "/curso/estagio" #todo erick: criar uma página sobre o estágio; explicar como funciona, pegar detalhes do projeto pedagógico
+    url: "/ensino/estagio" #todo erick: criar uma página sobre o estágio; explicar como funciona, pegar detalhes do projeto pedagógico
   - title: "Laboratórios"
-    url: "/curso/laboratorios/"
+    url: "/ensino/laboratorios/"
   - title: "Coordenação"
-    url: "/curso/coordenacao/"
+    url: "/ensino/coordenacao/"
 
 - title: "Pesquisa"
   side: left

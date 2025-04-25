@@ -7,7 +7,7 @@ meta_title          : "Objetivos do curso"
 teaser              : ""
 header:
    image_fullwidth  : "banner-site-eso.png"
-permalink           : "/curso/objetivos/"
+permalink           : "/ensino/objetivos/"
 ---
 
 ## Objetivo Geral

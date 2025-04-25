@@ -7,7 +7,7 @@ meta_title          : "Perfil Profissional"
 teaser              : ""
 header:
    image_fullwidth  : "banner-site-eso.png"
-permalink           : "/curso/perfil-profissional/"
+permalink           : "/ensino/perfil-profissional/"
 ---
 
 ## Perfil Profissional

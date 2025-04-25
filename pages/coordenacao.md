@@ -9,7 +9,7 @@ meta_title          : "Coordenação"
 teaser              : ""
 header:
    image_fullwidth  : "banner-site-eso.png"
-permalink           : "/curso/coordenacao/"
+permalink           : "/ensino/coordenacao/"
 ---
 
 

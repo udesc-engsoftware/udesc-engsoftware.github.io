@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/curso/laboratorios/"
+permalink: "/ensino/laboratorios/"
 ---
 
 ## **Laboratórios**
@@ -92,16 +92,16 @@ A Sala Espine é um espaço destinado a capacitações, aulas dinâmicas, rodas 
 
 <hr>
 
-[empds]: {{ site.url }}/curso/laboratorios/#empds
-[laboratorios]: {{ site.url }}/curso/laboratorios/#lab
-[gamelab]: {{ site.url }}/curso/laboratorios/#gamelab
-[labot]: {{ site.url }}/curso/laboratorios/#labot
-[espine]: {{ site.url }}/curso/laboratorios/#espine
-[esopop]: {{ site.url }}/curso/laboratorios/#esopop
-[lab_informatica]: {{ site.url }}/curso/laboratorios/lab-informatica
-[escritorio_modelo]: {{ site.url }}/curso/laboratorios/empds
-[gamelab_eso]: {{ site.url }}/curso/laboratorios/gamelab
-[labot_eso]: {{ site.url }}/curso/laboratorios/labot
-[espine_udesc_alto_vale]: {{ site.url }}/curso/laboratorios/espine
-[esopop_sala]: {{ site.url }}/curso/laboratorios/esopop
+[empds]: {{ site.url }}/ensino/laboratorios/#empds
+[laboratorios]: {{ site.url }}/ensino/laboratorios/#lab
+[gamelab]: {{ site.url }}/ensino/laboratorios/#gamelab
+[labot]: {{ site.url }}/ensino/laboratorios/#labot
+[espine]: {{ site.url }}/ensino/laboratorios/#espine
+[esopop]: {{ site.url }}/ensino/laboratorios/#esopop
+[lab_informatica]: {{ site.url }}/ensino/laboratorios/lab-informatica
+[escritorio_modelo]: {{ site.url }}/ensino/laboratorios/empds
+[gamelab_eso]: {{ site.url }}/ensino/laboratorios/gamelab
+[labot_eso]: {{ site.url }}/ensino/laboratorios/labot
+[espine_udesc_alto_vale]: {{ site.url }}/ensino/laboratorios/espine
+[esopop_sala]: {{ site.url }}/ensino/laboratorios/esopop
 

@@ -7,7 +7,7 @@ meta_title          : "Atuação Profissional"
 teaser              : ""
 header:
    image_fullwidth  : "banner-site-eso.png"
-permalink           : "/curso/atuacao-profissional/"
+permalink           : "/ensino/atuacao-profissional/"
 ---
 
 ## Atuação Profissional
