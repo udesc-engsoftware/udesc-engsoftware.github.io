@@ -35,14 +35,18 @@ Formar profissionais aptos a produzir sistemas de software de alta qualidade. Po
 
 O curso possui um conjunto de disciplinas básicas como a matemática e sua aplicação na área da computação, arquitetura de computadores, sistemas operacionais, comunicação e expressão e metodologia científica. Também são estudadas disciplinas de programação de computadores, desde os fundamentos até o desenvolvimento de sistemas complexos como aplicações para smartphones e jogos digitais. Cada etapa do processo de desenvolvimento de software é estudada em disciplinas que envolvem análise, projeto, testes, implantação e manutenção de software, bem como gerenciamento de projetos. Finalmente, disciplinas de diferentes áreas complementam a formação do acadêmico, como inteligência artificial, experimentação e desenvolvimento de projetos multidisciplinares.
 <!-- todo erick: colocar um link para a página da matriz curricular -->
+<br>
+<br>
 [Acesse a Matriz Curricular do curso de Engenharia de Software][mc]
 
 ## Destaques
 
 <!-- todo erick: escrever um preambulo explicando o que são estes destaques do curso -->
 
-*Escritório modelo de desenvolvimento de software:* é um laboratório que visa permitir que os alunos vivenciem um ambiente real de desenvolvimento de software dentro da universidade. Além disso, é adequado para a pesquisa e foca em práticas para garantir a qualidade e a padronização das atividades de engenharia e auxiliar no desenvolvimento e gestão de softwares para outras instituições públicas e/ou privadas, ou para outras instituições e também à Udesc.
+Confira a seguir alguns dos principais destaques do curso de Engenharia de Software:
 
-*Ensino lúdico de robótica:* o projeto tem como objetivo capacitar alunos no desenvolvimento do pensamento computacional, através da construção e programação de robôs elaborados com kits Lego. As atividades são realizadas com alunos do ensino fundamental e médio de escolas da região.
+**Escritório modelo de desenvolvimento de software:** é um laboratório que visa permitir que os alunos vivenciem um ambiente real de desenvolvimento de software dentro da universidade. Além disso, é adequado para a pesquisa e foca em práticas para garantir a qualidade e a padronização das atividades de engenharia e auxiliar no desenvolvimento e gestão de softwares para outras instituições públicas e/ou privadas, ou para outras instituições e também à Udesc.
+
+**Ensino lúdico de robótica:** o projeto tem como objetivo capacitar alunos no desenvolvimento do pensamento computacional, através da construção e programação de robôs elaborados com kits Lego. As atividades são realizadas com alunos do ensino fundamental e médio de escolas da região.
 
 [mc]: {{site.url}}/ensino/matriz-curricular/
