@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/curso/laboratorios/esopop"
+permalink: "/extensao/laboratorios/esopop"
 
 image:
    thumb: "/laboratorios/sala-esopop-1-thumb.jpeg"

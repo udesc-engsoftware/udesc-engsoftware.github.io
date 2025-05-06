@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/curso/laboratorios/gamelab"
+permalink: "/pesquisa/laboratorios/gamelab"
 
 image:
    thumb: "/laboratorios/gamelab-1-thumb.jpeg"

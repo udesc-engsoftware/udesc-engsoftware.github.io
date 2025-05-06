@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/curso/laboratorios/empds"
+permalink: "/extensao/laboratorios/empds"
 
 image:
     thumb: "/laboratorios/escritorio-modelo-1-thumb.jpeg"

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/curso/laboratorios/labot"
+permalink: "/extensao/laboratorios/labot"
 
 image:
    thumb: "/laboratorios/labot-1-thumb.jpeg"

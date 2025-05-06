@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/curso/laboratorios/lab-informatica"
+permalink: "/ensino/laboratorios/lab-informatica"
 
 image:
    thumb: "/laboratorios/laboratorio-1-thumb.jpeg"

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/curso/laboratorios/espine"
+permalink: "/ensino/laboratorios/espine"
 
 image: 
     thumb: "/laboratorios/sala-espine-1-thumb.jpeg"
