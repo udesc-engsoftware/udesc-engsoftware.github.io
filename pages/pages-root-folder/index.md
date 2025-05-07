@@ -9,12 +9,12 @@ header:
   image_fullwidth: "banner-site-eso.png"
 widget1:
   title: "Sobre o Curso"
-  url: "/curso/sobre/"
+  url: "/ensino/sobre/"
   image: foto-sobre-curso.jpg
   text: 'Conheça o curso de Graduação em Engenharia de Software da UDESC Alto Vale.'
 widget2:
   title: "Matriz Curricular"
-  url: '/curso/matriz-curricular/'
+  url: '/ensino/matriz-curricular/'
   image: foto-matriz-curricular.jpg
   text: 'Conheça a Matriz Curricular do curso de Engenharia de Software.'
 widget3:
