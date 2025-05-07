@@ -2,7 +2,7 @@
 layout              : page
 show_meta           : false
 title               : ""
-subheadline         : ""
+subheadline         : "Objetivos"
 meta_title          : "Objetivos do curso"
 teaser              : ""
 header:

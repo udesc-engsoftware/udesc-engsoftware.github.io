@@ -2,7 +2,7 @@
 layout              : page
 show_meta           : false
 title               : ""
-subheadline         : ""
+subheadline         : "Atuação profissional"
 meta_title          : "Atuação Profissional"
 teaser              : ""
 header:

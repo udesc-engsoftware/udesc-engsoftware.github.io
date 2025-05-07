@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: ""
 meta_title: "Notícias"
-subheadline: ""
+subheadline: "Notícias"
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
