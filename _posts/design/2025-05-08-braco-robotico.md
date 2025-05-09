@@ -9,7 +9,7 @@ header:
     caption-url: "/curso/noticias/braco_robotico/" 
 
 image: 
-   homepage: "/posts/2025-05-08-braco-robotico/braco-robotico-destaque.jpg"
+   homepage: "/posts/2025-05-08-braco-robotico/braco-robotico-4.jpeg"
    thumb: "/posts/2025-05-08-braco-robotico/braco-robotico-1-thumb.jpg"
 gallery: 
    - image_url: /posts/2025-05-08-braco-robotico/braco-robotico-1.jpg
