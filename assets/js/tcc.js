@@ -39,6 +39,7 @@ document.addEventListener("DOMContentLoaded", function(){
                 },
                 order: [[3, 'desc']],
                 responsive: true,
+                dom: '<"dt-container"<"dt-layout-row dt-start"lf>>rt<"dt-layout-row dt-end"ip>'
             });
         })
         .catch(error => console.error("Erro ao carregar os dados da Planilha: ", error));

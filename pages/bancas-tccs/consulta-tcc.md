@@ -39,6 +39,25 @@ Os trabalhos que estiverem catalogados no Repositório Institucional da UDESC te
    <table id="tabela-tcc" class="display" style="width: 100%"></table>
 </div>
 
+<style>
+   .dt-container .dt-layout-row.dt-start {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1rem;
+   }
+
+   .dt-container .dt-search input {
+      width: 350px;
+   }
+
+   .dt-container .dt-length select {
+      width: 70px;
+      display: inline-block;
+   }
+</style>
+
 <!-- todo erick: inverter a posição dos campos pesquisar e exibir (qtd de resultados); e se possivel aumentar o tamanho do campo de pesquisa e diminuir o tamanho do campo da quantidade -->
 
 <!-- Script JS para ativação da tabela -->
