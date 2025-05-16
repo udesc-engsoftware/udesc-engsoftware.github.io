@@ -21,7 +21,7 @@ A maratona, organizada pela Universidade Estadual de Campinas (Unicamp) e pela S
 
 Nesta edição, mais de 1 mil competidoras participaram da fase inicial - ao todo, foram 1.067 inscritas. Destas, apenas 130 foram selecionadas para a etapa presencial, que ocorrerá em 5 e 6 de julho de 2025, na Unicamp. A prova final terá duração de quatro horas.
 
-"Foi uma surpresa maravilhosa quando vi meu nome entre as classiicadas. A maratona é uma oportunidade incrível para medir nosso conhecimento, conhecer outras mulheres da área e nos desafiar ainda mais", comemora Luíza.
+"Foi uma surpresa maravilhosa quando vi meu nome entre as classificadas. A maratona é uma oportunidade incrível para medir nosso conhecimento, conhecer outras mulheres da área e nos desafiar ainda mais", comemora Luíza.
 
 A aluna destaca ainda que "está muito animada para representar a Udesc Alto Vale na final. Já estou me preparando para dar o meu melhor em Campinas", finaliza.
 
