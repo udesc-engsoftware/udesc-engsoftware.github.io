@@ -18,25 +18,23 @@ permalink           : "/ensino/coordenacao/"
 
 **Coordenador**
 <br>
-Prof. MSc. Geraldo Menegazzo Varela
+Prof. MSc. Carlos Alberto Barth
 <br>
-E-mail: geraldo.varela@udesc.br
-<br>
-Telefone: (47) 3357-8460
+E-mail: carlos.barth@udesc.br
 
 **Vice Coordenador**
 <br>
-Prof. Dr. Adilson Vahldick
+Prof. Dr. Paolo Moser
 <br>
-E-mail: adilson.vahldick@udesc.br
+E-mail: paolo.moser@udesc.br
 
 <hr>
 
 ## Coordenação de Estágios
 <br>
-Prof. Dr. 
+Prof. Dr. Paolo Moser
 <br>
-E-mail: 
+E-mail: paolo.moser@udesc.br
 
 <!-- todo erick: colocar informações do coordenador de estágio -->
 
@@ -48,27 +46,27 @@ O Núcleo Docente Estruturante é o órgão consultivo responsável pela concep�
 
 **Presidente**
 <br>
-Prof. MSc. Geraldo Menegazzo Varella (Presidente)
+Prof. MSc. Carlos Alberto Barth (Presidente)
 <br>
-Mandato: 01/08/2022 - 31/07/2024
+1º Mandato: 01/08/2024 - 31/07/2026
 
 **Membros**
 <br>
 Prof. Dr. Marcelo de Souza
 <br>
-Mandato: 25/10/2022 - 24/10/2025
+1º Mandato: 25/10/2022 - 24/10/2025
 <br>
 
 Profª. Dra. Marília Guterres Ferreira
 <br>
-Mandato: 03/03/2023 - 02/03/2026
+2º Mandato: 03/03/2023 - 02/03/2026
 <br>
 
-Prof. Dr. Pablo Schoeffel
+Prof. MSc. Mattheus da Hora França
 <br>
-Mandato: 12/08/2020 - 11/08/2023
+1º Mandato: 12/08/2023 - 11/08/2026
 <br>
 
 Prof. Dr. Paulo Roberto Farah
 <br>
-Mandato: 05/05/2023 - 04/05/2026
+1º Mandato: 05/05/2023 - 04/05/2026
