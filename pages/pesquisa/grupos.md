@@ -13,4 +13,4 @@ permalink: "/pesquisa/grupos/"
 
 O curso de Engenharia de Software conta com o seguinte grupo de pesquisa:
 
-- Engenharia e Desenvolvimento de Tecnologia da Informação
+- <a href="https://www.udesc.br/ceavi/gp/proj/engenhariaedesenvolvimento" target="_blank">Engenharia e Desenvolvimento de Tecnologia da Informação</a>
