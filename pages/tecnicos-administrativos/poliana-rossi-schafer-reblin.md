@@ -11,7 +11,7 @@ permalink: "/tecnicos/poliana-rossi-schafer-reblin/"
 
 ## **Poliana Rossi Schäfer Reblin**
 
-<img class="img-responsive" src="{{site.urlimg}}/tecnicos/foto-poliana-rossi-schafer-reblin.png" width="220"/>
+<img class="img-responsive" src="{{site.urlimg}}/tecnicos-administrativos/foto-poliana-rossi-schafer-reblin.png" width="220"/>
 
 *Secretária do Departamento de Engenharia de Software*
 
