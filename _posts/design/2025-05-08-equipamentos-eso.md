@@ -6,16 +6,16 @@ subheadline: ""
 teaser: "" 
 header: 
     image_fullwidth: "banner-site-eso.png" 
-    caption-url: "/curso/noticias/braco_robotico/" 
+    caption-url: "/curso/noticias/equipamentos_eso/" 
 
 image: 
-   homepage: "/posts/2025-05-08-braco-robotico/braco-robotico-4.jpeg"
-   thumb: "/posts/2025-05-08-braco-robotico/braco-robotico-1-thumb.jpg"
+   homepage: "/posts/2025-05-08-equipamentos-eso/braco-robotico-4.jpeg"
+   thumb: "/posts/2025-05-08-equipamentos-eso/braco-robotico-1-thumb.jpg"
 gallery: 
-   - image_url: /posts/2025-05-08-braco-robotico/braco-robotico-1.jpg
-   - image_url: /posts/2025-05-08-braco-robotico/braco-robotico-2.jpg
-   - image_url: /posts/2025-05-08-braco-robotico/braco-robotico-3.jpg
-   - image_url: /posts/2025-05-08-braco-robotico/braco-robotico-4.jpeg
+   - image_url: /posts/2025-05-08-equipamentos-eso/braco-robotico-1.jpg
+   - image_url: /posts/2025-05-08-equipamentos-eso/braco-robotico-2.jpg
+   - image_url: /posts/2025-05-08-equipamentos-eso/braco-robotico-3.jpg
+   - image_url: /posts/2025-05-08-equipamentos-eso/braco-robotico-4.jpeg
 --- 
 
 O braço robótico é um dispositivo programável capaz de executar algoritmos, simulando as funções e movimentos de um braço humano. Ele proporciona aos alunos uma experiência prática e interativa que conecta teoria e inovação tecnológica. 
