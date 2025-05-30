@@ -1,6 +1,6 @@
 --- 
 layout: page 
-title:  "Confira os novo equipamentos do curso de Engenharia de Software: o Braço Robótico e a Impressora 3D" 
+title:  "Confira os novos equipamentos do curso de Engenharia de Software: o Braço Robótico e a Impressora 3D" 
 author: erick
 subheadline: "" 
 teaser: "" 
