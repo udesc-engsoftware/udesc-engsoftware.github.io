@@ -34,7 +34,7 @@ am5.ready(function() {
                 name: "3ª Fase",
                 value: 8,
                 children: [
-                    { name: "35DOO2", value: 6, fullName: "Desenvolvimento de Software Orientado a Objetos II", cargaHoraria: "4h", linkWith: ["25DOO1"] },
+                    { name: "35DOO2", value: 7, fullName: "Desenvolvimento de Software Orientado a Objetos II", cargaHoraria: "4h", linkWith: ["25DOO1"] },
                     { name: "35TES", value: 7, fullName: "Testes de Software", cargaHoraria: "4h" },
                     { name: "35IHC", value: 7, fullName: "Interface Humano-Computador", cargaHoraria: "4h" },
                     { name: "35MDI", value: 7, fullName: "Matemática Discreta", cargaHoraria: "4h", linkWith: ["15MAT"] },
