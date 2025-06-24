@@ -49,19 +49,20 @@ gallery:
      caption: símbolo branco (com padding)
 ---
 
-## Logomarca do Curso
+## Logomarca
 
 
 A logomarca do curso de Engenharia de Software da UDESC Alto Vale pretende representar a essência da área de Engenharia de Software: a interação entre pessoas, equipes, times, clientes e usuários em um processo de software. Criada em 2023, é inspirada e utiliza as cores da logomarca da UDESC. No desenho, abstrai-se também as letras E, S, e O, que formam a sigla do curso.
 
 Para utilizar a logomarca do curso, sugere-se adotar as mesmas recomendações do [Manual da Marca UDESC](https://www.udesc.br/marcaudesc).
 
-Na galeria abaixo pode-se fazer o download da logomarca, em diferentes versões, diretamente no formato PNG com fundo transparente. Formatos vetorial e PDF estão disponíveis [neste arquivo ZIP](eso_logo_pdf_vetorial.zip).
+Na galeria abaixo você pode fazer o download da logomarca, em diferentes versões, diretamente no formato PNG com fundo transparente. Formatos vetorial e PDF estão disponíveis [neste arquivo ZIP](eso_logo_pdf_vetorial.zip).
+
+<!-- todo erick: veja se vc descobre como fazer o link para o arquivo zip; eu não consegui :-( -->
 
 {% include gallery %}
 
-## Papel de Parede
-
-<!-- todo fernando:  fazer-->
+## Wallpapers
+<i>Wallpapers</i> do curso estão disponíveis [nesta página]({{site.url}}/curso/wallpapers/).
 
 
