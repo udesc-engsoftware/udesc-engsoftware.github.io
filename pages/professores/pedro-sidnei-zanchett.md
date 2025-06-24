@@ -38,7 +38,7 @@ Ao finalizar a graduação recebeu do Governo do Estado de Santa Catarina o mér
 
 ### **Contato**
 
-E-mail: pedro.zanchett@udesc.br
+E-mail: [pedro.zanchett@udesc.br](mailto:pedro.zanchett@udesc.br)
 
 ### **Currículo Lattes**
 

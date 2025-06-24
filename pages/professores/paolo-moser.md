@@ -22,7 +22,7 @@ permalink: "/professores/paolo-moser/"
 
 ### **Contato**
 
-E-mail: paolo.moser@udesc.br
+E-mail: [paolo.moser@udesc.br](mailto:paolo.moser@udesc.br)
 
 ### **Currículo Lattes**
 

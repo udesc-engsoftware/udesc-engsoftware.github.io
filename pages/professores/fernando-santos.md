@@ -37,7 +37,7 @@ Em 2023, recebeu da FAPESC o prêmio de pesquisa Fritz Müller na categoria Jove
 
 ### **Contato**
 
-E-mail: fernando.santos@udesc.br
+E-mail: [fernando.santos@udesc.br](mailto:fernando.santos@udesc.br)
 
 ### **Currículo Lattes**
 

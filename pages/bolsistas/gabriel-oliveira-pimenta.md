@@ -20,6 +20,8 @@ permalink: "/bolsistas/gabriel-oliveira-pimenta/"
 
 ### **Contato**
 
-E-mail: deso.ceavi@udesc.br
+E-mail: [deso.ceavi@udesc.br](mailto:deso.ceavi@udesc.br)
 <br>
-Telefone/WhatsApp do Departamento: (47) 3357-8437
+Telefone: (47) 3357-8437
+<br>
+WhatsApp: [(47) 3357-8437](https://wa.me/554733578437)

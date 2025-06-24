@@ -27,7 +27,7 @@ Projeto LABOT.
 
 ### **Contato**
 
-E-mail: carlos.barth@udesc.br
+E-mail: [carlos.barth@udesc.br](mailto:carlos.barth@udesc.br)
 
 ### **Currículo Lattes**
 

@@ -37,7 +37,7 @@ Coordenador do Laboratório de Pesquisa e Desenvolvimento de Jogos Sérios e Ent
 
 ### **Contato**
 
-E-mail: adilson.vahldick@udesc.br
+E-mail: [adilson.vahldick@udesc.br](mailto:adilson.vahldick@udesc.br)
 
 ### **Currículo Lattes**
 

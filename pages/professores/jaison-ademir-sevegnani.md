@@ -23,7 +23,7 @@ permalink: "/professores/jaison-ademir-sevegnani/"
 
 ### **Contato**
 
-E-mail: jaison.sevegnani@udesc.br
+E-mail: [jaison.sevegnani@udesc.br](mailto:jaison.sevegnani@udesc.br)
 
 ### **Currículo Lattes**
 

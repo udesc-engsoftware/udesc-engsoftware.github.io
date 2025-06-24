@@ -51,7 +51,7 @@ Membro titular de Comissão Interna do Centro - Núcleo de Acessibilidade Educac
 
 ### **Contato**
 
-E-mail: marilia.gf@udesc.br
+E-mail: [marilia.gf@udesc.br](mailto:marilia.gf@udesc.br)
 
 ### **Currículo Lattes**
 

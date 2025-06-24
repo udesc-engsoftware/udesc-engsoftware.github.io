@@ -21,7 +21,7 @@ permalink: "/professores/marcio-jose-mantau/"
 
 ### **Contato**
 
-E-mail: marcio.mantau@udesc.br
+E-mail: [marcio.mantau@udesc.br](mailto:marcio.mantau@udesc.br)
 
 ### **Currículo Lattes**
 

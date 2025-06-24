@@ -35,7 +35,7 @@ Atualmente é Diretor de Extensão, Cultura e Comunidade da UDESC Alto Vale.
 
 ### **Contato**
 
-E-mail: pablo.schoeffel@udesc.br
+E-mail: [pablo.schoeffel@udesc.br](mailto:pablo.schoeffel@udesc.br)
 
 ### **Currículo Lattes**
 

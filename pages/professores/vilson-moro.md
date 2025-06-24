@@ -23,7 +23,7 @@ permalink: "/professores/vilson-moro/"
 
 ### **Contato**
 
-E-mail: vilson.moro@udesc.br
+E-mail: [vilson.moro@udesc.br](mailto:vilson.moro@udesc.br)
 
 ### **Currículo Lattes**
 

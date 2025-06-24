@@ -32,7 +32,7 @@ LABOT - Desenvolvimento Computacional
 
 ### **Contato**
 
-E-mail: geraldo.varela@udesc.br
+E-mail: [geraldo.varela@udesc.br](mailto:geraldo.varela@udesc.br)
 
 ### **Currículo Lattes**
 

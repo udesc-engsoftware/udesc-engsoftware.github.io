@@ -102,10 +102,10 @@ Confira os(as) professores que atuam no curso de Engenharia de Software:
 
   <div class="small-12 medium-4 columns">
     <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
-      <a href="/professores/marcio-jose-mantau/" style="text-decoration: none; color: inherit;">
+      <a href="/professores/marcelo-souza/" style="text-decoration: none; color: inherit;">
         <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
         <div class="card-body">
-          <h3 style="text-align: center; font-size: 18px"><b>Márcio José Mantau</b></h3>
+          <h3 style="text-align: center; font-size: 18px"><b>Marcelo de Souza</b></h3>
         </div>
       </a>
     </div>
@@ -113,10 +113,10 @@ Confira os(as) professores que atuam no curso de Engenharia de Software:
 
   <div class="small-12 medium-4 columns">
     <div class="card-container3" style="background-color: #D9D9D9; cursor: pointer; padding-bottom: 20px; margin-bottom: 20px;">
-      <a href="/professores/marcelo-souza/" style="text-decoration: none; color: inherit;">
+      <a href="/professores/marcio-jose-mantau/" style="text-decoration: none; color: inherit;">
         <img class="img-responsive" src="{{site.urlimg}}/professores/person.png"/>
         <div class="card-body">
-          <h3 style="text-align: center; font-size: 18px"><b>Marcelo de Souza</b></h3>
+          <h3 style="text-align: center; font-size: 18px"><b>Márcio José Mantau</b></h3>
         </div>
       </a>
     </div>

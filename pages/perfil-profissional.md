@@ -52,30 +52,30 @@ De acordo com as Diretrizes Curriculares Nacionais (DCNs), espera-se que os egre
 
 <!-- todo erick: colocar os itens abaixo como lista simples usando o "-" igual acima, para padronizar -->
 
-I. Investigar, compreender e estruturar as características de domínios de aplicação em diversos contextos que levem em consideração questões éticas, sociais, legais e econômicas, individualmente e/ou em equipe;  
+- Investigar, compreender e estruturar as características de domínios de aplicação em diversos contextos que levem em consideração questões éticas, sociais, legais e econômicas, individualmente e/ou em equipe;  
 
-II. Compreender e aplicar processos, técnicas e procedimentos de construção, evolução e avaliação de software;  
+- Compreender e aplicar processos, técnicas e procedimentos de construção, evolução e avaliação de software;  
 
-III. Analisar e selecionar tecnologias adequadas para a construção de software;  
+- Analisar e selecionar tecnologias adequadas para a construção de software;  
 
-IV. Conhecer os direitos e propriedades intelectuais inerentes à produção e utilização de software;  
+- Conhecer os direitos e propriedades intelectuais inerentes à produção e utilização de software;  
 
-V. Avaliar a qualidade de sistemas de software;  
+- Avaliar a qualidade de sistemas de software;  
 
-VI. Integrar sistemas de software;  
+- Integrar sistemas de software;  
 
-VII. Gerenciar projetos de software conciliando objetivos conflitantes, com limitações de custos, tempo e com análise de riscos;  
+- Gerenciar projetos de software conciliando objetivos conflitantes, com limitações de custos, tempo e com análise de riscos;  
 
-VIII. Aplicar adequadamente normas técnicas;  
+- Aplicar adequadamente normas técnicas;  
 
-IX. Qualificar e quantificar seu trabalho baseado em experiências e experimentos;  
+- Qualificar e quantificar seu trabalho baseado em experiências e experimentos;  
 
-X. Exercer múltiplas atividades relacionadas a software como: desenvolvimento, evolução, consultoria, negociação, ensino e pesquisa;  
+- Exercer múltiplas atividades relacionadas a software como: desenvolvimento, evolução, consultoria, negociação, ensino e pesquisa;  
 
-XI. Conceber, aplicar e validar princípios, padrões e boas práticas no desenvolvimento de software;  
+- Conceber, aplicar e validar princípios, padrões e boas práticas no desenvolvimento de software;  
 
-XII. Analisar e criar modelos relacionados ao desenvolvimento de software;  
+- Analisar e criar modelos relacionados ao desenvolvimento de software;  
 
-XIII. Identificar novas oportunidades de negócios e desenvolver soluções inovadoras;  
+- Identificar novas oportunidades de negócios e desenvolver soluções inovadoras;  
 
-XIV. Identificar e analisar problemas avaliando as necessidades dos clientes, especificar os requisitos de software, projetar, desenvolver, implementar, verificar e documentar soluções. 
+- Identificar e analisar problemas avaliando as necessidades dos clientes, especificar os requisitos de software, projetar, desenvolver, implementar, verificar e documentar soluções. 

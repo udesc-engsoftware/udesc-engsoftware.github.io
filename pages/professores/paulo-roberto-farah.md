@@ -31,7 +31,7 @@ Xadrez.
 
 ### **Contato**
 
-E-mail: paulo.farah@udesc.br
+E-mail: [paulo.farah@udesc.br](mailto:paulo.farah@udesc.br)
 
 ### **Currículo Lattes**
 

@@ -40,7 +40,7 @@ Tem sob coordenação os projetos em andamento:
 
 ### **Contato**
 
-E-mail: rodrigo.nogueira@udesc.br
+E-mail: [rodrigo.nogueira@udesc.br](mailto:rodrigo.nogueira@udesc.br)
 
 ### **Currículo Lattes**
 

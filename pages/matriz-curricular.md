@@ -96,20 +96,20 @@ Ao clicar na sigla da disciplina você é direcionado para uma página com os se
 [65PIN1][65pin1] - Projeto Integrador I
 <br>
 <!-- todo erick: faltou fazer 1 página com todas as opções de disciplinas optativas (pegar do projeto do curso) e direcionar essa optativa e a da 7a fase para essa página-->
-65OPT - Disciplina Optativa
+[65OPT][disciplina_optativa] - Disciplina Optativa
 
 ### 7ª Fase:
 ###### **Sigla/Disciplina**
 
-[75POT] - Pesquisa Operacional e Otimização
+[75POT][75pot] - Pesquisa Operacional e Otimização
 <br>
-[75GIN] - Gestão da Inovação em Engenharia de Software
+[75GIN][75gin] - Gestão da Inovação em Engenharia de Software
 <br>
-[75PIN2] - Projeto Integrador II
+[75PIN2][75pin2] - Projeto Integrador II
 <br>
-75OPT - Disciplina Optativa
+[75OPT][disciplina_optativa] - Disciplina Optativa
 <br>
-[75TCC1] - Trabalho de Conclusão de Curso I
+[75TCC1][75tcc1] - Trabalho de Conclusão de Curso I
 
 ### 8ª Fase:
 ###### **Sigla/Disciplina**
@@ -196,6 +196,8 @@ Ao clicar na sigla da disciplina você é direcionado para uma página com os se
 [85sis]: {{site.url}}/curso/matriz-curricular/85sis
 [85dcd]: {{site.url}}/curso/matriz-curricular/85dcd
 [85tcc2]: {{site.url}}/curso/matriz-curricular/85tcc2
+
+[disciplina_optativa]: {{site.url}}/curso/matriz-curricular/disciplina-optativa
 
 
 

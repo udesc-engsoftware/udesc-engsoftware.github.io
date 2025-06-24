@@ -31,7 +31,7 @@ Pesquisador com ênfase em Segurança de Redes de Computadores no contexto de Co
 
 ### **Contato**
 
-E-mail: leandro.loffi@udesc.br
+E-mail: [leandro.loffi@udesc.br](mailto:leandro.loffi@udesc.br)
 
 ### **Currículo Lattes**
 

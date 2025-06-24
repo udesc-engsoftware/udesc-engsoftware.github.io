@@ -20,7 +20,7 @@ permalink: "/professores/carlos-fernando-cruz/"
 
 ### **Contato**
 
-E-mail: carlos.cruz@udesc.br
+E-mail: [carlos.cruz@udesc.br](mailto:carlos.cruz@udesc.br)
 
 ### **Currículo Lattes**
 

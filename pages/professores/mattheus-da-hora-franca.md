@@ -21,7 +21,7 @@ permalink: "/professores/mattheus-da-hora-franca/"
 
 ### **Contato**
 
-E-mail: mattheus.franca@udesc.br
+E-mail: [mattheus.franca@udesc.br](mailto:mattheus.franca@udesc.br)
 
 ### **Currículo Lattes**
 

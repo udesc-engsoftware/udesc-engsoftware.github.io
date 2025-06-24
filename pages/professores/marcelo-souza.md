@@ -22,7 +22,7 @@ permalink: "/professores/marcelo-souza/"
 
 ### **Contato**
 
-E-mail: marcelo.desouza@udesc.br
+E-mail: [marcelo.desouza@udesc.br](mailto:marcelo.desouza@udesc.br)
 
 ### **Currículo Lattes**
 

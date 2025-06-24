@@ -38,7 +38,7 @@ Projeto Alternativa (finalizado).
 
 ### **Contato**
 
-E-mail: scheila.curry@udesc.br
+E-mail: [scheila.curry@udesc.br](mailto:scheila.curry@udesc.br)
 
 ### **Currículo Lattes**
 

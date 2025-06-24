@@ -31,7 +31,7 @@ CTO, Empresário, atuando com Tecnologia da Informação a mais de 20 anos.
 
 ### **Contato**
 
-E-mail: luis.vieira@udesc.br
+E-mail: [luis.vieira@udesc.br](mailto:luis.vieira@udesc.br)
 
 ### **Currículo Lattes**
 
