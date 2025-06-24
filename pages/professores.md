@@ -8,7 +8,8 @@ header:
    image_fullwidth: "banner-site-eso.png"
 permalink: "/professores/"
 ---
-### **Corpo Docente Atual**
+Confira os(as) professores que atuam no curso de Engenharia de Software: 
+### **Professores Atuais**
 <hr>
 <div class="row text-center">
   <div class="small-12 medium-4 columns">

@@ -10,6 +10,7 @@ permalink: "/bolsistas/"
 ---
 
 ### **Bolsistas**
+Confira os(as) bolsistas que atuam diretamente no departamento de Engenharia de Software: 
 <hr>
 
 <div class="row text-center">

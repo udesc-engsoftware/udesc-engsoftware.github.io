@@ -50,6 +50,8 @@ Espera-se dos egressos do Curso de Bacharelado em Engenharia de Software o perfi
 
 De acordo com as Diretrizes Curriculares Nacionais (DCNs), espera-se que os egressos dos cursos de Engenharia de Software tenham as seguintes habilidades e competências específicas:  
 
+<!-- todo erick: colocar os itens abaixo como lista simples usando o "-" igual acima, para padronizar -->
+
 I. Investigar, compreender e estruturar as características de domínios de aplicação em diversos contextos que levem em consideração questões éticas, sociais, legais e econômicas, individualmente e/ou em equipe;  
 
 II. Compreender e aplicar processos, técnicas e procedimentos de construção, evolução e avaliação de software;  

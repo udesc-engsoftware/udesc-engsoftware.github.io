@@ -10,6 +10,8 @@ permalink: "/tecnicos/"
 ---
 
 ### **Técnicos Administrativos**
+
+Confira os(as) servidores(as) técnico-administrativos que atuam diretamente no departamento de Engenharia de Software: 
 <hr>
 
 <div class="row text-center">

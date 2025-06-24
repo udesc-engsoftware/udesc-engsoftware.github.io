@@ -12,8 +12,6 @@ header:
 permalink           : "/ensino/coordenacao/"
 ---
 
-
-<!-- todo erick: atualizar informações da coordenação -->
 ## Coordenação Geral
 
 **Coordenador**
@@ -31,12 +29,7 @@ E-mail: paolo.moser@udesc.br
 <hr>
 
 ## Coordenação de Estágios
-<br>
-Prof. Dr. Paolo Moser
-<br>
-E-mail: paolo.moser@udesc.br
-
-<!-- todo erick: colocar informações do coordenador de estágio -->
+Acesse a [página sobre o estágio curricular][estagio] para verificar o(a) atual coordenador(a) de estágios.
 
 <hr>
 
@@ -70,3 +63,5 @@ Prof. MSc. Mattheus da Hora França
 Prof. Dr. Paulo Roberto Farah
 <br>
 1º Mandato: 05/05/2023 - 04/05/2026
+
+[estagio]: {{site.url}}/ensino/estagio/

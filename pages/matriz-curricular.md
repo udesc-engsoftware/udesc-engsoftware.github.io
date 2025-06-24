@@ -9,11 +9,17 @@ header:
 permalink: "/ensino/matriz-curricular/"
 ---
 
-##### *Legenda dos Conteúdos das Disciplinas*
 
-- Preto: maior aprofundamento do conteúdo;
-- <class style="color: green">Verde: entender o conteúdo;</class>
-- <class style="color: blue">Azul: menor aprofundamento do conteúdo.</class>
+## Matriz Curricular
+O curso de Engenharia de Software tem duração de 4 anos. É formado pelas 39 disciplinas abaixo relacionadas. 
+
+Ao clicar na sigla da disciplina você é direcionado para uma página com os seus detalhes: carga horária, ementa e bibliografias. Nestas páginas, a ementa de cada disciplina é apresentada utilizando cores diferentes, para representar o nível de profundidade que os conteúdos são abordados. As cores e níveis de profundidade adotados para os conteúdos são: 
+
+- <strong><class style="color: blue">Azul</class></strong>: menor profundidade, para o estudante <strong>conhecer</strong> o conteúdo.
+- <strong><class style="color: green">Verde</class></strong>: média profundidade, para o estudante <strong>entender</strong> o conteúdo.
+- <strong>Preto</strong>: maior profundidade, para o estudante <strong>entender e aplicar</strong>o conteúdo em novos problemas.
+
+
 
 ### 1ª Fase:
 ###### **Sigla/Disciplina**
@@ -89,6 +95,7 @@ permalink: "/ensino/matriz-curricular/"
 <br>
 [65PIN1][65pin1] - Projeto Integrador I
 <br>
+<!-- todo erick: faltou fazer 1 página com todas as opções de disciplinas optativas (pegar do projeto do curso) e direcionar essa optativa e a da 7a fase para essa página-->
 65OPT - Disciplina Optativa
 
 ### 7ª Fase:
@@ -119,7 +126,7 @@ permalink: "/ensino/matriz-curricular/"
 
 ### Organograma - Matriz Curricular Engenharia de Software
 <hr>
-
+<!-- todo erick: escrever um preâmbulo-->
 <img class="img-responsive" src="{{site.urlimg}}/organograma-eso.png"/>
 
 <script src="https://cdn.amcharts.com/lib/5/index.js"></script>
@@ -138,7 +145,8 @@ permalink: "/ensino/matriz-curricular/"
 <div class="container">
   <h2>Visualização Interativa da Matriz Curricular</h2>
   <hr>
-  <p>Explore visualmente a estrutura das fases e disciplinas do curso de Engenharia de Software.</p>
+  <p>Explore visualmente a estrutura das fases e disciplinas do curso de Engenharia de Software.
+    <!-- todo erick: tem que explicar o que cada elemento do gráfico representa (circulos e linhas) e também onde o usuário precisa clicar para explorar--></p>
   <div id="chartdiv"></div>
 </div>
 

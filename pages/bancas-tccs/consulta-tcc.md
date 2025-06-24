@@ -30,10 +30,10 @@ O Trabalho de Conclusão de Curso em Engenharia de Software será desenvolvido p
 Durante o semestre o aluno e professor orientador desenvolverão a sua proposta, que deve ser previamente aprovada por banca de professores designados pelo professor da disciplina TCC1. O aluno aprovado na disciplina TCC1 poderá, então, matricular-se em TCC2, onde desenvolverá efetivamente o seu projeto. O trabalho deverá ser apresentado e defendido pelo acadêmico perante uma banca examinadora constituída de três (03) professores, designada pelo Chefe de Departamento e presidida pelo professor orientador, atendendo ainda, as normas complementares definidas e aprovadas pelo Departamento sobre a matéria. A conclusão do Curso de Engenharia de Software está condicionada à apresentação e aprovação desse trabalho. 
 
 ## Pesquisa de TCCs
+A tabela a seguir apresenta todos os TCCs já defendidos por estudantes do curso, do mais recente para o mais antigo. 
 
-Utilize o campo de busca para pesquisar um TCC específico. Clique no título do TCC na tabela de resultados para acessar os detalhes completos.
+Clique no título do TCC para acessar os detalhes completos do trabalho. Os trabalhos que estiverem catalogados no [Repositório Institucional da UDESC](https://repositorio.udesc.br) terão um link para download do arquivo PDF.
 
-Os trabalhos que estiverem catalogados no Repositório Institucional da UDESC terão um link para download do arquivo PDF.
 
 <div class="container">
    <table id="tabela-tcc" class="display" style="width: 100%"></table>
