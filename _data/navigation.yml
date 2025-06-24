@@ -18,7 +18,7 @@
   - title: "Trabalho de Conclusão de Curso"
     url: "/banca-tcc/consulta-tcc"
   - title: "Estágio Curricular"
-    url: "/ensino/estagio" #todo erick: criar uma página sobre o estágio; explicar como funciona, pegar detalhes do projeto pedagógico
+    url: "/ensino/estagio" 
   - title: "Laboratórios"
     url: "/ensino/laboratorios/"
   - title: "Coordenação"
@@ -58,12 +58,12 @@
     - title: "Bolsistas"
       url: "/bolsistas/"
 
-#- title: "Professores"
-#  url: "/professores/"
-#  side: left
-
 - title: "Notícias"
   url: "/curso/noticias"
+  side: left
+
+- title: "Logomarca"
+  url: "/curso/logomarca"
   side: left
 
 - title: "Contato"
