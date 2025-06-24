@@ -14,6 +14,9 @@ permalink: "/extensao/sobre/"
 
 O conjunto de temáticas pré-definidas para cada curso/departamento da Udesc Alto Vale conduz ao perfil do profissional esperado em cada área de formação. As inquietações que emergem a partir do ensino favorecem ambientes para a pesquisa. A pesquisa por sua vez, procura trazer as respostas para tais inquietações através da ínfim investigação. A Extensão, enquanto elo entre ensino, pesquisa e comunidade, atua como integradora, buscando e levando soluções para as demandas sociais.
 
+## Extensão Realizada
+Os professores do curso coordenam diversos projetos e programas de extensão. Frequentemente estes projetos contam com acadêmicos bolsistas ou voluntários. Utilize o menu de extensão para conhecer os programas, projetos e laboratórios de extensão.
+
 ### Alunos - Bolsistas e Discente de Extensão Voluntário
 
 O aluno pode participar da extensão da Udesc Alto Vale concorrendo à bolsa de extensão nos períodos em que é lançado edital pela PROEX. A bolsa pode ser de vinte ou dez horas semanais.
