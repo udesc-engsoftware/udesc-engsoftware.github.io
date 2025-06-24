@@ -13,6 +13,8 @@
     url: "/ensino/atuacao-profissional/"
   - title: "Matriz curricular"
     url: "/ensino/matriz-curricular/"
+  - title: "Projeto Pedagógico"
+    url: "/ensino/projeto-pedagogico/"
   - title: "Trabalho de Conclusão de Curso"
     url: "/banca-tcc/consulta-tcc"
   - title: "Estágio Curricular"
@@ -21,6 +23,8 @@
     url: "/ensino/laboratorios/"
   - title: "Coordenação"
     url: "/ensino/coordenacao/"
+  - title: "Legislação"
+    url: "/ensino/legislacao/"
 
 - title: "Pesquisa"
   side: left
