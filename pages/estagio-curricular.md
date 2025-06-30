@@ -19,4 +19,4 @@ A integralização da carga horária total do Estágio Curricular Supervisionado
 <br>
 Prof. Dr. Paolo Moser
 <br>
-E-mail: paolo.moser@udesc.br
+E-mail: [paolo.moser@udesc.br](mailto:paolo.moser@udesc.br)

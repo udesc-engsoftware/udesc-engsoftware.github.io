@@ -30,7 +30,8 @@ O laboratório já utilizou Unreal Engine 4. Atualmente, utiliza o Unity 3D para
 
 #### Coordenador:
 Profº Drº [Adilson Vahldick][av]
-E-mail: adilson.vahldick@udesc.br
+<br>
+E-mail: [adilson.vahldick@udesc.br](mailto:adilson.vahldick@udesc.br)
 
 #### Mais informações:
 [https://www.udesc.br/ceavi/gamelab][gamelab-ceavi]

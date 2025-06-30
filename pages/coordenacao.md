@@ -18,13 +18,13 @@ permalink           : "/ensino/coordenacao/"
 <br>
 Prof. MSc. Carlos Alberto Barth
 <br>
-E-mail: carlos.barth@udesc.br
+E-mail: [carlos.barth@udesc.br](mailto:carlos.barth@udesc.br)
 
 **Vice Coordenador**
 <br>
 Prof. Dr. Paolo Moser
 <br>
-E-mail: paolo.moser@udesc.br
+E-mail: [paolo.moser@udesc.br](mailto:paolo.moser@udesc.br)
 
 <hr>
 
