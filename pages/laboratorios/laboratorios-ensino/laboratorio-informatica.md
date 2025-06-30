@@ -16,11 +16,13 @@ gallery:
    - image_url: /laboratorios/laboratorio-2.jpeg
      caption: Laboratório 02
    - image_url: /laboratorios/laboratorio-3.jpeg
-     caption: Laboratório 204
+     caption: Laboratório 101
    - image_url: /laboratorios/laboratorio-4.jpeg
      caption: Laboratório 03
    - image_url: /laboratorios/laboratorio-5.jpeg
      caption: Laboratório 05
+   - image_url: /laboratorios/laboratorio-6.jpeg
+     caption: Laboratório 103
 ---
 
 <!-- todo erick: eu acho que o lab 204 mudou de numeração, dá uma conferida; além disso veja se vc consegue tirar uma foto do laboratório que tem só os notebooks, pode ser legal mostrar ele também -->

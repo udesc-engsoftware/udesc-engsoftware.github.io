@@ -56,7 +56,7 @@ A logomarca do curso de Engenharia de Software da UDESC Alto Vale pretende repre
 
 Para utilizar a logomarca do curso, sugere-se adotar as mesmas recomendações do [Manual da Marca UDESC](https://www.udesc.br/marcaudesc).
 
-Na galeria abaixo você pode fazer o download da logomarca, em diferentes versões, diretamente no formato PNG com fundo transparente. Formatos vetorial e PDF estão disponíveis [neste arquivo ZIP](eso_logo_pdf_vetorial.zip).
+Na galeria abaixo você pode fazer o download da logomarca, em diferentes versões, diretamente no formato PNG com fundo transparente. Formatos vetorial e PDF estão disponíveis [neste arquivo ZIP](/pages/logomarca/eso_logo_pdf_vetorial.zip).
 
 <!-- todo erick: veja se vc descobre como fazer o link para o arquivo zip; eu não consegui :-( -->
 
