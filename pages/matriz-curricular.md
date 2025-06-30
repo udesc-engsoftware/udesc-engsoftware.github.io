@@ -95,7 +95,6 @@ Ao clicar na sigla da disciplina você é direcionado para uma página com os se
 <br>
 [65PIN1][65pin1] - Projeto Integrador I
 <br>
-<!-- todo erick: faltou fazer 1 página com todas as opções de disciplinas optativas (pegar do projeto do curso) e direcionar essa optativa e a da 7a fase para essa página-->
 [65OPT][disciplina_optativa] - Disciplina Optativa
 
 ### 7ª Fase:
@@ -126,7 +125,6 @@ Ao clicar na sigla da disciplina você é direcionado para uma página com os se
 
 ### Organograma - Matriz Curricular Engenharia de Software
 <hr>
-<!-- todo erick: escrever um preâmbulo-->
 
 O organograma da matriz curricular do curso de Engenharia de Software apresenta, de forma visual e estruturada, a distribuição das disciplinas ao longo dos semestres do curso, além de indicar os pré-requisitos de cada uma. As disciplinas estão separadas por cores, representando as diferentes áreas de conhecimento que compõem a formação do estudante.
 
@@ -148,7 +146,6 @@ O organograma da matriz curricular do curso de Engenharia de Software apresenta,
 <div class="container">
   <h2>Visualização Interativa da Matriz Curricular</h2>
   <hr>
-  <!-- todo erick: tem que explicar o que cada elemento do gráfico representa (circulos e linhas) e também onde o usuário precisa clicar para explorar-->
   <p> 
     Explore visualmente a estrutura das fases e disciplinas do curso de Engenharia de Software. Cada círculo simboliza uma disciplina, enquanto as linhas representam os vínculos de pré-requisitos entre elas.
     Para navegar, clique ou toque nos nomes das fases para expandir ou recolher as disciplinas. Para identificar cada disciplina, posicione o cursor ou toque sobre os círculos, que já exibem suas siglas.

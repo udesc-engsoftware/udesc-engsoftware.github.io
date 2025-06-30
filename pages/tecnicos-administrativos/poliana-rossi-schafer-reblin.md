@@ -26,7 +26,7 @@ permalink: "/tecnicos/poliana-rossi-schafer-reblin/"
 *Para atendimentos presencial, está à disposição o bolsista do departamento.*
 
 ### **Contato**
-<!-- todo erick: colocar eesse formato []() em todo lugar onde tem e-mail, pois dai ele já cria um link clicável para escrever um email -->
+
 E-mail: [deso.ceavi@udesc.br](mailto:deso.ceavi@udesc.br)
 <br>
 Telefone: (47) 3357-8437

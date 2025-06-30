@@ -25,7 +25,6 @@ gallery:
      caption: Laboratório 103
 ---
 
-<!-- todo erick: eu acho que o lab 204 mudou de numeração, dá uma conferida; além disso veja se vc consegue tirar uma foto do laboratório que tem só os notebooks, pode ser legal mostrar ele também -->
 
 ## **Laboratórios de Informática**
 

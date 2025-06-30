@@ -58,7 +58,6 @@ Para utilizar a logomarca do curso, sugere-se adotar as mesmas recomendações d
 
 Na galeria abaixo você pode fazer o download da logomarca, em diferentes versões, diretamente no formato PNG com fundo transparente. Formatos vetorial e PDF estão disponíveis [neste arquivo ZIP](/pages/logomarca/eso_logo_pdf_vetorial.zip).
 
-<!-- todo erick: veja se vc descobre como fazer o link para o arquivo zip; eu não consegui :-( -->
 
 {% include gallery %}
 

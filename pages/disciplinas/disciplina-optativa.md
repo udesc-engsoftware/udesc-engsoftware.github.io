@@ -47,7 +47,6 @@ Disciplina de ementa aberta que contemplará temas contemporâneos da Engenharia
 ###### **Ementa**
 
 &nbsp;<class style="color: blue">Conceitos de jogos digitais</class>. Planejamento e programação de jogos.
- <!-- todo erick: tive que colocar o &nbsp; pois sem ele o texto quebrava após o /class; talvez vc saiba de outro jeito para fazer sem essa gambi-->
 
 ###### **Bibliografia Básica**
 
@@ -71,7 +70,6 @@ RABIN, Steve. Introdução ao desenvolvimento de games: volume 4: a indústria d
 
 <hr>
 
-<!-- todo erick: aplicar essa organização nas demais optativas abaixo-->
 #### Realidade Virtual (REV)
 
 ###### **Ementa**
