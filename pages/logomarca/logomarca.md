@@ -62,6 +62,7 @@ Na galeria abaixo você pode fazer o download da logomarca, em diferentes versõ
 {% include gallery %}
 
 ## Wallpapers
-<i>Wallpapers</i> do curso estão disponíveis [nesta página]({{site.url}}/curso/wallpapers/).
+<i>Wallpapers</i> do curso estão disponíveis [nesta página][wallpapers]
 
 
+[wallpapers]: {{site.url}}/curso/wallpapers/
