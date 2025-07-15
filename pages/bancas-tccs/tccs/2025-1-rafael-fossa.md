@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: ""
+permalink: "/banca-tcc/tccs/rafael-fossa"
 ---
 
 #### **AVALIAÇÃO DA DEGRADAÇÃO DE DESEMPENHO NA EVOLUÇÃO DE SOFTWARE**

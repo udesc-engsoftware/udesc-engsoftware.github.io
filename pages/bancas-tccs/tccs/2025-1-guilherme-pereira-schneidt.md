@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: ""
+permalink: "/banca-tcc/tccs/guilherme-pereira-schneidt"
 ---
 
 #### **UM ESTUDO DE MODELOS DE VISÃO COMPUTACIONAL PARA CLASSIFICAÇÃO DE ANIMAIS**
