@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/samuel-koepsel"
+permalink: "/banca-tcc/tccs/samuel-koepsel/"
 ---
 
 #### **MIGRAÇÃO DE TECNOLOGIAS NO DESENVOLVIMENTO DE SOFTWARE: UMA ANÁLISE DAS MOTIVAÇÕES E PERCEPÇÕES DOS DESENVOLVEDORES**
