@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/fabio-frare/"
+permalink: "/banca-tcc/tccs/2024-1-fabio-frare/"
 ---
 
 #### **EVACIMBUIA: UM MODELO BASEADO EM AGENTES PARA SIMULAÇÃO DE EVACUAÇÃO DO BLOCO IMBUIA**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/fabio-frare/"
 <br>
 **Membros:** Paulo Roberto Farah e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20615][ff]
-
-[ff]: https://repositorio.udesc.br/handle/UDESC/20615
+**Link Repositório Institucional UDESC:** 

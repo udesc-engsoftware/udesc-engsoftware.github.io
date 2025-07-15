@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/tiago-funk/"
+permalink: "/banca-tcc/tccs/2019-2-tiago-funk/"
 ---
 
 #### **DESENVOLVIMENTO E AVALIAÇÃO DE UM NOVO COMPONENTE BASEADO EM PATHRELINKING PARA O ALGORITMO MEMPLAS NO PROBLEMA QCARS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/tiago-funk/"
 <br>
 **Membros:** Paolo Moser e Tiago Luiz Schmitz
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1391][tf]
-
-[tf]: https://repositorio.udesc.br/handle/UDESC/1391
+**Link Repositório Institucional UDESC:** 

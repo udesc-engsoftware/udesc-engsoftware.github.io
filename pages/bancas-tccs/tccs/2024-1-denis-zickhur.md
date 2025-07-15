@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/denis-zickhur/"
+permalink: "/banca-tcc/tccs/2024-1-denis-zickhur/"
 ---
 
 #### **UM JOGO SÉRIO DIGITAL PARA O APRENDIZADO DE BIOLOGIA CELULAR PARA O PRIMEIRO ANO DE ENSINO MÉDIO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/denis-zickhur/"
 <br>
 **Membros:** Pablo Schoeffel e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20614][dz]
-
-[dz]: https://repositorio.udesc.br/handle/UDESC/20614
+**Link Repositório Institucional UDESC:** 

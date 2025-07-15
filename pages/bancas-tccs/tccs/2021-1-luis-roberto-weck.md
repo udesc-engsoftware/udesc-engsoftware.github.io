@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/luis-roberto-weck/"
+permalink: "/banca-tcc/tccs/2021-1-luis-roberto-weck/"
 ---
 
 #### **ANÁLISE COMPARATIVA DE TECNOLOGIA PARA IMPLEMENTAÇÃO OLAP E OLTP**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/luis-roberto-weck/"
 <br>
 **Membros:** Geraldo Menegazzo Varela e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15436][lrw]
-
-[lrw]: https://repositorio.udesc.br/handle/UDESC/15436
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15436

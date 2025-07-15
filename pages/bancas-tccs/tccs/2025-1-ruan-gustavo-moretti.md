@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ruan-gustavo-moretti/"
+permalink: "/banca-tcc/tccs/2025-1-ruan-gustavo-moretti/"
 ---
 
 #### **OTIMIZADOR DE ROTAS PARA SECRETARIAS DA SAÚDE**

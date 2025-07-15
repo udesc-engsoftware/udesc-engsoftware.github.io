@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/joao-eduardo-krieger/"
+permalink: "/banca-tcc/tccs/2024-2-joao-eduardo-krieger/"
 ---
 
 #### **ECOSPHERE: UM JOGO SÉRIO DE SIMULAÇÃO DE INTERAÇÕES ECOLÓGICAS EM ECOSSISTEMAS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/joao-eduardo-krieger/"
 <br>
 **Membros:** Pablo Schoeffel e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20621][jek]
-
-[jek]: https://repositorio.udesc.br/handle/UDESC/20621
+**Link Repositório Institucional UDESC:** 

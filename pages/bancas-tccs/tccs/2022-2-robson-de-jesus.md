@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/robson-de-jesus/"
+permalink: "/banca-tcc/tccs/2022-2-robson-de-jesus/"
 ---
 
 #### **DESENVOLVIMENTO DE UMA PLATAFORMA BASEADA EM BLOCKCHAIN PARA TRANSAÇÕES DE CRIPTOMOEDAS**

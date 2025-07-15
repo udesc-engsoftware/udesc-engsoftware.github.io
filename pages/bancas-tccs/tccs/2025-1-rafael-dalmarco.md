@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/rafael-dalmarco/"
+permalink: "/banca-tcc/tccs/2025-1-rafael-dalmarco/"
 ---
 
 #### **PROPOSTA DE UMA ARQUITETURA DE MICROSSERVIÇOS BASEADA EM EVENTOS PARA IOT COM USO DE NODE-RED E TÉCNICAS AVANÇADAS DE ARMAZENAMENTO**

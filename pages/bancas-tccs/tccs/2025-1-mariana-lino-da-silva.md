@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/mariana-lino-da-silva/"
+permalink: "/banca-tcc/tccs/2025-1-mariana-lino-da-silva/"
 ---
 
 #### **LEARN2TEST - UMA ABORDAGEM PRÁTICA PARA O ENSINO DE TESTES DE SOFTWARE**

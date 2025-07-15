@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/vinicius-tome-vieira/"
+permalink: "/banca-tcc/tccs/2020-2-vinicius-tome-vieira/"
 ---
 
 #### **JOGO SÉRIO PARA O ENSINO DE FÍSICA NO ENSINO MÉDIO COM O USO DA REALIDADE AUMENTADA COM O MÉTODO DE AUXÍLIO NO APRENDIZADO ESCOLAR**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/vinicius-tome-vieira/"
 <br>
 **Membros:** Paolo Moser e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15206][vtv]
-
-[vtv]: https://repositorio.udesc.br/handle/UDESC/15206
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15206

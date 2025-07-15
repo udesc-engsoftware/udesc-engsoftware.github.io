@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/jose-vargas-nolli/"
+permalink: "/banca-tcc/tccs/2023-1-jose-vargas-nolli/"
 ---
 
 #### **RELÍQUIAS DO CAOS: UM JOGO SÉRIO DO GÊNERO RPG PARA AUXILIAR O APRENDIZADO DO PADRÃO DE PROJETOS VISITOR**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/jose-vargas-nolli/"
 <br>
 **Membros:** Marcelo de Souza e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1423][jvn]
-
-[jvn]: https://repositorio.udesc.br/handle/UDESC/1423
+**Link Repositório Institucional UDESC:** 

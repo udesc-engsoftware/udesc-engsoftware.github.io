@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/afonso-ueslei-boing/"
+permalink: "/banca-tcc/tccs/2023-1-afonso-ueslei-boing/"
 ---
 
 #### **APLICATIVO COM GAMIFICAÇÃO PARA APOIO NO APRENDIZADO DA ORIENTAÇÃO A OBJETOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/afonso-ueslei-boing/"
 <br>
 **Membros:** Carlos Alberto Barth e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1421][aub]
-
-[aub]: https://repositorio.udesc.br/handle/UDESC/1421
+**Link Repositório Institucional UDESC:** 

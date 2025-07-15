@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/aparicio-da-silva/"
+permalink: "/banca-tcc/tccs/2020-2-aparicio-da-silva/"
 ---
 
 #### **SISTEMA PARA ACOMPANHAMENTO E DIAGNÓSTICO DE BOVINOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/aparicio-da-silva/"
 <br>
 **Membros:** Fernando dos Santos e Geraldo Mengazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15193][as]
-
-[as]: https://repositorio.udesc.br/handle/UDESC/15193
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15193

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/suelyn-concentius/"
+permalink: "/banca-tcc/tccs/2025-1-suelyn-concentius/"
 ---
 
 #### **AVALIAÇÃO DE FERRAMENTAS COLABORATIVAS DE APOIO AO DESENVOLVIMENTO DE SOFTWARE**

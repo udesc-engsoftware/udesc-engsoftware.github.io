@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/angelina-machado-de-siqueira/"
+permalink: "/banca-tcc/tccs/2024-2-angelina-machado-de-siqueira/"
 ---
 
 #### **DETECÇÃO DE VULNERABILIDADES EM CÓDIGO FONTE USANDO APRENDIZADO DE MÁQUINA**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/angelina-machado-de-siqueira/"
 <br>
 **Membros:** Marília Guterres Ferreira e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20617][ams]
-
-[ams]: https://repositorio.udesc.br/handle/UDESC/20617
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/lucas-levi-goncalves/"
+permalink: "/banca-tcc/tccs/2024-1-lucas-levi-goncalves/"
 ---
 
 #### **CONNECTPET: UMA PLATAFORMA PARA GESTÃO FINANCEIRA E OPERACIONAL DESTINADA A INSTITUIÇÕES DE PROTEÇÃO ANIMAL**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/lucas-levi-goncalves/"
 <br>
 **Membros:** Rodrigo Ramos Nogueira e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20616][llg]
-
-[llg]: https://repositorio.udesc.br/handle/UDESC/20616
+**Link Repositório Institucional UDESC:** 

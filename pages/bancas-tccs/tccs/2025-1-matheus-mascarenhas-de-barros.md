@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/matheus-mascarenhas-de-barros/"
+permalink: "/banca-tcc/tccs/2025-1-matheus-mascarenhas-de-barros/"
 ---
 
 #### **FUTLINK: UMA REDE SOCIAL COLABORATIVA PARA JOGADORES E ENTUSIASTAS DE FUTEBOL, VISANDO CONECTAR ATLETAS AMADORES PARA O COMPARTILHAMENTO DE EXPERIÊNCIAS E ORGANIZAÇÃO DE PARTIDAS LOCAIS**

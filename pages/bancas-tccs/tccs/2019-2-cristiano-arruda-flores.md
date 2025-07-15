@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/cristiano-arruda-flores/"
+permalink: "/banca-tcc/tccs/2019-2-cristiano-arruda-flores/"
 ---
 
 #### **AVALIAÇÃO DA EXPERIÊNCIA DO USUÁRIO NA PLATAFORMA MOODLE**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/cristiano-arruda-flores/"
 <br>
 **Membros:** Tiago Luiz Schmitz e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/228][caf]
-
-[caf]: https://repositorio.udesc.br/handle/UDESC/228
+**Link Repositório Institucional UDESC:** 

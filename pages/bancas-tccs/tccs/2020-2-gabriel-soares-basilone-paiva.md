@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gabriel-soares-basilone-paiva/"
+permalink: "/banca-tcc/tccs/2020-2-gabriel-soares-basilone-paiva/"
 ---
 
 #### **YESLIST: UMA PLATAFORMA DE CURSOS ONLINES**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/gabriel-soares-basilone-paiva/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15200][gsbp]
-
-[gsbp]: https://repositorio.udesc.br/handle/UDESC/15200
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15200

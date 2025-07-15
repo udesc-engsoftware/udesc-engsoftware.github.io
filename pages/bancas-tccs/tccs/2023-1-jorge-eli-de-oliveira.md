@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/jorge-eli-de-oliveira/"
+permalink: "/banca-tcc/tccs/2023-1-jorge-eli-de-oliveira/"
 ---
 
 #### **LECTOR: SISTEMA DE APOIO PARA GESTÃO DE DIÁRIOS DE CLASSE**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/jorge-eli-de-oliveira/"
 <br>
 **Membros:** Geraldo Menegazzo Varela e Carlos Fernando Cruz
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1422][jeo]
-
-[jeo]: https://repositorio.udesc.br/handle/UDESC/1422
+**Link Repositório Institucional UDESC:** 

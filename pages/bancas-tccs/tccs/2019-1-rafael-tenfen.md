@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/rafael-tenfen/"
+permalink: "/banca-tcc/tccs/2019-1-rafael-tenfen/"
 ---
 
 #### **EXTENSÃO DA ABORDAGEM DE DESENVOLVIMENTO DIRIGIDO A MODELOS PARA SIMULAÇÕES COM AGENTES (MDD4ABMS) PARA SUPORTAR A PLATAFORMA REPAST**

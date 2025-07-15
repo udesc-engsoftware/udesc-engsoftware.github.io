@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/nicolas-macedo-debacher/"
+permalink: "/banca-tcc/tccs/2025-1-nicolas-macedo-debacher/"
 ---
 
 #### **VPL IMPLEMENTATION CHECKER: UM AVALIADOR DE IMPLEMENTAÇÃO DE CLASSES JAVA BASEADO EM DIAGRAMAS DE CLASSES PARA O MOODLE VPL**

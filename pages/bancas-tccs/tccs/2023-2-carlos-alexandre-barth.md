@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/carlos-alexandre-barth/"
+permalink: "/banca-tcc/tccs/2023-2-carlos-alexandre-barth/"
 ---
 
 #### **FATORES DE INFLUÊNCIA NA FORMAÇÃO DO PENSAMENTO COMPUTACIONAL EM CRIANÇAS DO ENSINO FUNDAMENTAL**

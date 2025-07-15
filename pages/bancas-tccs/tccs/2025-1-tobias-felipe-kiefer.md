@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/tobias-felipe-kiefer/"
+permalink: "/banca-tcc/tccs/2025-1-tobias-felipe-kiefer/"
 ---
 
 #### **ARQUITETURA DE DATA WAREHOUSE AUTOMATIZADO PARA APOIO À GESTÃO DO CONHECIMENTO EM BASES DE PATENTES**

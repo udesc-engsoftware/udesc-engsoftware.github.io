@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/giancarlo-pandini/"
+permalink: "/banca-tcc/tccs/2021-2-giancarlo-pandini/"
 ---
 
 #### **FERRAMENTA VISUAL PARA GERAÇÃO E COMPARAÇÃO DE CÓDIGO FONTE DE BIBLIOTECAS ORM**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/giancarlo-pandini/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17009][gp]
-
-[gp]: https://repositorio.udesc.br/handle/UDESC/17009
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17009

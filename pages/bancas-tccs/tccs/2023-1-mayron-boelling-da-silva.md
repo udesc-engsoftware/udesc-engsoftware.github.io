@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/mayron-boelling-da-silva/"
+permalink: "/banca-tcc/tccs/2023-1-mayron-boelling-da-silva/"
 ---
 
 #### **PROTÓTIPO DE UM SISTEMA DE RASTREIO DE MÃO BASEADO EM HARDWARE DE BAIXO CUSTO PARA INTERAÇÃO HUMANO-COMPUTADOR**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/mayron-boelling-da-silva/"
 <br>
 **Membros:** Adilson Vahldic e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1424][mbs]
-
-[mbs]: https://repositorio.udesc.br/handle/UDESC/1424
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/tiago-artur-schumann/"
+permalink: "/banca-tcc/tccs/2023-2-tiago-artur-schumann/"
 ---
 
 #### **UM JOGO PARA A EDUCAÇÃO FINANCEIRA NAS ESCOLAS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/tiago-artur-schumann/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1420][tas]
-
-[tas]: https://repositorio.udesc.br/handle/UDESC/1420
+**Link Repositório Institucional UDESC:** 

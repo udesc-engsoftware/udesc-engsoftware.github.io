@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gabriel-dolzan/"
+permalink: "/banca-tcc/tccs/2023-2-gabriel-dolzan/"
 ---
 
 #### **DOLZANLYTICS: UM AMBIENTE EXTENSÍVEL DE LEARNING ANALYTICS PARA SERIOUS GAMES**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/gabriel-dolzan/"
 <br>
 **Membros:** Pablo Schoeffel e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20629][gd]
-
-[gd]: https://repositorio.udesc.br/handle/UDESC/20629
+**Link Repositório Institucional UDESC:** 

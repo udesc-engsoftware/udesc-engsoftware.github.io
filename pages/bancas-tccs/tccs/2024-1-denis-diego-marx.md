@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/denis-diego-marx/"
+permalink: "/banca-tcc/tccs/2024-1-denis-diego-marx/"
 ---
 
 #### **PREDIÇÃO DE DÍVIDA TÉCNICA EM PROJETOS DE SOFTWARE UTILIZANDO MACHINE LEARNING**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/denis-diego-marx/"
 <br>
 **Membros:** Pedro Sidnei Zanchett e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20613][ddm]
-
-[ddm]: https://repositorio.udesc.br/handle/UDESC/20613
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gustavo-henrique-jung/"
+permalink: "/banca-tcc/tccs/2020-2-gustavo-henrique-jung/"
 ---
 
 #### **GERENCIAMENTO DE SUPRIMENTOS E CONTROLE DE PRODUÇÃO PARA INDÚSTRIA POR MEIO DE UM APLICATIVO PARA DISPOSITIVOS MÓVEIS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/gustavo-henrique-jung/"
 <br>
 **Membros:** Pablo Schoeffel e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15201][ghj]
-
-[ghj]: https://repositorio.udesc.br/handle/UDESC/15201
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15201

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/karolini-rosine-pereira/"
+permalink: "/banca-tcc/tccs/2019-1-karolini-rosine-pereira/"
 ---
 
 #### **UMA COMPARAÇÃO DA PERFORMANCE DO WEBASSEMBLY COM JAVASCRIPT EM DIFERENTES NAVEGADORES**

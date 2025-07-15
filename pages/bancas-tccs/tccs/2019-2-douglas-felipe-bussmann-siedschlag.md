@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/douglas-felipe-bussmann-siedschlag/"
+permalink: "/banca-tcc/tccs/2019-2-douglas-felipe-bussmann-siedschlag/"
 ---
 
 #### **SÚMULA ELETRÔNICA COM DIVULGAÇÃO DE RESULTADOS VIA REDE SOCIAL PARA O JIUDESC**

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/julio-cesar-bueno-de-oliveira-junior/"
+permalink: "/banca-tcc/tccs/2023-2-julio-cesar-bueno-de-oliveira-junior/"
 ---
 
 #### **PLATAFORMA DE INTEGRAÇÃO DE LINGUAGENS NATIVAS E HÍBRIDAS NO DESENVOLVIMENTO ANDROID**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/julio-cesar-bueno-de-oliveira-junior/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1417][jcboj]
-
-[jcboj]: https://repositorio.udesc.br/handle/UDESC/1417
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/jessica-bernardi-petersen/"
+permalink: "/banca-tcc/tccs/2020-2-jessica-bernardi-petersen/"
 ---
 
 #### **PORTABILIDADE DO MODELO DE PROPAGAÇÃO DE DOENÇAS A PARTIR DA ABORDAGEM DE DESENVOLVIMENTO DIRIGIDO A MODELOS COM AGENTES (MDD4ABMS)**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/jessica-bernardi-petersen/"
 <br>
 **Membros:** Marília Guterres Ferreira e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15203][jbp]
-
-[jbp]: https://repositorio.udesc.br/handle/UDESC/15203
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15203

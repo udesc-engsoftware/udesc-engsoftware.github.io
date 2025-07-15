@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/murilo-antunes-goedert/"
+permalink: "/banca-tcc/tccs/2023-2-murilo-antunes-goedert/"
 ---
 
 #### **DIE KOLONIE: UM JOGO SÉRIO DE FPA PARA O ENSINO DA HISTÓRIA DA COLONIZAÇÃO EUROPEIA EM SANTA CATARINA**

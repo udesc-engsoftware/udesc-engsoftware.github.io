@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/daniel-valdo-dallabeneta/"
+permalink: "/banca-tcc/tccs/2024-1-daniel-valdo-dallabeneta/"
 ---
 
 #### **ANÁLISE DE MÉTRICAS DE DÍVIDA TÉCNICA PARA PREDIÇÃO DE MUDANÇAS COM ALGORITMOS DE APRENDIZADO RANDOM FOREST E LSTM**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/daniel-valdo-dallabeneta/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20612][dvd]
-
-[dvd]: https://repositorio.udesc.br/handle/UDESC/20612
+**Link Repositório Institucional UDESC:** 

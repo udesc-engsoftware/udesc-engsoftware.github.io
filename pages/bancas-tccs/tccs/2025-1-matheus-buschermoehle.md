@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/matheus-buschermoehle/"
+permalink: "/banca-tcc/tccs/2025-1-matheus-buschermoehle/"
 ---
 
 #### **UMA ANÁLISE COMPARATIVA DA APLICAÇÃO DE EXPLAINABLE AI EM DIFERENTES MODELOS DE APRENDIZADO DE MÁQUINA PARA DETECÇÃO DE INTRUSÃO EM REDES IOT**

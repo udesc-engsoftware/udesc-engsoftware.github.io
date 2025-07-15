@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/lucas-waterkemper-alberton/"
+permalink: "/banca-tcc/tccs/2022-2-lucas-waterkemper-alberton/"
 ---
 
 #### **JOGO SÉRIO COMO FERRAMENTA DE APOIO PARA O APRENDIZADO DE EMPREENDEDORISMO NO ENSINO FUNDAMENTAL II**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/lucas-waterkemper-alberton/"
 <br>
 **Membros:** Marcelo de Souza e Carlos Fernando Cruz
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18193][lwa]
-
-[lwa]: https://repositorio.udesc.br/handle/UDESC/18193
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18193

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gustavo-de-carvalho-santos/"
+permalink: "/banca-tcc/tccs/2021-1-gustavo-de-carvalho-santos/"
 ---
 
 #### **COMMAND: COMANDA DIGITAL PARA RESTAURANTES E BARES**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/gustavo-de-carvalho-santos/"
 <br>
 **Membros:** Carlos Alberto Barth e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15435][gcs]
-
-[gcs]: https://repositorio.udesc.br/handle/UDESC/15435
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15435

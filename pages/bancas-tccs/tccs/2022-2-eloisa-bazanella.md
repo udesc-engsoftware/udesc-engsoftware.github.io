@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/eloisa-bazanella/"
+permalink: "/banca-tcc/tccs/2022-2-eloisa-bazanella/"
 ---
 
 #### **EXPANSÃO DA BIBLIOTECA DE APRENDIZAGEM POR REFORÇO PARA DESENVOLVIMENTO DE AGENTES INTELIGENTES NA PLATAFORMA NETLOGO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/eloisa-bazanella/"
 <br>
 **Membros:** Marília Guterres Ferreira e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18189][eb]
-
-[eb]: https://repositorio.udesc.br/handle/UDESC/18189
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18189

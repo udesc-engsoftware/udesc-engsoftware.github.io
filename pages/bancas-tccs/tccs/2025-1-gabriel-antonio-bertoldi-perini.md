@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gabriel-antonio-bertoldi-perini/"
+permalink: "/banca-tcc/tccs/2025-1-gabriel-antonio-bertoldi-perini/"
 ---
 
 #### **HEURÍSTICAS CONSTRUTIVAS E ADAPTATIVAS PARA O PROBLEMA DO CONJUNTO k-DOMINANTE MÍNIMO**

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/leticia-resmine-durigon/"
+permalink: "/banca-tcc/tccs/2019-1-leticia-resmine-durigon/"
 ---
 
 #### **UTILIZAÇÃO DE MAPAS AUTO-ORGANIZÁVEIS PARA DEFINIR LOCAL COM MELHOR DESEMPENHO EM SALA DE AULA**

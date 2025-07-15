@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/guilherme-rafael-deschamps/"
+permalink: "/banca-tcc/tccs/2022-2-guilherme-rafael-deschamps/"
 ---
 
 #### **EXPERIMENTING THE CONSISTENCY OF LIME IN A PLANT CLASSIFICATION MODEL: A CASE STUDY OF EXPLAINABLE ARTIFICIAL INTELLIGENCE**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/guilherme-rafael-deschamps/"
 <br>
 **Membros:** Marcelo de Souza e Tiago Luiz Schmitz
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18190][grd]
-
-[grd]: https://repositorio.udesc.br/handle/UDESC/18190
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18190

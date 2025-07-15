@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/leonardo-alex-fusinato/"
+permalink: "/banca-tcc/tccs/2022-2-leonardo-alex-fusinato/"
 ---
 
 #### **DESENVOLVIMENTO DE UM APLICATIVO MÓVEL PARA AUXILIAR NAS NECESSIDADES DIÁRIAS DE CUIDADORES DE IDOSOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/leonardo-alex-fusinato/"
 <br>
 **Membros:** Paolo Moser e Eduardo Stahnke
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18192][laf]
-
-[laf]: https://repositorio.udesc.br/handle/UDESC/18192
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18192

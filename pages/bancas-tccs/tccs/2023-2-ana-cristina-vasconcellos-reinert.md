@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ana-cristina-vasconcellos-reinert/"
+permalink: "/banca-tcc/tccs/2023-2-ana-cristina-vasconcellos-reinert/"
 ---
 
 #### **USO DE VISÃO COMPUTACIONAL PARA DETECÇÃO E RECONHECIMENTO DE TRABALHADORES SEM CAPACETE**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/ana-cristina-vasconcellos-reinert/"
 <br>
 **Membros:** Marília Guterres Ferreira e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1416][acvr]
-
-[acvr]: https://repositorio.udesc.br/handle/UDESC/1416
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/1416

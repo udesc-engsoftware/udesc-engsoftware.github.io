@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/andre-luiz-cordeiro-games/"
+permalink: "/banca-tcc/tccs/2023-2-andre-luiz-cordeiro-games/"
 ---
 
 #### **FIGURAS HISTÓRICAS: SISTEMA INTERATIVO DE ENGAJAMENTO PARA ALUNOS DE LITERATURA**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/andre-luiz-cordeiro-games/"
 <br>
 **Membros:** Paolo Moser e Scheila Patrícia de Borba Curry
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20627][alcg]
-
-[alcg]: https://repositorio.udesc.br/handle/UDESC/20627
+**Link Repositório Institucional UDESC:** 

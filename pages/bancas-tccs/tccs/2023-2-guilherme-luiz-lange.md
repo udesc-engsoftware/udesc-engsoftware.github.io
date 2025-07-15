@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/guilherme-luiz-lange/"
+permalink: "/banca-tcc/tccs/2023-2-guilherme-luiz-lange/"
 ---
 
 #### **ESTUDO DE CASO COMPARATIVO ENTRE PADRÕES ARQUITETURAIS PARA DESENVOLVIMENTO DE APLICAÇÕES WEB**

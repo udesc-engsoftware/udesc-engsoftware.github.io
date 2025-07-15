@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/joao-victor-arruda/"
+permalink: "/banca-tcc/tccs/2020-2-joao-victor-arruda/"
 ---
 
 #### **APLICATIVO PARA AMPLIAR A REDE DE DOADORES DE SANGUE E FACILITAR A COMUNICAÇÃO ENTRE DOADORES E RECEPTORES**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/joao-victor-arruda/"
 <br>
 **Membros:** Carlos Alberto Barth e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15195][jva]
-
-[jva]: https://repositorio.udesc.br/handle/UDESC/15195
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15195

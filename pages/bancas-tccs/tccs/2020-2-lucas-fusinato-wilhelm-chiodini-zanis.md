@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/lucas-fusinato-wilhelm-chiodini-zanis/"
+permalink: "/banca-tcc/tccs/2020-2-lucas-fusinato-wilhelm-chiodini-zanis/"
 ---
 
 #### **SPORTWAY - PROPOSTA DE UMA REDE SOCIAL PARA GESTÃO ESPORTIVA DA CARREIRA DE ATLETAS AMADORES E PROFISSIONAIS**

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/raissa-duarte/"
+permalink: "/banca-tcc/tccs/2025-1-raissa-duarte/"
 ---
 
 #### **INVESTIGAÇÃO DA APLICAÇÃO DA INTELIGÊNCIA ARTIFICIAL EM AMBIENTES INDUSTRIAIS**

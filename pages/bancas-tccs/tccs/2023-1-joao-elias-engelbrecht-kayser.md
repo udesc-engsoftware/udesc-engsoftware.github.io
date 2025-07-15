@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/joao-elias-engelbrecht-kayser/"
+permalink: "/banca-tcc/tccs/2023-1-joao-elias-engelbrecht-kayser/"
 ---
 
 #### **HEARP: UM APLICATIVO VOLTADO A TRAZER ACESSIBILIDADE ÀS PESSOAS COM DEFICIÊNCIA AUDITIVA**

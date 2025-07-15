@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/john-frank-eichstaedt/"
+permalink: "/banca-tcc/tccs/2019-1-john-frank-eichstaedt/"
 ---
 
 #### **ACESSIBILIDADE E USABILIDADE: UM ESTUDO DE AMBIENTES GRÁFICOS GNU/LINUX EM UMA INSTITUIÇÃO DE ENSINO**

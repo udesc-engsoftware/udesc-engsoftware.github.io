@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/mario-luiz-frainer-fronza/"
+permalink: "/banca-tcc/tccs/2020-2-mario-luiz-frainer-fronza/"
 ---
 
 #### **PROTÓTIPO DE UM SISTEMA DE FREQUÊNCIA ESCOLAR BASEADO EM RECONHECIMENTO FACIAL**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/mario-luiz-frainer-fronza/"
 <br>
 **Membros:** Adilson Vahldick e Ricardo Grunitzki
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15205][mlff]
-
-[mlff]: https://repositorio.udesc.br/handle/UDESC/15205
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15205

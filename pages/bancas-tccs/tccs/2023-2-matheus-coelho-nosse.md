@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/matheus-coelho-nosse/"
+permalink: "/banca-tcc/tccs/2023-2-matheus-coelho-nosse/"
 ---
 
 #### **STUDYTALK: UM SISTEMA PARA FACILITAR A PROPAGAÇÃO DE QUESTIONAMENTOS E SOLUÇÕES EXISTENTES NAS COMUNIDADES ESTUDANTÍS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/matheus-coelho-nosse/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1419][mcn]
-
-[mcn]: https://repositorio.udesc.br/handle/UDESC/1419
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/matheus-zickuhr/"
+permalink: "/banca-tcc/tccs/2020-1-matheus-zickuhr/"
 ---
 
 #### **IA COMO UM MECANISMO DE JOGADOR AUTÔNOMO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/matheus-zickuhr/"
 <br>
 **Membros:** Adilson Vahldick e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15154][mk]
-
-[mk]: https://repositorio.udesc.br/handle/UDESC/15154
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15154

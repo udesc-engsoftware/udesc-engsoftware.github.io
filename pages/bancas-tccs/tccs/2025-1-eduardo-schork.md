@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/eduardo-schork/"
+permalink: "/banca-tcc/tccs/2025-1-eduardo-schork/"
 ---
 
 #### **GEARDB: UMA PLATAFORMA WEB/MOBILE PARA COMUNIDADE DE ENTUSIASTAS AUTOMOTIVOS COM RECURSOS DE RECONHECIMENTO DE IMAGEM E INTEGRAÇÃO SOCIAL**

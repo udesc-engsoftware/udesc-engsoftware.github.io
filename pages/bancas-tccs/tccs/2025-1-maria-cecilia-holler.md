@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/maria-cecilia-holler/"
+permalink: "/banca-tcc/tccs/2025-1-maria-cecilia-holler/"
 ---
 
 #### **INTELIGÊNCIA ARTIFICIAL EXPLICÁVEL PARA O RECONHECIMENTO DE LÍNGUAS DE SINAIS POR VISÃO COMPUTACIONAL**

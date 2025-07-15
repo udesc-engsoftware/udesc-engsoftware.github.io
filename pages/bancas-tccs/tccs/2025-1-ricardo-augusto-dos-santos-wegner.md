@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ricardo-augusto-dos-santos-wegner/"
+permalink: "/banca-tcc/tccs/2025-1-ricardo-augusto-dos-santos-wegner/"
 ---
 
 #### **RECICLA GAME: UM JOGO EDUCACIONAL PARA RECICLAGEM E IMPACTOS DOS RESÍDUOS APLICADO AOS ALUNOS DO 5º ANO DO ENSINO FUNDAMENTAL**

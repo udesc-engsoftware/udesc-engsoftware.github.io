@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/max-natanael-starke/"
+permalink: "/banca-tcc/tccs/2024-2-max-natanael-starke/"
 ---
 
 #### **DESENVOLVIMENTO DE UMA BLOCKCHAIN PARA ARMAZENAMENTO DIGITAL DE DIPLOMAS DE CONCLUSÃO DE CURSO DA UDESC**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/max-natanael-starke/"
 <br>
 **Membros:** Sérgio Roberto Villareal e Carla Merkle Westphall
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20626][mns]
-
-[mns]: https://repositorio.udesc.br/handle/UDESC/20626
+**Link Repositório Institucional UDESC:** 

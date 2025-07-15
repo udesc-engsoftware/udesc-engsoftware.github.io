@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/vinicius-catafesta-francisco/"
+permalink: "/banca-tcc/tccs/2021-2-vinicius-catafesta-francisco/"
 ---
 
 #### **DESENVOLVIMENTO DE APLICATIVO PARA CONSULTA DE INFORMAÇÕES SOBRE CERVEJAS ARTESANAIS NO VALE DO ITAJAÍ**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/vinicius-catafesta-francisco/"
 <br>
 **Membros:** Marília Guterres Ferreira e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17011][vcf]
-
-[vcf]: https://repositorio.udesc.br/handle/UDESC/17011
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17011

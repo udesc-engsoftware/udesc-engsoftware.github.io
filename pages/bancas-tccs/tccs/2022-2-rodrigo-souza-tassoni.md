@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/rodrigo-souza-tassoni/"
+permalink: "/banca-tcc/tccs/2022-2-rodrigo-souza-tassoni/"
 ---
 
 #### **FERRAMENTA COLABORATIVA PARA GESTÃO DE IDEIAS DE PROJETOS E TRABALHOS ACADÊMICOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/rodrigo-souza-tassoni/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18197][rst]
-
-[rst]: https://repositorio.udesc.br/handle/UDESC/18197
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18197

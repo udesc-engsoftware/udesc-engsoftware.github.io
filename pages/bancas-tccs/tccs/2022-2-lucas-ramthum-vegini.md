@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/lucas-ramthum-vegini/"
+permalink: "/banca-tcc/tccs/2022-2-lucas-ramthum-vegini/"
 ---
 
 #### **REACT, NEXT E GATSBY: UMA ANÁLISE COMPARATIVA ENTRE FRAMEWORKS FRONTEND JAVASCRIPT**

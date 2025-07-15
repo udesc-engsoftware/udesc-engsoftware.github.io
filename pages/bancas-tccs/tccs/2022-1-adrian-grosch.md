@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/adrian-grosch/"
+permalink: "/banca-tcc/tccs/2022-1-adrian-grosch/"
 ---
 
 #### **CALENUDESC: UM CALENDÁRIO COLABORATIVO PARA O CONTROLE DE EVENTOS ACADÊMICOS DA UNIVERSIDADE DO ESTADO DE SANTA CATARINA**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/adrian-grosch/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17013][ag]
-
-[ag]: https://repositorio.udesc.br/handle/UDESC/17013
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17013

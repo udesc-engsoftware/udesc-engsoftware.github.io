@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/mateus-gabardo-lemos/"
+permalink: "/banca-tcc/tccs/2024-2-mateus-gabardo-lemos/"
 ---
 
 #### **AJUSTE FINO DE LLMS PARA CLASSIFICAÇÃO DE MÚSICAS LITÚRGICAS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/mateus-gabardo-lemos/"
 <br>
 **Membros:** Adilson Vahldick e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20624][mgl]
-
-[mgl]: https://repositorio.udesc.br/handle/UDESC/20624
+**Link Repositório Institucional UDESC:** 

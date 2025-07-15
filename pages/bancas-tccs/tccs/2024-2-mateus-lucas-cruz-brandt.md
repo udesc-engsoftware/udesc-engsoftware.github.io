@@ -6,10 +6,10 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/mateus-lucas-cruz-brandt/"
+permalink: "/banca-tcc/tccs/2024-2-mateus-lucas-cruz-brandt/"
 ---
 
-#### **INCLUSÃO E TECNOLOGIA: DESENVOLVIMENTO DE UMA FERRMENTA DE AUXÍLIO PARA APLICAÇÕES MÓVEIS ACESSÍVEIS EM FLUTTER**
+#### **INCLUSÃO E TECNOLOGIA: DESENVOLVIMENTO DE UMA FERRAMENTA DE AUXÍLIO PARA APLICAÇÕES MÓVEIS ACESSÍVEIS EM FLUTTER**
 <br>
 **Aluno(a):** Mateus Lucas Cruz Brandt
 <br>
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/mateus-lucas-cruz-brandt/"
 <br>
 **Membros:** Mattheus da hora França e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20625][mlcb]
-
-[mlcb]: https://repositorio.udesc.br/handle/UDESC/20625
+**Link Repositório Institucional UDESC:** 

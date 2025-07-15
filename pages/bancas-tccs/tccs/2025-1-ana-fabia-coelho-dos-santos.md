@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/ana-fabia-coelho-dos-santos/"
+permalink: "/banca-tcc/tccs/2025-1-ana-fabia-coelho-dos-santos/"
 ---
 
 #### **ALSAP: UM ATLAS LINGUÍSTICO SONORO DO AMAPÁ**

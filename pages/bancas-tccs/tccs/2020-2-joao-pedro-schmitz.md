@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/joao-pedro-schmitz/"
+permalink: "/banca-tcc/tccs/2020-2-joao-pedro-schmitz/"
 ---
 
 #### **PILOT FORUM: FERRAMENTA DE FÓRUM MULTIDISCIPLINAR COM RECURSO DE GAMIFICAÇÃO PARA O AMBIENTE ACADÊMICO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/joao-pedro-schmitz/"
 <br>
 **Membros:** Carlos Alberto Barth e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15199][jps]
-
-[jps]: https://repositorio.udesc.br/handle/UDESC/15199
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15199

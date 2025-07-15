@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/thiago-farias/"
+permalink: "/banca-tcc/tccs/2022-2-thiago-farias/"
 ---
 
 #### **PRÁTICAS E ARTEFATOS PARA ENTREGA CONTÍNUA DE VALOR EM PROJETOS DE CIÊNCIA DE DADOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/thiago-farias/"
 <br>
 **Membros:** Marco Aurélio Butzke e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18198][tf]
-
-[tf]: https://repositorio.udesc.br/handle/UDESC/18198
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18198

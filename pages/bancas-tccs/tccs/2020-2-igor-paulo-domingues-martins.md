@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/igor-paulo-domingues-martins/"
+permalink: "/banca-tcc/tccs/2020-2-igor-paulo-domingues-martins/"
 ---
 
 #### **ANÁLISE DE PERFORMANCE DO ALGORITMO HASHGRAPH PARA SISTEMAS DISTRIBUÍDOS PERMISSIONADOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/igor-paulo-domingues-martins/"
 <br>
 **Membros:** Pablo Schoeffel e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15202][ipdm]
-
-[ipdm]: https://repositorio.udesc.br/handle/UDESC/15202
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15202

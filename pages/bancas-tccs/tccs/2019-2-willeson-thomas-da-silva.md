@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/willeson-thomas-da-silva/"
+permalink: "/banca-tcc/tccs/2019-2-willeson-thomas-da-silva/"
 ---
 
 #### **UM JOGO SÉRIO PARA O APRENDIZADO DO ÁTOMO DE BOHR**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/willeson-thomas-da-silva/"
 <br>
 **Membros:** Paolo Moser e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1393][wts]
-
-[wts]: https://repositorio.udesc.br/handle/UDESC/1393
+**Link Repositório Institucional UDESC:** 

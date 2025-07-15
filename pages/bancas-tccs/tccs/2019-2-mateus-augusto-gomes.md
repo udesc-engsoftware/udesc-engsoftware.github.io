@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/mateus-augusto-gomes/"
+permalink: "/banca-tcc/tccs/2019-2-mateus-augusto-gomes/"
 ---
 
 #### **MÉTODOS PARA ANÁLISE DE SENTIMENTOS EM REDE SOCIAL DE ACONSELHAMENTOS**

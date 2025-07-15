@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/luiza-nurnberg/"
+permalink: "/banca-tcc/tccs/2025-1-luiza-nurnberg/"
 ---
 
 #### **NEXOS: UMA APLICAÇÃO BASEADA EM OTIMIZAÇÃO PARA O PROBLEMA DA PRÓXIMA RELEASE NA ENGENHARIA DE SOFTWARE**

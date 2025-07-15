@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gustavo-vargas-de-andrade/"
+permalink: "/banca-tcc/tccs/2022-2-gustavo-vargas-de-andrade/"
 ---
 
 #### **EROSIAR: UMA APLICAÇÃO EM REALIDADE AUMENTADA PARA SIMULAÇÃO DE EVENTOS EROSIVOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/gustavo-vargas-de-andrade/"
 <br>
 **Membros:** Marcelo de Souza e Guilherme Linheira
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18191][gva]
-
-[gva]: https://repositorio.udesc.br/handle/UDESC/18191
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18191

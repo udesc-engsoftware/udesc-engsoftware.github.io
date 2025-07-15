@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/leonardo-tadeu-jaques-steinke/"
+permalink: "/banca-tcc/tccs/2022-1-leonardo-tadeu-jaques-steinke/"
 ---
 
 #### **PRÁTICAS DE DEVOPS NO DESENVOLVIMENTO DE UM SISTEMA PARA A FUNDAÇÃO MUNICIPAL DO MEIO AMBIENTE DE FLORIANÓPOLIS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/leonardo-tadeu-jaques-steinke/"
 <br>
 **Membros:** Pablo Schoeffel e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17012][ltjk]
-
-[ltjk]: https://repositorio.udesc.br/handle/UDESC/17012
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17012

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/kevin-kons/"
+permalink: "/banca-tcc/tccs/2019-2-kevin-kons/"
 ---
 
 #### **BIBLIOTECA Q-LEARNING PARA DESENVOLVIMENTO DE SIMULAÇÕES COM AGENTES NA PLATAFORMA NETLOGO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/kevin-kons/"
 <br>
 **Membros:** Tiago Luiz Schmitz e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/19143][kk]
-
-[kk]: https://repositorio.udesc.br/handle/UDESC/19143
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/19143

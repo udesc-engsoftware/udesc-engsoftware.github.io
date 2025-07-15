@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/andre-cristen/"
+permalink: "/banca-tcc/tccs/2024-1-andre-cristen/"
 ---
 
 #### **LET'S TEST: UMA PLATAFORMA CROWDSOURCING PARA APOIO AO PLANEJAMENTO, EXECUÇÃO E RELATO DE TESTES DE SOFTWARE**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/andre-cristen/"
 <br>
 **Membros:** Mattheus da Hora França e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20611][ac]
-
-[ac]: https://repositorio.udesc.br/handle/UDESC/20611
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/lucas-eduardo-nogueira/"
+permalink: "/banca-tcc/tccs/2024-2-lucas-eduardo-nogueira/"
 ---
 
 #### **CLASSIFICAÇÃO DE ALIMENTOS ATRAVÉS DA APRENDIZAGEM DE MÁQUINA**

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/gustavo-rosa-lemes/"
+permalink: "/banca-tcc/tccs/2024-2-gustavo-rosa-lemes/"
 ---
 
 #### **SISTEMA DE SUPORTE À DECISÃO PARA NOTIFICAÇÕES E ALERTAS DE OCORRÊNCIAS EM DESASTRES CLIMATÓLOGICOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/gustavo-rosa-lemes/"
 <br>
 **Membros:** Marino Luiz Eyerkaufer e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20620][grl]
-
-[grl]: https://repositorio.udesc.br/handle/UDESC/20620
+**Link Repositório Institucional UDESC:** 

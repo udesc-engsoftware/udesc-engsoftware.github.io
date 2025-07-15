@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/felipe-lana-machado/"
+permalink: "/banca-tcc/tccs/2019-2-felipe-lana-machado/"
 ---
 
 #### **APLICAÇÃO DA CLASSIFICAÇÃO MULTI-CLASS EM DECISÕES MONOGRÁFICAS DO SUPREMO TRIBUNAL FEDERAL**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/felipe-lana-machado/"
 <br>
 **Membros:** Adilson Vahldick e Tiago Luiz Schmitz
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1387][flm]
-
-[flm]: https://repositorio.udesc.br/handle/UDESC/1387
+**Link Repositório Institucional UDESC:** 

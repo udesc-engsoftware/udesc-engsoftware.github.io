@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/mauricio-ventura-nardelli/"
+permalink: "/banca-tcc/tccs/2019-2-mauricio-ventura-nardelli/"
 ---
 
 #### **APLICATIVO PARA DISPOSITIVOS MÓVEIS VOLTADO PARA WORKFLOW DE APROVAÇÃO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/mauricio-ventura-nardelli/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1390][mvn]
-
-[mvn]: https://repositorio.udesc.br/handle/UDESC/1390
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/davi-lemes-franz/"
+permalink: "/banca-tcc/tccs/2024-2-davi-lemes-franz/"
 ---
 
 #### **PICTRO - UMA FERRAMENTA DE AUXÍLIO PARA O TRATAMENTO DE CRIANÇAS TEA**

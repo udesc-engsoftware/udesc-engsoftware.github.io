@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/andre-felipe-vigarani/"
+permalink: "/banca-tcc/tccs/2025-1-andre-felipe-vigarani/"
 ---
 
 #### **IMPLANTAÇÃO DE SISTEMAS DE GESTÃO E SUAS BARREIRAS ENTRE OS CLIENTES DA NAJ SISTEMAS: UM ESTUDO DE CASO**

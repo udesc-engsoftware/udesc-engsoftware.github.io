@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/lucas-martendal/"
+permalink: "/banca-tcc/tccs/2024-2-lucas-martendal/"
 ---
 
 #### **CONSTRUÇÃO DE MODELOS DE REDES NEURAIS E APRENDIZADO DE MÁQUINA PARA RECONHECIMENTO DE SINAIS ESTÁTICOS DE LIBRAS E DESENVOLVIMENTO DE APLICAÇÃO WEB PARA APRENDIZADO DE LIBRAS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/lucas-martendal/"
 <br>
 **Membros:** Mattheus da Hora França e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20545][lm]
-
-[lm]: https://repositorio.udesc.br/handle/UDESC/20545
+**Link Repositório Institucional UDESC:** 

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/rodrigo-valle/"
+permalink: "/banca-tcc/tccs/2021-2-rodrigo-valle/"
 ---
 
 #### **CATÁLOGO DE PADRÕES DE REQUISITOS NÃO-FUNCIONAIS PARA LAÇOS PARASSOCIAIS EM REDES SOCIAIS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/rodrigo-valle/"
 <br>
 **Membros:** Mattheus da Hora França e Vaniele Weinrich Stuepp
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17010][rv]
-
-[rv]: https://repositorio.udesc.br/handle/UDESC/17010
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17010

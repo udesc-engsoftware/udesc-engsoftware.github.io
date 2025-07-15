@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/andrew-vinicius-da-silva-baasch/"
+permalink: "/banca-tcc/tccs/2020-2-andrew-vinicius-da-silva-baasch/"
 ---
 
 #### **APLICAÇÃO DE PROCESSAMENTO DE LINGUAGEM NATURAL PARA ANÁLISE DE TEXTO E INDICAÇÃO DE NOTÍCIAS SIMILIARES: UMA FERRAMENTA DE APOIO PARA A IDENTIFICAÇÃO DE FAKE NEWS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/andrew-vinicius-da-silva-baasch/"
 <br>
 **Membros:** Lívia Ruback - UFRJ e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15191][avsb]
-
-[avsb]: https://repositorio.udesc.br/handle/UDESC/15191
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15191

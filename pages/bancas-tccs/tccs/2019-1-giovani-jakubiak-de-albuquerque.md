@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/giovani-jakubiak-de-albuquerque/"
+permalink: "/banca-tcc/tccs/2019-1-giovani-jakubiak-de-albuquerque/"
 ---
 
 #### **INTEGRAÇÃO ENTRE O MOTOR DE JOGOS UNREAL E O FRAMEWORK PARA SISTEMAS MULTIAGENTE JACAMO**

@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/daniel-larion-klug/"
+permalink: "/banca-tcc/tccs/2024-2-daniel-larion-klug/"
 ---
 
 #### **ESTUDO EXPLORATÓRIO DO DESEMPENHO DOS CANDIDATOS DO ENEM CONFORME SEUS DADOS SOCIECONÔMICOS**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/daniel-larion-klug/"
 <br>
 **Membros:** Carlos Alberto Barth e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20619][dlk]
-
-[dlk]: https://repositorio.udesc.br/handle/UDESC/20619
+**Link Repositório Institucional UDESC:** 

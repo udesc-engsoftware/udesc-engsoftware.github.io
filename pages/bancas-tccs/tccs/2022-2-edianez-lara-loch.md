@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/edianez-lara-loch/"
+permalink: "/banca-tcc/tccs/2022-2-edianez-lara-loch/"
 ---
 
 #### **APLICAÇÃO DE PROCESSAMENTO DE LINGUAGEM NATURAL PARA DESENVOLVIMENTO DE UM PROTÓTIPO DE CORRETOR DE REDAÇÕES NO FORMATO DO ENEM**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/edianez-lara-loch/"
 <br>
 **Membros:** Marília Guterres Ferreira e Scheila Patrícia de Borba Curry
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18187][ell]
-
-[ell]: https://repositorio.udesc.br/handle/UDESC/18187
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18187

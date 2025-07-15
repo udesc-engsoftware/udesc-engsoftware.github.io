@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/caue-lopes-marques/"
+permalink: "/banca-tcc/tccs/2024-2-caue-lopes-marques/"
 ---
 
 #### **TECH PATH VISION: SISTEMA WEB PARA A APRESENTAÇÃO DE DIFERENTES ÁREAS DE TECNOLOGIA AOS INICIANTES**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/caue-lopes-marques/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20618][clm]
-
-[clm]: https://repositorio.udesc.br/handle/UDESC/20618
+**Link Repositório Institucional UDESC:** 

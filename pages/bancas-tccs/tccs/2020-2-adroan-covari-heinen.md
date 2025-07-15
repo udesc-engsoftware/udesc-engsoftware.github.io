@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/adroan-covari-heinen/"
+permalink: "/banca-tcc/tccs/2020-2-adroan-covari-heinen/"
 ---
 
 #### **REALIDADE AUMENTADA APLICADA À APRENDIZAGEM DA ISOMERIA PARA O PRIMEIRO ANO DO ENSINO MÉDIO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/adroan-covari-heinen/"
 <br>
 **Membros:** Paolo Moser e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15190][ach]
-
-[ach]: https://repositorio.udesc.br/handle/UDESC/15190
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15190

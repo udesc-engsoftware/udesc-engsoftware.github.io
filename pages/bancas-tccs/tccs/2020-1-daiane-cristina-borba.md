@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/daiane-cristina-borba/"
+permalink: "/banca-tcc/tccs/2020-1-daiane-cristina-borba/"
 ---
 
 #### **PESQUISA SOBRE A MELHORIA DE PROCESSO DE SOFTWARE NAS EMPRESAS DE DESENVOLVIMENTO DO ALTO VALE DO ITAJAÍ - SC**

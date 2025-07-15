@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/euler-giachini/"
+permalink: "/banca-tcc/tccs/2019-1-euler-giachini/"
 ---
 
 #### **HANSE: UM JOGO DIGITAL DE AVENTURA PARA O APRENDIZADO DE HISTÓRIA SOBRE A COLONIZAÇÃO DE IBIRAMA**

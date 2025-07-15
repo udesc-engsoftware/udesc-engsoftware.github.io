@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/wagner-luis-souza-da-luz/"
+permalink: "/banca-tcc/tccs/2019-2-wagner-luis-souza-da-luz/"
 ---
 
 #### **DESIGN THINKING NO PROCESSO DE INOVAÇÃO DO DESENVOLVIMENTO DE SOFTWARE: REVISÃO SISTEMÁTICA**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/wagner-luis-souza-da-luz/"
 <br>
 **Membros:** Fernando dos Santos e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1392][wlsl]
-
-[wlsl]: https://repositorio.udesc.br/handle/UDESC/1392
+**Link Repositório Institucional UDESC:** 

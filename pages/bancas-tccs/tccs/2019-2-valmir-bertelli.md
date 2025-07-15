@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/valmir-bertelli/"
+permalink: "/banca-tcc/tccs/2019-2-valmir-bertelli/"
 ---
 
 #### **ANÁLISE DO PERFIL PROFISSIONAL DOS ACADÊMICOS EGRESSOS DO CURSO DE BACHARELADO EM SISTEMAS DE INFORMAÇÃO DA UDESC - IBIRAMA**

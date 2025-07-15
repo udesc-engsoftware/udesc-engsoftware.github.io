@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/luis-felipe-da-silva/"
+permalink: "/banca-tcc/tccs/2023-2-luis-felipe-da-silva/"
 ---
 
 #### **MISTERIOUS CHASE: UM JOGO SÉRIO PARA AUXILIAR O ENSINO DE FÍSICA APLICADA EM BURACOS NEGROS PARA ALUNOS DO ENSINO MÉDIO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/luis-felipe-da-silva/"
 <br>
 **Membros:** Pablo Schoeffel e Marcelo da Silva Hounsell
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1418][lfs]
-
-[lfs]: https://repositorio.udesc.br/handle/UDESC/1418
+**Link Repositório Institucional UDESC:** 

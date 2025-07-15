@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/marcos-rufino-de-camargo/"
+permalink: "/banca-tcc/tccs/2019-2-marcos-rufino-de-camargo/"
 ---
 
 #### **APLICATIVO PARA AUXILIAR A COMUNICAÇÃO DE INDIVÍDUOS AUTISTAS**
@@ -29,7 +29,4 @@ permalink: "/banca-tcc/tccs/marcos-rufino-de-camargo/"
 <br>
 **Membros:** Tiago Luiz Schmitz e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1389][mrc]
-
-
-[mrc]: https://repositorio.udesc.br/handle/UDESC/1389
+**Link Repositório Institucional UDESC:** 

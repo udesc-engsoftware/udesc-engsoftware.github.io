@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/paulo-henrique-rodrigues/"
+permalink: "/banca-tcc/tccs/2021-1-paulo-henrique-rodrigues/"
 ---
 
 #### **UMA SOLUÇÃO COMPUTACIONAL PARA CONTROLE PATRIMONIAL EM ORGÃO PÚBLICO COM TECNOLOGIA RFID**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/paulo-henrique-rodrigues/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15437][phr]
-
-[phr]: https://repositorio.udesc.br/handle/UDESC/15437
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15437

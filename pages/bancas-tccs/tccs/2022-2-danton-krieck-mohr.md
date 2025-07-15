@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/danton-krieck-mohr/"
+permalink: "/banca-tcc/tccs/2022-2-danton-krieck-mohr/"
 ---
 
 #### **DESENVOLVIMENTO DE UMA FERRAMENTA AUTOMATIZADA VOLTADA À ESTRUTURAÇÃO DE MARCAÇÃO DE INTERFACES WEB BASEADA NOS CRITÉRIOS DA WORLD WIDE WEB CONSORTIUM**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/danton-krieck-mohr/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18183][dkm]
-
-[dkm]: https://repositorio.udesc.br/handle/UDESC/18183
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18183

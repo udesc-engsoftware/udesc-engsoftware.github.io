@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/rafael-de-miranda/"
+permalink: "/banca-tcc/tccs/2021-1-rafael-de-miranda/"
 ---
 
 #### **FERRAMENTA DE AUDITORIA DE REALIDADE AUMENTADA PARA EDUCAÇÃO**
@@ -29,6 +29,4 @@ permalink: "/banca-tcc/tccs/rafael-de-miranda/"
 <br>
 **Membros:** Marília Guterres Ferreira e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15438][rm]
-
-[rm]: https://repositorio.udesc.br/handle/UDESC/15438
+**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15438

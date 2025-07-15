@@ -6,7 +6,7 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "banner-site-eso.png"
-permalink: "/banca-tcc/tccs/dener-thiago-ancini/"
+permalink: "/banca-tcc/tccs/2020-2-dener-thiago-ancini/"
 ---
 
 #### **SOFTWARE PARA GESTÃO DE PROTOCOLOS DE TESES EM ATLETAS DE TAEKWONDO**
