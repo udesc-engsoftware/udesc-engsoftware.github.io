@@ -20,7 +20,8 @@ document.addEventListener("DOMContentLoaded", function(){
                     .replace(/[^a-z0-9]+/g, "-") /* Substitui caracteres inválidos por hífen "-" */ 
                     .replace(/^-+|-+$/g, ""); /* Remove hífens no início e no final */
                 
-                const link_tcc = `/banca-tcc/tccs/${titulo_tcc}/`;
+
+                const link_tcc = `/banca-tcc/tccs/${semestre.replace("/", "-")}-${titulo_tcc}/`;
                 row[0] = `<a href="${link_tcc}" target="_blank">${titulo}</a>`;
 
                 return [row[0], nome, orientador, semestre];
