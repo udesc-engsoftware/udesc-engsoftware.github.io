@@ -6,7 +6,7 @@ subheadline: ""
 teaser: "Luíza Nürnberg foi uma das 130 finalistas entre mais de mil inscritas" 
 header: 
     image_fullwidth: "banner-site-eso.png" 
-    caption-url: "/curso/noticias/maratona_feminina_programacao/" 
+    caption-url: "/curso/noticias/maratona_feminina_programacao-resultado/" 
 
 image: 
    homepage: "/posts/2025-07-07-maratona-feminina-programacao/foto-luiza-campinas.jpg"
