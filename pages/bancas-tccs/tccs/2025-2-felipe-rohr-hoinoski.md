@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-felipe-rohr-hoinoski/"
 <br>
 **Membros:** Fernando dos Santos e Marcelo de Souza
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

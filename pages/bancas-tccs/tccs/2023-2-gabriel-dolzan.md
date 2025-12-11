@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-2-gabriel-dolzan/"
 <br>
 **Membros:** Pablo Schoeffel e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

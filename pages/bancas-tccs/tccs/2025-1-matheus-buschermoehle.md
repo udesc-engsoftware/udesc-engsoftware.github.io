@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-matheus-buschermoehle/"
 <br>
 **Membros:** Leandro Loffi e Juliano Tonizetti Brignoli
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

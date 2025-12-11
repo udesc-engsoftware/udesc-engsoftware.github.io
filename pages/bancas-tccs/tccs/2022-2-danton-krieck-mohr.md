@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-danton-krieck-mohr/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18183
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18183](https://repositorio.udesc.br/handle/UDESC/18183)

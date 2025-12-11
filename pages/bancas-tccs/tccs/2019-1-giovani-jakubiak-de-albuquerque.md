@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-1-giovani-jakubiak-de-albuquerque/"
 <br>
 **Membros:** Paolo Moser e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

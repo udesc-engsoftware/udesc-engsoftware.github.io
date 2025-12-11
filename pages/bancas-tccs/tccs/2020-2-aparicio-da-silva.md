@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-2-aparicio-da-silva/"
 <br>
 **Membros:** Fernando dos Santos e Geraldo Mengazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15193
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15193](https://repositorio.udesc.br/handle/UDESC/15193)

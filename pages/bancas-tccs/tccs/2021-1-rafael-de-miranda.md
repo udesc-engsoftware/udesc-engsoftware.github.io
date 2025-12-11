@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2021-1-rafael-de-miranda/"
 <br>
 **Membros:** Marília Guterres Ferreira e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15438
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15438](https://repositorio.udesc.br/handle/UDESC/15438)

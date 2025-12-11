@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-2-luciano-velho-garcia/"
 <br>
 **Membros:** Carlos Fernando Cruz e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15196
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15196](https://repositorio.udesc.br/handle/UDESC/15196)

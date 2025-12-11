@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-ana-fabia-coelho-dos-santos/"
 <br>
 **Membros:** Adilson Vahldick e Romário Duarte Sanches
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/22800](https://repositorio.udesc.br/handle/UDESC/22800)

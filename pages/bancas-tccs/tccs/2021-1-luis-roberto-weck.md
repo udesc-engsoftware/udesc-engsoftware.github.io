@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2021-1-luis-roberto-weck/"
 <br>
 **Membros:** Geraldo Menegazzo Varela e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15436
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15436](https://repositorio.udesc.br/handle/UDESC/15436)

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-raissa-duarte/"
 <br>
 **Membros:** Paulo Roberto Farah e Carlos Fernando Cruz
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/22821](https://repositorio.udesc.br/handle/UDESC/22821)

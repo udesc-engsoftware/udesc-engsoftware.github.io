@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-lucas-waterkemper-alberton/"
 <br>
 **Membros:** Marcelo de Souza e Carlos Fernando Cruz
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18193
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18193](https://repositorio.udesc.br/handle/UDESC/18193)

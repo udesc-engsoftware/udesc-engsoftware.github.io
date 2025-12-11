@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-rafael-fossa/"
 <br>
 **Membros:** Pablo Schoeffel e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

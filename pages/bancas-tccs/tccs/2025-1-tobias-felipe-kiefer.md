@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-tobias-felipe-kiefer/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/23286](https://repositorio.udesc.br/handle/UDESC/23286)

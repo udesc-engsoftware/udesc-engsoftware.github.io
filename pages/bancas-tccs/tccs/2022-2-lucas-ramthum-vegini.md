@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-lucas-ramthum-vegini/"
 <br>
 **Membros:** Carlos Alberto Barth e Pedro Sidnei Zanchett
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

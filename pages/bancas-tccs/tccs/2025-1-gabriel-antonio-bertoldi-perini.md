@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-gabriel-antonio-bertoldi-perini/"
 <br>
 **Membros:** Paulo Roberto Farah e Tiago Funk
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/23220](https://repositorio.udesc.br/handle/UDESC/23220)

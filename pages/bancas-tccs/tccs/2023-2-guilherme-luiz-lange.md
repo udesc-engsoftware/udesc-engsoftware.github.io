@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-2-guilherme-luiz-lange/"
 <br>
 **Membros:** Adilson Vahldick e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

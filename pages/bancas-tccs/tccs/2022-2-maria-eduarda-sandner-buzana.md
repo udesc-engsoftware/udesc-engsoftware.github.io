@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-maria-eduarda-sandner-buzana/"
 <br>
 **Membros:** Pablo Schoeffel e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18194
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18194](https://repositorio.udesc.br/handle/UDESC/18194)

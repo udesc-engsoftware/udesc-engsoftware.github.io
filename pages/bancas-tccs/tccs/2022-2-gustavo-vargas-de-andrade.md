@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-gustavo-vargas-de-andrade/"
 <br>
 **Membros:** Marcelo de Souza e Guilherme Linheira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18191
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18191](https://repositorio.udesc.br/handle/UDESC/18191)

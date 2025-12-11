@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-samuel-koepsel/"
 <br>
 **Membros:** Tiago Funk e Luiz Carlos Vieira
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2021-2-giancarlo-pandini/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17009
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17009](https://repositorio.udesc.br/handle/UDESC/17009)

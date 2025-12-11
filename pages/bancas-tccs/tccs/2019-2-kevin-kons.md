@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-2-kevin-kons/"
 <br>
 **Membros:** Tiago Luiz Schmitz e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/19143
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/19143](https://repositorio.udesc.br/handle/UDESC/19143)

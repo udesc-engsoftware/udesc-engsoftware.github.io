@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-andre-felipe-vigarani/"
 <br>
 **Membros:** Paulo Roberto Farah e Geraldo Meneazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/23507](https://repositorio.udesc.br/handle/UDESC/23507)

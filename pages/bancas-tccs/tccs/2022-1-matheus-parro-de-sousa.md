@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-1-matheus-parro-de-sousa/"
 <br>
 **Membros:** Pablo Schoeffel e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17016
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17016](https://repositorio.udesc.br/handle/UDESC/17016)

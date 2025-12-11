@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-2-davi-lemes-franz/"
 <br>
 **Membros:** Mattheus da Hora França e Carlos Fernando da Cruz
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

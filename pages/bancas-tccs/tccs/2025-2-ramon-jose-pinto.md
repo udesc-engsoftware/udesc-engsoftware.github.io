@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-ramon-jose-pinto/"
 <br>
 **Membros:** Paulo Roberto Farah e  Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24442
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24442](https://repositorio.udesc.br/handle/UDESC/24442)

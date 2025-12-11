@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-2-gustavo-rosa-lemes/"
 <br>
 **Membros:** Marino Luiz Eyerkaufer e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

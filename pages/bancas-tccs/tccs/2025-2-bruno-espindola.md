@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-bruno-espindola/"
 <br>
 **Membros:** Paulo Roberto Farah e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24305
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24305](https://repositorio.udesc.br/handle/UDESC/24305)

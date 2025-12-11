@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-1-leticia-resmine-durigon/"
 <br>
 **Membros:** Marília Guterres Ferreira e Fernando dos Santos
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-2-cristiano-arruda-flores/"
 <br>
 **Membros:** Tiago Luiz Schmitz e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

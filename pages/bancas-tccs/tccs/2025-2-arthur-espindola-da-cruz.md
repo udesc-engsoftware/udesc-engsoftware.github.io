@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-arthur-espindola-da-cruz/"
 <br>
 **Membros:** Marília Guterres Ferreira e  Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24002
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24002](https://repositorio.udesc.br/handle/UDESC/24002)

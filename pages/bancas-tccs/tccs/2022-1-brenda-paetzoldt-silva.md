@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-1-brenda-paetzoldt-silva/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17014
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17014](https://repositorio.udesc.br/handle/UDESC/17014)

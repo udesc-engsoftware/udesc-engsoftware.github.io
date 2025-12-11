@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-1-karolini-rosine-pereira/"
 <br>
 **Membros:** Fernando dos Santos e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

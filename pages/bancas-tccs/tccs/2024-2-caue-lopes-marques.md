@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-2-caue-lopes-marques/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-2-angelina-machado-de-siqueira/"
 <br>
 **Membros:** Marília Guterres Ferreira e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

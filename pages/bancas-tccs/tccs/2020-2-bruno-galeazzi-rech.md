@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-2-bruno-galeazzi-rech/"
 <br>
 **Membros:** Rita Cristina Galarraga Berardi - UTFPR e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15194
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15194](https://repositorio.udesc.br/handle/UDESC/15194)

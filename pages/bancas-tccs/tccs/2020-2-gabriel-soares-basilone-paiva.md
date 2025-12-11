@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-2-gabriel-soares-basilone-paiva/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15200
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15200](https://repositorio.udesc.br/handle/UDESC/15200)

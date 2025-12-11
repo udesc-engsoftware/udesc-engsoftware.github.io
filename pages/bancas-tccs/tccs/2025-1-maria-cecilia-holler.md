@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-maria-cecilia-holler/"
 <br>
 **Membros:** Marília Guterres Ferreira e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/22794](https://repositorio.udesc.br/handle/UDESC/22794)

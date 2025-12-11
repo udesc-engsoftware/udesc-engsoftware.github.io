@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-nathalia-acordi-da-silva/"
 <br>
 **Membros:** Marília Guterres Ferreira e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24708
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24708](https://repositorio.udesc.br/handle/UDESC/24708)

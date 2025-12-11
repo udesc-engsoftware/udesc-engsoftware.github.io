@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-rodrigo-martinez-tanchela/"
 <br>
 **Membros:** Tiago Funk e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

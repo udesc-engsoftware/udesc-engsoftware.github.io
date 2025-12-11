@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-2-douglas-felipe-bussmann-siedschlag/"
 <br>
 **Membros:** Pablo Schoeffel e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

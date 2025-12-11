@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-2-valmir-bertelli/"
 <br>
 **Membros:** Geraldo Menegazzo Varela e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

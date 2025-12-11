@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-1-rafael-tenfen/"
 <br>
 **Membros:** Tiago José Schimitz e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

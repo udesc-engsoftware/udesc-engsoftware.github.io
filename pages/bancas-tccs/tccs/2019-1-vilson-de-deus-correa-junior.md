@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-1-vilson-de-deus-correa-junior/"
 <br>
 **Membros:** Paolo Moser e Fernando dos Santos
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

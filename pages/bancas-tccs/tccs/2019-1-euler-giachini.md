@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-1-euler-giachini/"
 <br>
 **Membros:** Marília Guterres Ferreira e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

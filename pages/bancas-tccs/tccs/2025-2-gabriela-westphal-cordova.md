@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-gabriela-westphal-cordova/"
 <br>
 **Membros:** Mattheus da Hora França e Luis Carlos Vieira
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

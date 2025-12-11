@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-mariana-lino-da-silva/"
 <br>
 **Membros:** Mattheus da Hora França e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/23221](https://repositorio.udesc.br/handle/UDESC/23221)

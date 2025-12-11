@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-nicolas-macedo-debacher/"
 <br>
 **Membros:** Carlos Alberto Barth e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/22795](https://repositorio.udesc.br/handle/UDESC/22795)

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-1-fabio-frare/"
 <br>
 **Membros:** Paulo Roberto Farah e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-2-andre-luiz-cordeiro-games/"
 <br>
 **Membros:** Paolo Moser e Scheila Patrícia de Borba Curry
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

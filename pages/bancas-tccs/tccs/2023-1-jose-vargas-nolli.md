@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-1-jose-vargas-nolli/"
 <br>
 **Membros:** Marcelo de Souza e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

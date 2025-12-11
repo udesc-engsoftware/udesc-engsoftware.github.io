@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-ricardo-augusto-dos-santos-wegner/"
 <br>
 **Membros:** Pablo Schoeffel e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/22796](https://repositorio.udesc.br/handle/UDESC/22796)

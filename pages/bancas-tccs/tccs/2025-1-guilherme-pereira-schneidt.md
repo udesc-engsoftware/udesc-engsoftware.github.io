@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-guilherme-pereira-schneidt/"
 <br>
 **Membros:** Paulo Roberto Farah e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

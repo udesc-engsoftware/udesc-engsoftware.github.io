@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-denilson-laucsen-da-rosa/"
 <br>
 **Membros:** Paolo Moser e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18184
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18184](https://repositorio.udesc.br/handle/UDESC/18184)

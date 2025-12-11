@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2021-2-rodrigo-valle/"
 <br>
 **Membros:** Mattheus da Hora França e Vaniele Weinrich Stuepp
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/17010
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/17010](https://repositorio.udesc.br/handle/UDESC/17010)

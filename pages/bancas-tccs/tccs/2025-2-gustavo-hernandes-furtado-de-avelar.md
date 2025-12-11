@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-gustavo-hernandes-furtado-de-avelar/"
 <br>
 **Membros:** Marília Guterres Ferreira E  Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24609
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24609](https://repositorio.udesc.br/handle/UDESC/24609)

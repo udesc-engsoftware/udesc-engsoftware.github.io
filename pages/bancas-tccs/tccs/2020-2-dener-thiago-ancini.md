@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-2-dener-thiago-ancini/"
 <br>
 **Membros:** Fernando dos Santos e Geraldo Mengazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

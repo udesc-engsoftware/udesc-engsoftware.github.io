@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-thiago-farias/"
 <br>
 **Membros:** Marco Aurélio Butzke e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18198
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18198](https://repositorio.udesc.br/handle/UDESC/18198)

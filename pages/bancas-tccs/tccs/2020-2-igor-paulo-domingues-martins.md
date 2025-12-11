@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-2-igor-paulo-domingues-martins/"
 <br>
 **Membros:** Pablo Schoeffel e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15202
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15202](https://repositorio.udesc.br/handle/UDESC/15202)

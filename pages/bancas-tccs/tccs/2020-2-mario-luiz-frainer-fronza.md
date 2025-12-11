@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-2-mario-luiz-frainer-fronza/"
 <br>
 **Membros:** Adilson Vahldick e Ricardo Grunitzki
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15205
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15205](https://repositorio.udesc.br/handle/UDESC/15205)

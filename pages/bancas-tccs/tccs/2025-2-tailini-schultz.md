@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-tailini-schultz/"
 <br>
 **Membros:** Adilson Vahldick e  Tiago Funk
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24707
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24707](https://repositorio.udesc.br/handle/UDESC/24707)

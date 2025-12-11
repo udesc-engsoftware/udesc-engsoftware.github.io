@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-breno-jose-coelho/"
 <br>
 **Membros:** Carlos Alberto Barth e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

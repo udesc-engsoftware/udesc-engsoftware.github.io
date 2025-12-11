@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-1-ewerton-wandalen/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

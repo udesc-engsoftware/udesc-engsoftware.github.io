@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-2-carlos-alexandre-barth/"
 <br>
 **Membros:** Marília Guterres Ferreira e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

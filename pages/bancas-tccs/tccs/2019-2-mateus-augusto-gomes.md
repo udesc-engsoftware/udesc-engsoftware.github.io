@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-2-mateus-augusto-gomes/"
 <br>
 **Membros:** Carlos Alberto Barth e Pablo Schoeffel
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-1-joao-elias-engelbrecht-kayser/"
 <br>
 **Membros:** Pablo Schoeffel e Mattheus da Hora França
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

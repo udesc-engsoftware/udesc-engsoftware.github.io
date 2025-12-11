@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-2-mateus-gabardo-lemos/"
 <br>
 **Membros:** Adilson Vahldick e Paulo Roberto Farah
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

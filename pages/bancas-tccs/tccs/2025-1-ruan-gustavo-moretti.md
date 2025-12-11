@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-ruan-gustavo-moretti/"
 <br>
 **Membros:** Mattheus da Hora França e Eduardo Sthanke
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/23222](https://repositorio.udesc.br/handle/UDESC/23222)

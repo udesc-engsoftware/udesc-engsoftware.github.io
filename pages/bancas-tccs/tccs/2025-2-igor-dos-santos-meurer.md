@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-igor-dos-santos-meurer/"
 <br>
 **Membros:** Marília Guterres Ferreira e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24746
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24746](https://repositorio.udesc.br/handle/UDESC/24746)

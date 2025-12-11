@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-1-luiza-nurnberg/"
 <br>
 **Membros:** Mattheus da Hora França e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/22793](https://repositorio.udesc.br/handle/UDESC/22793)

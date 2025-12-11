@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-victor-hugo-grabowski-beltramini/"
 <br>
 **Membros:** Paulo Roberto Farah e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

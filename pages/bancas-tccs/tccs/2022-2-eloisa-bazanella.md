@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-eloisa-bazanella/"
 <br>
 **Membros:** Marília Guterres Ferreira e Adilson Vahldick
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/18189
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/18189](https://repositorio.udesc.br/handle/UDESC/18189)

@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2020-1-daiane-cristina-borba/"
 <br>
 **Membros:** Pablo Schoeffel e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

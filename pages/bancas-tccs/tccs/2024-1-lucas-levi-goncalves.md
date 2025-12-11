@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-1-lucas-levi-goncalves/"
 <br>
 **Membros:** Rodrigo Ramos Nogueira e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

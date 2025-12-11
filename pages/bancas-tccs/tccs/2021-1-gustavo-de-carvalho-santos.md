@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2021-1-gustavo-de-carvalho-santos/"
 <br>
 **Membros:** Carlos Alberto Barth e Marília Guterres Ferreira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/15435
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/15435](https://repositorio.udesc.br/handle/UDESC/15435)

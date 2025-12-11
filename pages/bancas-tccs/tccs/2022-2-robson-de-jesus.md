@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2022-2-robson-de-jesus/"
 <br>
 **Membros:** Geraldo Menegazzo Varelo e Fernando dos Santos
 <br>
-**Link Repositório Institucional UDESC:** 
+**Link Repositório Institucional UDESC:** []()

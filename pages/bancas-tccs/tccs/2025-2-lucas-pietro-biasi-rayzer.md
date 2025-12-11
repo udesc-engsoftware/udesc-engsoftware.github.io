@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-lucas-pietro-biasi-rayzer/"
 <br>
 **Membros:** Marcelo de Souza e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24441
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24441](https://repositorio.udesc.br/handle/UDESC/24441)

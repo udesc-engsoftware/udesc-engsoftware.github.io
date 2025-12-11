@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-lucas-da-cunha-rodrigues/"
 <br>
 **Membros:** Paulo Roberto Farah e  Luiz Carlos Vieira
 <br>
-**Link Repositório Institucional UDESC:** https://repositorio.udesc.br/handle/UDESC/24641
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24641](https://repositorio.udesc.br/handle/UDESC/24641)
