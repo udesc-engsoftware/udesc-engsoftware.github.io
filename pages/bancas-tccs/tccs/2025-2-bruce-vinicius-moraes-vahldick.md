@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-bruce-vinicius-moraes-vahldick/"
 <br>
 **Membros:** Mattheus da Hora França e  Rodrigo Ramos Nogueira
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24901](https://repositorio.udesc.br/handle/UDESC/24901)

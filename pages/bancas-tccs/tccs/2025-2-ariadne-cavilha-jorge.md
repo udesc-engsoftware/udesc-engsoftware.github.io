@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-ariadne-cavilha-jorge/"
 <br>
 **Membros:** Raul Sidnei Wazlawick e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24861](https://repositorio.udesc.br/handle/UDESC/24861)

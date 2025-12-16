@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-luiz-fernando-de-jesus-portela/"
 <br>
 **Membros:** Carlos Alberto Barth e Marcelo de Souza
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24894](https://repositorio.udesc.br/handle/UDESC/24894)

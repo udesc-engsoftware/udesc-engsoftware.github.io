@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-lucas-de-castro-lima-teixeira/"
 <br>
 **Membros:** Mattheus da Hora França e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24875](https://repositorio.udesc.br/handle/UDESC/24875)

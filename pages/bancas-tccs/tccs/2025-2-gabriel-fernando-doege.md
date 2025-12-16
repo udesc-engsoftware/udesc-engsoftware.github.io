@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2025-2-gabriel-fernando-doege/"
 <br>
 **Membros:** Carlos Alberto Barth  e Carlos Fernando Cruz
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/24823](https://repositorio.udesc.br/handle/UDESC/24823)
