@@ -65,4 +65,4 @@ Na galeria abaixo você pode fazer o download da logomarca, em diferentes versõ
 <i>Wallpapers</i> do curso estão disponíveis [nesta página][wallpapers]
 
 
-[wallpapers]: {{site.url}}/curso/wallpapers/
+[wallpapers]: {{site.url}}/curso/wallpapers
