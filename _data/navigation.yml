@@ -1,0 +1,71 @@
+- title: Início
+  url: "/"
+  side: left
+
+- title: "Ensino"
+  side: left
+  dropdown:
+  - title: "Sobre o Curso"
+    url: "/ensino/sobre/"
+  - title: "Perfil profissional"
+    url: "/ensino/perfil-profissional/"
+  - title: "Atuação profissional"
+    url: "/ensino/atuacao-profissional/"
+  - title: "Matriz curricular"
+    url: "/ensino/matriz-curricular/"
+  - title: "Projeto Pedagógico"
+    url: "/ensino/projeto-pedagogico/"
+  - title: "Trabalho de Conclusão de Curso"
+    url: "/banca-tcc/consulta-tcc"
+  - title: "Estágio Curricular"
+    url: "/ensino/estagio" 
+  - title: "Laboratórios"
+    url: "/ensino/laboratorios/"
+  - title: "Coordenação"
+    url: "/ensino/coordenacao/"
+  - title: "Legislação"
+    url: "/ensino/legislacao/"
+
+- title: "Pesquisa"
+  side: left
+  dropdown:
+  - title: "Sobre a Pesquisa"
+    url: "/pesquisa/sobre"
+  - title: "Grupos"
+    url: "/pesquisa/grupos"
+  - title: "Projetos"
+    url: "/pesquisa/projetos"
+  - title: "Laboratórios"
+    url: "/pesquisa/laboratorios"
+
+- title: "Extensão"
+  side: left
+  dropdown:
+  - title: "Sobre a Extensão"
+    url: "/extensao/sobre"
+  - title: "Programas e Projetos"
+    url: "/extensao/projetos"
+  - title: "Laboratórios"
+    url: "/extensao/laboratorios"
+
+- title: "Pessoas"
+  side: left
+  dropdown:
+    - title: "Professores"
+      url: "/professores/"
+    - title: "Técnicos Administrativos"
+      url: "/tecnicos/"
+    - title: "Bolsistas"
+      url: "/bolsistas/"
+
+- title: "Notícias"
+  url: "/curso/noticias"
+  side: left
+
+- title: "Logomarca"
+  url: "/curso/logomarca"
+  side: left
+
+- title: "Contato"
+  url: "/contato/"
+  side: right
