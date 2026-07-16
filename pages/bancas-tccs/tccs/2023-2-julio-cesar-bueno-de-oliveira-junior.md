@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-2-julio-cesar-bueno-de-oliveira-junior/"
 <br>
 **Membros:** Marília Guterres Ferreira e Gerlado Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1417](https://repositorio.udesc.br/handle/UDESC/1417)

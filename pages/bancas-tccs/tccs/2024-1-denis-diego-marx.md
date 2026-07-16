@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-1-denis-diego-marx/"
 <br>
 **Membros:** Pedro Sidnei Zanchett e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20613](https://repositorio.udesc.br/handle/UDESC/20613)

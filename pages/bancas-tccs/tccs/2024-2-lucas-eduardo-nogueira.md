@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-2-lucas-eduardo-nogueira/"
 <br>
 **Membros:** Mattheus da Hora França e Geraldo Menegazzo Varela
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20622](https://repositorio.udesc.br/handle/UDESC/20622)

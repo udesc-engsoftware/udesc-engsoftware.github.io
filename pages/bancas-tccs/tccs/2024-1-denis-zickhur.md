@@ -9,7 +9,7 @@ header:
 permalink: "/banca-tcc/tccs/2024-1-denis-zickhur/"
 ---
 
-#### **UM JOGO SÉRIO DIGITAL PARA O APRENDIZADO DE BIOLOGIA CELULAR PARA O PRIMEIRO ANO DE ENSINO MÉDIO**
+#### **Celldoctor: inside the cell: um jogo sério digital para o aprendizado de biologia celular para o primeiro ano de ensino médio**
 <br>
 **Aluno(a):** Denis Zickhur
 <br>
@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2024-1-denis-zickhur/"
 <br>
 **Membros:** Pablo Schoeffel e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/20614](https://repositorio.udesc.br/handle/UDESC/20614)

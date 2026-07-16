@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2023-2-matheus-coelho-nosse/"
 <br>
 **Membros:** Marília Guterres Ferreira e Carlos Alberto Barth
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1419](https://repositorio.udesc.br/handle/UDESC/1419)

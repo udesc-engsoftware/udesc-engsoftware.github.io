@@ -29,4 +29,4 @@ permalink: "/banca-tcc/tccs/2019-2-douglas-de-souza-martins/"
 <br>
 **Membros:** Marília Guterres Ferreira e Paolo Moser
 <br>
-**Link Repositório Institucional UDESC:** []()
+**Link Repositório Institucional UDESC:** [https://repositorio.udesc.br/handle/UDESC/1361](https://repositorio.udesc.br/handle/UDESC/1361)
